@@ -6,7 +6,7 @@ what was changed, why, and what effect was measured.
 
 Everything runs as Jupyter notebooks on a free Kaggle instance with **2× NVIDIA T4 (16 GB)**.
 
-- Technical report: [`docs/technical_report.md`](docs/technical_report.md)
+- Technical report: [`docs/technical_report.pdf`](docs/technical_report.pdf) (source: [`docs/technical_report.md`](docs/technical_report.md))
 - Presentation: [`docs/presentation.pptx`](docs/presentation.pptx)
 
 ## Results at a glance
@@ -53,6 +53,7 @@ Final comparison on **1,000 held-out test images** (never used for any decision)
 │   ├── E3/                             LoRA adapter of the best 2k-image run
 │   └── E8/                             LoRA adapter of the final model
 └── docs/
+    ├── technical_report.pdf
     ├── technical_report.md
     └── presentation.pptx
 ```
