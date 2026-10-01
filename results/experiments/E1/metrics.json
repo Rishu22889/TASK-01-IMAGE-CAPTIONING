@@ -1,0 +1,37 @@
+{
+  "config": {
+    "model": "Qwen/Qwen2.5-VL-3B-Instruct",
+    "train_samples": 2000,
+    "val_samples": 200,
+    "epochs": 1,
+    "batch_size": 1,
+    "learning_rate": 5e-05,
+    "lora_r": 16,
+    "lora_alpha": 32,
+    "lora_dropout": 0.05,
+    "min_pixels": 50176,
+    "max_pixels": 313600
+  },
+  "training": [
+    {
+      "epoch": 1,
+      "train_loss": 1.586982653260231,
+      "val_loss": 1.4900205919146539,
+      "epoch_time_min": 47.265217560399996,
+      "peak_gpu_memory_gb": 14.279452323913574
+    }
+  ],
+  "metrics": {
+    "BLEU-1": 39.97300424219051,
+    "BLEU-2": 23.46385070793638,
+    "BLEU-3": 14.102410059879562,
+    "BLEU-4": 8.904000344062721,
+    "BERT_SCORE_F1": 44.2124217748642,
+    "METEOR": 32.6172900708238,
+    "ROUGE-L": 33.19763173153069
+  },
+  "caption_length": {
+    "avg_prediction_words": 51.86,
+    "avg_reference_words": 47.96
+  }
+}

@@ -1,0 +1,1002 @@
+[
+ {
+  "image_id": "P1386_0046.png",
+  "reference": "This high-resolution image provided by GoogleEarth features a maritime scene where a small ship is visible in the top-right area surrounded by the texture of water and other indistinct land or water features.",
+  "prediction": "The high-resolution image from GoogleEarth features a landscape with a large baseball diamond located at the bottom-left of the frame. The diamond is surrounded by greenery and trees, indicating a park or recreational area."
+ },
+ {
+  "image_id": "06599_0000.png",
+  "reference": "The image, sourced from GoogleEarth, shows a landscape with a mix of urban and recreational areas. Part of the area is covered by a golf course with distinct fairways and greens, located at the top-right side and occupying a significant portion of the image. To the left and closer to the top, there's a smaller baseball field with an identifiable diamond shape and a lighter patch that indicates the infield. The surrounding region comprises industrial buildings with large warehouse structures, roads, and a residential area with numerous houses to the northwest of the baseball field.",
+  "prediction": "The image, sourced from GoogleEarth, shows an airport with a distinctive layout featuring multiple runways and taxiways. The airport is surrounded by various buildings and green spaces."
+ },
+ {
+  "image_id": "10335_0000.png",
+  "reference": "The image from Google Earth displays a baseball complex with two baseball fields. To the left-hand side, there is the bottom-most baseball field, which is slightly smaller in size compared to the second field. The right-hand side features the top-most baseball field, which appears larger and is positioned on the upper side of the image frame.",
+  "prediction": "The aerial image from GoogleEarth shows a baseball field with a distinctive diamond shape and surrounding greenery. The field is located in an open area with some trees nearby."
+ },
+ {
+  "image_id": "10516_0000.png",
+  "reference": "This aerial image from Google Earth shows a landscape featuring a bridge spanning over a water body at the bottom. There are no clear indications of any other distinguishable objects such as vehicles or buildings in this section of the image.",
+  "prediction": "The image, sourced from GoogleEarth, features a bridge spanning across a body of water with a brownish hue. The bridge is positioned at the bottom part of the image and connects two land masses."
+ },
+ {
+  "image_id": "P1332_0018.png",
+  "reference": "The high-resolution grayscale image provided by GF features a single ship located in the middle-right section of the frame. The ship is small in size and it's the only clear object visible against the surrounding water.",
+  "prediction": "The high-resolution grayscale image provided by JL features a single ship located towards the top-middle of the frame. The ship is distinguishable against the dark background, with its outline clearly visible."
+ },
+ {
+  "image_id": "P2701_0032.png",
+  "reference": "The high-resolution image from GoogleEarth features a waterfront scene with two ships and two harbors. One ship is positioned closer to the middle right of the scene, while another is more centrally located. The harbors are seen at the top and bottom edges of the image, with one of them being at the uppermost part and the other at the bottommost part.",
+  "prediction": "The high-resolution image from GoogleEarth features a large harbor with a distinct rectangular shape, surrounded by water on all sides. Within the harbor, there is a single ship located towards the center of the image. The ship is relatively small compared to the size of the harbor and is positioned near the bottom edge of the harbor's boundary."
+ },
+ {
+  "image_id": "11442_0000.png",
+  "reference": "An aerial view from GoogleEarth showing a section of highway with an overpass and four vehicles. There are trees on either side of the roads, and one overpass intersects the highway from left to right. The vehicles are scattered on the roads, with one on the highway and three on the overpass.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of a highway with multiple lanes and vehicles. There is one large vehicle located at the top-middle part of the image, and another small vehicle positioned towards the bottom-left corner. The surrounding area includes greenery on both sides of the road."
+ },
+ {
+  "image_id": "08656_0000.png",
+  "reference": "The aerial image provided by GoogleEarth shows a section of a residential area with roads and vehicles. An intersection can be seen with a vehicle on the left side placed on the outer part of the curve and one vehicles in the image is located on the bottom road. There are patches of green space, a large shadow cast by a tree, and a parking lot on the right.",
+  "prediction": "The aerial image from GoogleEarth shows a section of an urban area with a small vehicle on the road. The vehicle is positioned near the top-left corner of the image, and there is a grassy area adjacent to the road."
+ },
+ {
+  "image_id": "11258_0000.png",
+  "reference": "The satellite image provided by GoogleEarth features an industrial scene with several small storage tanks and infrastructure. The tanks vary in size and are positioned at different corners of the image. One tank is located in the top-right of the image, while two tanks are situated towards the bottom.",
+  "prediction": "The image, sourced from GoogleEarth, shows an industrial area with several large storage tanks and a small vehicle. The tanks are arranged in a row along the right side of the image, with varying sizes and orientations. The small vehicle is located towards the bottom-left corner of the image."
+ },
+ {
+  "image_id": "10106_0000.png",
+  "reference": "This aerial image provided by GoogleEarth shows a green space with a baseball field in the right portion of the image. The baseball field features a diamond shape typically seen in such sports facilities, with a dirt infield and surrounding grassy areas.",
+  "prediction": "The high-resolution image from GoogleEarth features a large green field with a baseball diamond located at the bottom-right corner of the frame. The baseball diamond is surrounded by a grassy area, and there are trees visible on the left side of the field."
+ },
+ {
+  "image_id": "09071_0000.png",
+  "reference": "The image from GoogleEarth features an aerial view of a landscape, with a baseball field among grass-covered areas and dirt patches.",
+  "prediction": "The image, sourced from GoogleEarth, shows a small baseball diamond located in the middle-left area of the frame. The diamond is surrounded by open fields and has a distinct infield dirt area with bases clearly marked."
+ },
+ {
+  "image_id": "P2791_0055.png",
+  "reference": "The high-resolution image provided by GoogleEarth features an airport setting with a small, distinct plane located on the tarmac. The plane occupies a noticeable portion of the tarmac. Surrounding the plane, the concrete surface is visible along with adjacent grassy areas.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an airport with a single plane visible on the tarmac. The plane is positioned towards the top of the frame, with its wings and body clearly distinguishable against the ground."
+ },
+ {
+  "image_id": "P0019_0065.png",
+  "reference": "This high-resolution image provided by GoogleEarth shows a well-maintained landscape with a body of water on one side. A small-sized ship is docked at the edge of the water. Surrounding the area are patches of trees and grass, a house near the center of the image, and a driveway leading to the house.",
+  "prediction": "The high-resolution image from GoogleEarth shows a landscape with a large field on the right side, surrounded by greenery and a few structures. There is a small vehicle located towards the middle-right of the image, positioned near the edge of the field."
+ },
+ {
+  "image_id": "P1147_0073.png",
+  "reference": "A high-resolution image from GoogleEarth shows a small airplane located on a tarmac with visible markings on the ground.",
+  "prediction": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+ },
+ {
+  "image_id": "P1376_0025.png",
+  "reference": "The high-resolution image sourced from GoogleEarth captures a portion of an airport tarmac with a small blue plane and a few service vehicles visible. The tarmac is composed of large square tiles, and the plane is parked such that part of its body extends beyond the displayed image area.",
+  "prediction": "The high-resolution image from GoogleEarth shows a large airplane on a tarmac. The plane is positioned towards the right side of the frame, with its body stretching across the majority of the image's width."
+ },
+ {
+  "image_id": "05920_0000.png",
+  "reference": "This aerial image from Google Earth shows a well-organized landscape with various sports fields and infrastructures. A series of baseball fields are visible, each marked with a distinct diamond shape located in the bottom right quadrant. Additionally, there is a small ground track field toward the bottom center of the image, identifiable by its oval shape and a smaller, rectangular bridge is also present, positioned slightly below the center of the image. The presence of water bodies and clusters of residential areas with curved road designs enhances the structured look of the locality.",
+  "prediction": "The image, sourced from GoogleEarth, features a suburban area with a mix of residential and commercial buildings. A small ground track field is located at the bottom-right corner of the image, surrounded by greenery and a few buildings."
+ },
+ {
+  "image_id": "P1283_0017.png",
+  "reference": "The image depicts a high-resolution grayscale aerial view sourced from GF, showcasing a landscape with an identifiable roundabout. The roundabout is surrounded by terrain. There is no visible urban infrastructure or dense housing.",
+  "prediction": "The grayscale aerial image provided by GF features a medium resolution view of a golf course with distinct fairways and greens surrounded by trees. The course is marked by several sand traps, with one located towards the bottom-middle of the image."
+ },
+ {
+  "image_id": "09252_0000.png",
+  "reference": "The image from GoogleEarth shows a section of road infrastructure including two overpasses and some vehicles. The left-most overpass is smaller in size. The right-most overpass is larger and positioned on the right side of the frame. There are two vehicles captured on the road; they are situated at the center of the image, with one white vehicle appearing in the top part of the road and the other in the bottom part.",
+  "prediction": "The image, sourced from GoogleEarth, shows an aerial view of a section of a highway with multiple lanes and a roundabout. There is one small vehicle located at the bottom-middle part of the image, positioned on the road adjacent to the roundabout."
+ },
+ {
+  "image_id": "P0179_0051.png",
+  "reference": "The image sourced from GoogleEarth presents a high-resolution view of an area featuring buildings and vehicles. There are two small vehicles captured in the scene, with one positioned towards the bottom left corner and the other towards the top right corner of the image, near warehouses with large flat roofs.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an industrial area with buildings and a road. There is one small vehicle located at the top-right corner of the image, parked on the side of the road."
+ },
+ {
+  "image_id": "10094_0000.png",
+  "reference": "The satellite image from GoogleEarth shows a region with two expressway service areas and a bridge. The service areas and the bridge are amidst a terrain with visible greenery suggesting vegetated surroundings. The first expressway service area is located centrally at the top, while the second one is positioned centrally at the bottom. There is a small bridge on the middle-left side of the image.",
+  "prediction": "The image, sourced from GoogleEarth, features a landscape with a bridge crossing over a body of water. The bridge is situated in the middle-left section of the image and connects two land masses. Surrounding the bridge, there are patches of greenery and some undeveloped areas."
+ },
+ {
+  "image_id": "06488_0000.png",
+  "reference": "This is an aerial image from GoogleEarth depicting a rural area with a storage tank visible in the bottom-right corner. The terrain is mostly barren with some patches of greenery and a curved dirt road adjacent to the storage tank. There are no buildings or other infrastructure immediately visible in the vicinity of the storage tank.",
+  "prediction": "The image, sourced from GoogleEarth, features a large ground track field with a distinctive oval shape. The track is surrounded by a barren landscape with sparse vegetation and a few small structures nearby."
+ },
+ {
+  "image_id": "P2571_0002.png",
+  "reference": "The aerial image sourced from GoogleEarth displays high-resolution details that include two distinct tennis courts. The first court, positioned at the middle right of the image, is the court with a smaller area compared to the other. The second court, partially cropped at the top edge of the image, appears to be with a larger overall area. Surrounding the courts are areas with dense vegetation, a variety of buildings with different roof colors, and parked cars adjacent to the buildings.",
+  "prediction": "The high-resolution image from GoogleEarth shows a landscape with two tennis courts and a small vehicle. The tennis courts are positioned at the top-right and bottom-right of the image, with the bottom-most court being larger than the top-most one. A small vehicle is located towards the left side of the image, near the bottom edge."
+ },
+ {
+  "image_id": "08180_0000.png",
+  "reference": "The image, sourced from GoogleEarth, displays an expressway service area located within an agricultural landscape. Specific details include small patches of land used for farming surrounding the area, as well as a contiguous forested region. The expressway service area is characterized by an open, unpaved space with structures associated with roadway support functions.",
+  "prediction": "The high-resolution image from GoogleEarth shows a rural landscape with fields, trees, and a small train station located at the bottom-right corner of the frame. The train station is surrounded by agricultural land and has a distinct structure with a roof."
+ },
+ {
+  "image_id": "P4151_0082.png",
+  "reference": "This is a high-resolution aerial image featuring a city block with several elements. There is a road that cuts across the image, marked with pedestrian crossings and lined by trees. On this road, a few small vehicles are visible. Some buildings with similar architectural designs flank the road on one side. Shadow patterns indicate the presence of a strong light source.",
+  "prediction": "The aerial image captures an urban scene with a variety of elements including buildings, trees, and vehicles. There is a small vehicle located at the bottom-right corner of the image."
+ },
+ {
+  "image_id": "07176_0000.png",
+  "reference": "The image sourced from GoogleEarth displays a cluster of basketball courts with painted boundary lines and baskets visible. There are two clearly delineated courts captured in this overhead photo.",
+  "prediction": "The image, sourced from GoogleEarth, shows two basketball courts positioned side by side on a paved surface. The courts have distinct markings and are surrounded by a grassy area."
+ },
+ {
+  "image_id": "07345_0000.png",
+  "reference": "The image sourced from GoogleEarth shows an area with tennis courts. There are two tennis courts visible, positioned adjacently within the frame.",
+  "prediction": "The image, sourced from GoogleEarth, shows two tennis courts adjacent to each other with a grassy area surrounding them. The courts have a rectangular shape and are marked with white lines indicating the playing areas."
+ },
+ {
+  "image_id": "07758_0000.png",
+  "reference": "The image, sourced from GoogleEarth, presents an aerial view of a train station. The train station spans from the bottom center to the right side of the image with a portion of its infrastructure extending off the frame. The surrounding area features roads, a variety of buildings, and green spaces. The station has multiple tracks, with at least one visible train situated on the tracks.",
+  "prediction": "The high-resolution image from GoogleEarth shows an urban area with a mix of buildings, roads, and rail tracks. There is a large vehicle located at the top-left corner of the image."
+ },
+ {
+  "image_id": "10551_0000.png",
+  "reference": "The image, sourced from Google Earth, displays a section of landscape featuring an expressway-toll station located at the bottom-right part of the frame. The toll station area includes dedicated lanes for vehicles, and there are visible infrastructural elements.",
+  "prediction": "The image, sourced from GoogleEarth, shows an aerial view of a section of a road with vehicles and structures. The road is lined with vehicles on both sides, and there are buildings adjacent to it."
+ },
+ {
+  "image_id": "P1103_0001.png",
+  "reference": "The high-resolution image from GoogleEarth features three small planes on a tarmac. Two of the planes are positioned with their bodies parallel to each other while the third is positioned at a different angle.",
+  "prediction": "The high-resolution image from GoogleEarth shows three planes on an airport tarmac. The planes are positioned at different locations, with one plane located towards the left side of the image and another towards the right side. The third plane is situated between these two, closer to the center of the image."
+ },
+ {
+  "image_id": "07033_0000.png",
+  "reference": "The image, sourced from GoogleEarth, presents an aerial view of two objects, with no specific resolution information provided. The image features one small airplane with a noticeable jet bridge attached to it.",
+  "prediction": "The high-resolution image from GoogleEarth shows a large airplane on a tarmac with a small vehicle located near its tail. The airplane is positioned diagonally across the frame, and the vehicle is situated towards the bottom right of the image."
+ },
+ {
+  "image_id": "P1234_0053.png",
+  "reference": "The high-resolution grayscale image from GF source features a variety of storage tanks and ships. There is a cluster of six small-sized storage tanks located towards the bottom right of the image. Additionally, there are two ships within the image; one is positioned towards the left-most part, while the other is at the bottom-most area of the image, making it distinct from the rest of the surroundings.",
+  "prediction": "The grayscale image provided by GF features medium resolution and displays an industrial area with storage tanks. There are four large spherical storage tanks visible, arranged in a grid-like pattern. The tanks are situated near a road that runs parallel to the bottom edge of the image."
+ },
+ {
+  "image_id": "11460_0000.png",
+  "reference": "The image sourced from GoogleEarth shows a large wind turbine with its blades extended is at the bottom-right area of the image.",
+  "prediction": "The image, sourced from GoogleEarth, features a landscape with a windmill located towards the bottom-right of the frame. The terrain is mostly barren with some visible tracks or roads."
+ },
+ {
+  "image_id": "11055_0000.png",
+  "reference": "This satellite image captured by GoogleEarth shows a portion of an airport with a single small airplane positioned at a boarding gate with its jet bridge extended towards the terminal.",
+  "prediction": "The high-resolution image from GoogleEarth shows a large airplane on an airport tarmac with visible markings and taxiways. The plane is positioned diagonally across the frame, with its wings spanning from the bottom left to the top right of the image."
+ },
+ {
+  "image_id": "06027_0000.png",
+  "reference": "The image from GoogleEarth shows a section of a straight road running east-west with two visible vehicles. The road has multiple lanes marked with white lines and arrows indicating direction of travel. On the lanes closest to the top of the image, there is a small dark-colored vehicle oriented horizontally. To the bottom, closer to the image edge, is another small vehicle, dark red in color.",
+  "prediction": "The aerial image captures a section of an urban area with a multi-lane road and a small vehicle positioned on it. The road is marked with lane dividers, and there are trees lining one side of the street. The vehicle is located near the bottom-middle of the image."
+ },
+ {
+  "image_id": "05930_0000.png",
+  "reference": "The satellite image, sourced from GoogleEarth, presents a baseball field adjacent to a road. The field has a distinct diamond shape, with the infield area consisting of dirt and the outfield covered in grass. There is a noticeable line marking on the grass, indicating field boundaries.",
+  "prediction": "The image, sourced from GoogleEarth, features a baseball field with a dirt infield and grass outfield. The field is surrounded by a green area with some patches of brown, indicating possible wear or maintenance. There are no visible players or spectators on the field."
+ },
+ {
+  "image_id": "09415_0000.png",
+  "reference": "This is a satellite image sourced from GoogleEarth featuring a basketball court with clear boundaries and markings. The court is surrounded by a grassy area. Near the top edge of the image, to the left, there is a small parking area with vehicles.",
+  "prediction": "The high-resolution image from GoogleEarth shows a basketball court with visible markings and a small vehicle parked near the top-left corner of the court. The court is surrounded by various structures, including buildings and parking areas."
+ },
+ {
+  "image_id": "P1471_0090.png",
+  "reference": "The high-resolution image from GoogleEarth shows an area with two distinct small vehicles. The vehicles are positioned at different points; one is towards the left and appears to be the topmost in its relative position.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an urban area with buildings and vehicles. There is one small vehicle located towards the bottom-middle of the image, positioned on a road or parking area."
+ },
+ {
+  "image_id": "06371_0000.png",
+  "reference": "This aerial image sourced from GoogleEarth features an open grassy area with a baseball field located centrally. The field has a distinct diamond shape with a brown dirt infield and green surroundings.",
+  "prediction": "The high-resolution image from GoogleEarth features a baseball field with a dirt infield and surrounding green grass. The field is surrounded by trees and has a walking path adjacent to it. There are no visible players or equipment on the field, indicating that it may not be in use at the moment."
+ },
+ {
+  "image_id": "P0420_0006.png",
+  "reference": "The high-resolution image sourced from Google Earth depicts a body of water with two small harbors. The left-most harbor is tucked near the shoreline. The top-most harbor is more centrally positioned, featuring a T-shaped dock extending into the water.",
+  "prediction": "The high-resolution image from GoogleEarth shows two harbors situated on a body of water. The first harbor is located towards the top-left part of the image, while the second harbor is positioned towards the top-right. Both harbors have a similar structure with elongated shapes extending into the water."
+ },
+ {
+  "image_id": "07598_0000.png",
+  "reference": "The image provided is sourced from GoogleEarth and does not include a specified resolution. The area features a golf course that is situated toward the bottom right section of the image.. Surrounding areas include sections that is agricultural fields based on their geometric division and color variation.",
+  "prediction": "The image, sourced from GoogleEarth, features a landscape with a mix of agricultural fields and natural terrain. There is one small storage tank located towards the bottom-left part of the image."
+ },
+ {
+  "image_id": "07481_0000.png",
+  "reference": "The satellite image captured from Google Earth presents a diverse urban area featuring a golf field, a bridge, and a ground track field. There is a bridge located in the top-right corner of the image. A small golf field can be seen that is mainly composed of greenery and surrounded by roads. Additionally, a small ground track field is visible, distinguishable by its oval shape and athletic tracks.",
+  "prediction": "The image, sourced from GoogleEarth, shows an urban area with a mix of residential and commercial buildings, surrounded by green spaces including a golf course. The golf course is located on the right side of the image, featuring well-maintained fairways and greens."
+ },
+ {
+  "image_id": "09493_0000.png",
+  "reference": "The image sourced from GoogleEarth showcases a parking area with a small number of vehicles and two visible buildings with dark rooftops. There are two distinct rows of parking spaces oriented vertically, with most spaces unoccupied. A total of five small vehicles are visible, two positioned at the bottom of the image, and the other three placed towards the top.",
+  "prediction": "The high-resolution image from GoogleEarth shows a parking area with several small vehicles parked along the edges of the lot. There are six visible vehicles, each positioned at different spots within the parking space. The vehicles vary in orientation and are spaced out across the parking area."
+ },
+ {
+  "image_id": "08692_0000.png",
+  "reference": "This aerial image from GoogleEarth showcases a small baseball field with a diamond shape, surrounded by lush green grass. Adjacent to the field, there's a small vehicle parked on the edge of a parking area. The image captures details such as the infield dirt, the bases, and the pitcher's mound, as well as the surrounding environment.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an area with a baseball field and a small vehicle. The baseball field is located towards the bottom right of the image, featuring a diamond shape with a green infield and a brown dirt pitcher's mound. Adjacent to the baseball field, there is a small vehicle positioned on the top left side of the image."
+ },
+ {
+  "image_id": "P1240_0045.png",
+  "reference": "The grayscale image has high resolution and captures a section of terrain with a mix of natural and constructed features. A distinctive roundabout is visible, integrated into the surrounding roads and adjacent to areas of dense foliage which indicate the presence of wooded areas.",
+  "prediction": "The grayscale image provided by GF features a medium resolution view of an area with various elements. Prominently, there is a roundabout located towards the top-middle part of the image."
+ },
+ {
+  "image_id": "08210_0000.png",
+  "reference": "The image from GoogleEarth depicts a small ship located in the top of the image on a body of water with no other vessels or landmarks visible in the vicinity.",
+  "prediction": "The image, sourced from GoogleEarth, features a large ship floating on a body of water. The ship is positioned towards the top-middle of the frame and is surrounded by a dark expanse of water."
+ },
+ {
+  "image_id": "11394_0000.png",
+  "reference": "The image from Google Earth features a portion of lush greenery adjacent to a sports area with a small basketball court. The court is marked with standard basketball lines and has a central circle and hoop.",
+  "prediction": "The image, sourced from GoogleEarth, features two basketball courts surrounded by greenery. The top court is positioned towards the right side of the image and is partially obscured by trees. The bottom court is located at the bottom edge of the image and is more visible than the top one."
+ },
+ {
+  "image_id": "10248_0000.png",
+  "reference": "The image sourced from GoogleEarth shows a large bridge prominently spanning from left to right across the frame, with distinct supporting structures visible beneath it. On the top-left portion of the image, a vehicle is present on a road that intersects with the bridge.",
+  "prediction": "The image, sourced from GoogleEarth, features a bridge spanning across a body of water with a road running parallel to it. The bridge is characterized by its elongated structure and is surrounded by patches of greenery and bare land."
+ },
+ {
+  "image_id": "P1384_0036.png",
+  "reference": "The aerial image sourced from GoogleEarth displays a high-resolution view of a landscaped area with several prominent features. Located on the left side of the image, a small soccer ball field is visible, marked by its distinctive rectangular shape with rounded corners. The field is surrounded by a mix of open grassy spaces and dense clusters of trees, indicating a recreational or park setting. Additionally, there are paths and open patches that could be used for walking or resting.",
+  "prediction": "The high-resolution image from GoogleEarth shows a park with various recreational facilities. There is a large ground track field located at the bottom left of the image, surrounded by greenery and pathways. Adjacent to the track field, there is a soccer ball field with its distinctive markings. The park also features a variety of trees and open spaces, providing a natural environment for outdoor activities."
+ },
+ {
+  "image_id": "08756_0000.png",
+  "reference": "The image from GoogleEarth shows a airport located in an area surrounded by greenery and infrastructure.",
+  "prediction": "The image, sourced from GoogleEarth, shows an airport with a small size and a single runway visible. The surrounding area includes various land uses such as fields, buildings, and roads."
+ },
+ {
+  "image_id": "10415_0000.png",
+  "reference": "The image from GoogleEarth displays a stadium with a distinctive U-shaped structure and an adjacent parking lot. The stadium has a large field surrounded by seating areas. Next to the stadium, there are neatly aligned rows of small vehicles in the parking lot, with a concentration of vehicles towards the top left of the image.",
+  "prediction": "The aerial image from GoogleEarth features a large stadium with a green field and seating areas. The stadium is surrounded by parking lots, roads, and trees."
+ },
+ {
+  "image_id": "10109_0000.png",
+  "reference": "The aerial image provided is sourced from GoogleEarth and showcases a broad view of an urban area with dense buildings and a train station occupying a significant part of the scene. The train station is large, extending from nearly the center to the right edge, highlighted by its multiple parallel tracks and expansive, roofed platforms.",
+  "prediction": "The image, sourced from GoogleEarth, shows an aerial view of a train station surrounded by dense urban development. The station is characterized by its large size and multiple tracks running parallel to each other."
+ },
+ {
+  "image_id": "08199_0000.png",
+  "reference": "The image, sourced from GoogleEarth, displays a natural landscape with sparse vegetation and an isolated bridge on the bottom-right side. The bridge runs vertically within the image frame, and it spans from around the halfway point to the bottom edge. There are no visible structures or vehicles in the vicinity of the bridge, and the surrounding area features patches of shrubs and small bushes scattered across the terrain.",
+  "prediction": "The image, sourced from GoogleEarth, features a landscape with a prominent road running diagonally across the frame. The road is surrounded by patches of vegetation and appears to be a two-lane highway."
+ },
+ {
+  "image_id": "10791_0000.png",
+  "reference": "The image from GoogleEarth shows a segment of a road with multiple lanes and a median strip adorned with shrubbery. Adjacent to the road, there are two sets of tennis courts. The courts are aligned parallel to each other, with one set positioned towards the bottom-left of the image and the other set towards the bottom-right.",
+  "prediction": "The image, sourced from GoogleEarth, features a section of an area with two tennis courts and a road. The tennis courts are positioned at the bottom part of the image, with one court located towards the left side and another towards the right side. The road runs horizontally across the top portion of the image, separating the green space with trees and shrubs from the tennis courts."
+ },
+ {
+  "image_id": "P5789_0293.png",
+  "reference": "The image, sourced from GF with high resolution, primarily features an isolated small plane situated in the bottom-middle segment against a monotone background. The plane is the sole object within the scene.",
+  "prediction": "The grayscale image from GF features a single small plane positioned in the middle-left section of the frame against a dark background."
+ },
+ {
+  "image_id": "08645_0000.png",
+  "reference": "The image sourced from GoogleEarth focuses on a small expressway-toll-station. The station is situated approximately in the center of the image.",
+  "prediction": "The image, sourced from GoogleEarth, features a small bridge located at the bottom-right corner of the frame. The bridge spans across a body of water and connects two land masses."
+ },
+ {
+  "image_id": "11587_0000.png",
+  "reference": "Aerial view of a section of an airport from GoogleEarth, featuring an airplane parked on the tarmac. The ground shows tarmac markings and surrounding grass areas.",
+  "prediction": "The high-resolution image from GoogleEarth shows a large plane on an airport tarmac with visible markings and taxiways. The plane is positioned diagonally across the frame, occupying a significant portion of the image."
+ },
+ {
+  "image_id": "09871_0000.png",
+  "reference": "The image, sourced from GoogleEarth, displays an aerial view of a landscape featuring an expressway service area and vehicles. The expressway service area is notable with its significant size and occupies a central section of the imagery. Two small vehicles can be seen: one is located in the bottom center of the image on the road, while the other is positioned at the top-left corner.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of a highway surrounded by dense greenery. There is a small vehicle located towards the bottom-middle of the image, positioned on the road."
+ },
+ {
+  "image_id": "10538_0000.png",
+  "reference": "Aerial view of a residential area captured from Google Earth, with two vehicles parked on a driveway leading to a house. The image does not specify resolution but shows clear details of the vehicles and the surrounding environment.",
+  "prediction": "The aerial image from GoogleEarth shows a residential area with houses, driveways, and a road. There are two small vehicles visible: one is parked on the driveway of a house, while the other is positioned further down the street. The houses have green lawns and trees surrounding them."
+ },
+ {
+  "image_id": "10640_0000.png",
+  "reference": "The image, sourced from GoogleEarth, features a natural landscape with a bridge running diagonally across the lower section. In this scene, a small bridge can be seen crossing over a body of water.",
+  "prediction": "The image, sourced from GoogleEarth, features a landscape with a river running through it and a bridge crossing over the river. The surrounding area is covered with trees and vegetation."
+ },
+ {
+  "image_id": "P0457_0000.png",
+  "reference": "The image, sourced from GoogleEarth with high resolution, displays a well-defined baseball diamond surrounded by a lush green grassy area, with a darker green tree line on the left side. The diamond is located in the bottom-right part of the image and visible inner diamond turf contrasts with the outer grass.",
+  "prediction": "The high-resolution image from GoogleEarth features a baseball field with a distinctive diamond shape surrounded by a grassy area. The field is located on the right side of the image, with its infield area clearly visible and the outfield extending towards the left edge."
+ },
+ {
+  "image_id": "P2709_0027.png",
+  "reference": "This high-resolution image from Google Earth shows a coastal port area with a small green ship docked at the bottom left side of a pier. The ship is positioned alongside the pier.",
+  "prediction": "The high-resolution image from GoogleEarth shows a harbor with a large ship docked at its edge. The ship is positioned on the left side of the image, extending into the water."
+ },
+ {
+  "image_id": "P1398_0010.png",
+  "reference": "The high-resolution image from GoogleEarth shows a group of five small planes parked in an area with dry vegetation. The planes are arranged in a line, each separated from the other. They display similar color patterns with a combination of white and blue hues on their bodies creating a uniform appearance.",
+  "prediction": "The high-resolution image from GoogleEarth shows a group of six planes parked on a tarmac. The planes are aligned in a row, with each plane positioned at different intervals along the length of the tarmac. The tarmac is surrounded by a grassy area."
+ },
+ {
+  "image_id": "P0929_0016.png",
+  "reference": "The high-resolution image from GoogleEarth displays a waterfront scene with two harbors and a ship. The first harbor is positioned on the upper portion of the image, while another one situated at the bottom edge. Between them, a small ship is visible, located towards the top-right area of the image.",
+  "prediction": "The high-resolution image from GoogleEarth features a harbor with a distinct structure extending into the water, surrounded by a body of water with visible wake patterns. The harbor is equipped with a pier and appears to be a docking area for ships."
+ },
+ {
+  "image_id": "10759_0000.png",
+  "reference": "The image, sourced from Google Earth, shows a park with a variety of amenities. There is a baseball field depicted with a distinctive diamond-shaped infield and a dirt track that outlines the running bases. Adjacent to the baseball field is a playground with some equipment set on sandy ground and sheltered by a blue-roofed structure. The park also includes a neatly organized parking area with visible parking lines, surrounded by lush green grass and a few trees randomly scattered around. The presence of a curved pathway connecting the parking area to the baseball field and playground is notable.",
+  "prediction": "The image, sourced from GoogleEarth, shows a section of a park with various recreational facilities. There is a baseball field located towards the top-middle part of the image, surrounded by greenery and a paved area. Adjacent to the baseball field, there is a playground with a sand play area and a blue-roofed structure. The park also features a walking path that runs along the left side of the image."
+ },
+ {
+  "image_id": "P1332_0017.png",
+  "reference": "High-resolution grayscale image from GF depicting a lone ship positioned in the bottom-middle of the frame, with dark waters surrounding it.",
+  "prediction": "The grayscale image provided by GF features a medium resolution view of a small ship located towards the bottom-middle of the frame. The ship is distinguishable against the dark background, with its rectangular shape clearly visible."
+ },
+ {
+  "image_id": "08833_0000.png",
+  "reference": "The image sourced from GoogleEarth features a solitary windmill located on the right side.",
+  "prediction": "The image, sourced from GoogleEarth with medium resolution, features a large plane on a tarmac. The plane is positioned towards the top-right of the frame and occupies a significant portion of the image."
+ },
+ {
+  "image_id": "09681_0000.png",
+  "reference": "This GoogleEarth image features four tennis courts aligned vertically along the bottom portion of the image. The bottom-most court is partially cropped, with surrounding courts fully visible. To the middle-right of the image, out of the play areas, three vehicles are parked beside buildings.",
+  "prediction": "The aerial image from GoogleEarth shows a recreational area with multiple tennis courts and vehicles. There are three visible tennis courts, each with a distinct orientation relative to one another. The courts are surrounded by greenery and a few buildings. Additionally, there are several small vehicles parked near the courts."
+ },
+ {
+  "image_id": "P1474_0062.png",
+  "reference": "The image, sourced from GoogleEarth, displays a rural area with three small planes parked in close proximity on a makeshift airfield. There are patches of farmland surrounding the area as well as a cluster of buildings with various roof shades located to the southeast of the planes.",
+  "prediction": "The high-resolution image from GoogleEarth shows a rural area with a mix of agricultural fields and a small settlement with houses. There are three planes visible on the left side of the image, parked on what appears to be a dirt surface. The planes are positioned at different angles relative to each other."
+ },
+ {
+  "image_id": "09933_0000.png",
+  "reference": "The aerial image provided by Google Earth captures a high school stadium, which includes a ground track and field covered in synthetic turf. The field sports yard lines for American football and the large text 'DESERT HILLS' indicating the name of the school associated with the stadium.",
+  "prediction": "The image, sourced from GoogleEarth, features an aerial view of a ground track and field with a distinctive oval-shaped running track surrounding a rectangular playing field. The track is marked with lanes for running and has a white border. The playing field includes a central circle and various lines marking different sports areas."
+ },
+ {
+  "image_id": "P2726_0010.png",
+  "reference": "The high-resolution image from GoogleEarth features a maritime setting with various ships docked in or adjacent to a harbor. A total of six ships are visible in the image, with two ships positioned at the top-right corner, both bearing small sizes. The two harbors, situated at opposite ends of the scene, create a juxtaposition with the topmost harbor being smaller in relative size and the bottom-most one notably larger. The ships and the harbors form a part of a larger port infrastructure.",
+  "prediction": "The high-resolution image from GoogleEarth shows a harbor with multiple ships docked at its pier. The harbor is situated on the right side of the image, with a large ship positioned towards the bottom-right corner and another ship located near the center of the image."
+ },
+ {
+  "image_id": "P1390_0057.png",
+  "reference": "A high-resolution image from Google Earth showing a group of parked planes on a tarmac. The aircraft are uniformly aligned in rows, and although they are small in size, their details are discernible due to the high image quality. There is a visible path that winds among the planes.",
+  "prediction": "The high-resolution image from GoogleEarth shows a collection of large planes parked on a tarmac. There are 10 planes visible, with some positioned at the top and others towards the bottom of the frame. The planes are aligned in rows, with varying orientations."
+ },
+ {
+  "image_id": "09403_0000.png",
+  "reference": "The image, sourced from GoogleEarth, presents a view of a location with multiple tennis courts and a vehicle. Specifically, the image contains four tennis courts that are visible, positioned towards the bottom of the frame. There is also a uniquely identifiable vehicle located in the top right section of the image.",
+  "prediction": "The aerial image from GoogleEarth shows a section of an area with two tennis courts and a small vehicle. The tennis courts are adjacent to each other, with one positioned towards the bottom right corner of the image and the other towards the bottom left. A small vehicle is located at the top-left corner of the image."
+ },
+ {
+  "image_id": "09670_0000.png",
+  "reference": "The image, sourced from GoogleEarth, features an aerial view of a port with a small ship moored alongside the dock. The ship is laden with multicolored containers, and it is situated in the top portion of the image. Surrounding the ship there are several cargo cranes extending shadows over the water surface.",
+  "prediction": "The image, sourced from GoogleEarth, features a large ship docked at a port with its shadow cast on the water. The ship is surrounded by several cranes and containers, indicating an active port environment."
+ },
+ {
+  "image_id": "11213_0000.png",
+  "reference": "This color image from Google Earth displays two small ships docked next to each other near a shoreline on the right side of the image. One ship is positioned higher than the other. The darkness of the water suggests that the image might have been taken during low light conditions or the image has low brightness. The surrounding area appears to be mostly water with limited visibility of land or other identifiable objects.",
+  "prediction": "The high-resolution image from GoogleEarth features two large ships docked near each other on a body of water. The ships are positioned at the bottom-right corner of the image, with one ship slightly to the right and another towards the left."
+ },
+ {
+  "image_id": "P4151_0069.png",
+  "reference": "The aerial image depicts a high-resolution scene with a basketball court surrounded by greenery. There are three small vehicles visible: one parked on a street at the top, another at the bottom right corner at an angle, and a third one located towards the top-left of the image.",
+  "prediction": "The aerial image captures an outdoor basketball court with visible markings and a small vehicle parked on the top-left side of the court. The court is surrounded by trees, and there are no other significant objects or structures within the frame."
+ },
+ {
+  "image_id": "11504_0000.png",
+  "reference": "The image, sourced from GoogleEarth, shows an area featuring a stadium with a elliptical shape, encompassed by a variety of surrounding trees and several adjoining roads. The stadium occupies a significant portion of the image and includes a visible running track as well as a green-colored field.",
+  "prediction": "The image, sourced from GoogleEarth, features an aerial view of a stadium with a circular track and field. The stadium is surrounded by greenery on one side and has parking lots adjacent to it."
+ },
+ {
+  "image_id": "08275_0000.png",
+  "reference": "This aerial image, sourced from GoogleEarth, shows an urban landscape with buildings, roads, and vehicles. The most prominent structure in the image is a stadium located in the bottom right part of the frame, with its semi-open roof structure.",
+  "prediction": "The aerial image from GoogleEarth features an urban area with various buildings and parking lots. Prominently, there is a large stadium located at the bottom-right of the image. The surrounding area includes several parking lots filled with vehicles and a mix of commercial buildings."
+ },
+ {
+  "image_id": "06348_0000.png",
+  "reference": "The aerial image sourced from Google Earth displays a baseball field bordered by patches of trees and adjacent grassy areas. Its diamond-shaped infield is prominent, with clear base paths and a rounded pitching mound at the center. The overall landscape is dotted with trees and open green spaces.",
+  "prediction": "The image, sourced from GoogleEarth, features a baseball field with a distinctive diamond shape and surrounding greenery. The field is surrounded by trees on one side and open grassy areas on the other."
+ },
+ {
+  "image_id": "11263_0000.png",
+  "reference": "The image, sourced from GoogleEarth, features a desert landscape with at least two windmills visible. The terrain is mostly barren with dirt tracks crisscrossing the area. There is no explicit resolution specified for the image. One windmill is positioned towards the left side of the image and another towards the right side.",
+  "prediction": "The image, sourced from GoogleEarth, shows a landscape with a small windmill located towards the top-left area of the frame. The terrain is mostly barren with some patches of vegetation and a dirt road running diagonally across the image."
+ },
+ {
+  "image_id": "10323_0000.png",
+  "reference": "This is an aerial photo from GoogleEarth. It features an airplane positioned on a tarmac with a clear view of its wings and fuselage. There are no other objects or detailed information provided about the surroundings.",
+  "prediction": "The image, sourced from GoogleEarth, shows a large airplane on a tarmac with visible markings and lines. The plane is positioned diagonally across the frame, with its wings spanning from the bottom left to the top right of the image."
+ },
+ {
+  "image_id": "09865_0000.png",
+  "reference": "This aerial image from GoogleEarth shows a rural landscape with a mix of fallow agricultural fields in varying shades of brown, scattered houses with blue roofs, and a network of roads intertwining throughout. Notably, there is an expressway-toll-station situated on the left side of the image.",
+  "prediction": "The image, sourced from GoogleEarth, shows a rural landscape with a mix of agricultural fields and clusters of buildings. A small bridge is visible in the middle-left part of the image, spanning over a body of water. The surrounding area features a variety of land use patterns, including patches of greenery and open fields."
+ },
+ {
+  "image_id": "08273_0000.png",
+  "reference": "An aerial view from GoogleEarth shows a mixed landscape with a bridge in the bottom right corner and expressway service areas, surrounded by patches of green vegetation. Among the objects, there is a bridge that stands out due to its distinct location in the image.",
+  "prediction": "The image, sourced from GoogleEarth, features a landscape with a mix of natural and man-made elements. Prominently visible is a bridge located at the bottom-left corner of the image, spanning across a body of water. The surrounding area includes patches of greenery, fields, and what appears to be an industrial or construction site with various structures."
+ },
+ {
+  "image_id": "08911_0000.png",
+  "reference": "This aerial image sourced from GoogleEarth displays a section of an area with varied land use including agriculture, structures, and a significant expressway service area. Notable details include a large expressway service area featuring parking lots and buildings, situated predominantly from the central to the right portion of the image. Vehicles can be seen parked within the boundaries of the service area.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an area with a mix of agricultural fields, a parking lot, and a small vehicle. The parking lot is situated adjacent to the agricultural fields, and there is a small vehicle parked near the bottom-middle of the image."
+ },
+ {
+  "image_id": "P2404_0028.png",
+  "reference": "This is a high-resolution Google Earth image, showcasing a landscape with a mixture of agricultural fields, buildings, and a water body. On the right side, there's a bridge spanning the lower portion of the image, connecting two landmasses across the water. The natural and built environments are juxtaposed, with the green hues of the agricultural area contrasting against the grays and whites of the buildings.",
+  "prediction": "The image, sourced from GoogleEarth, features a landscape with a river running horizontally across the bottom part of the frame. Surrounding the river are various patches of greenery and buildings, indicating a mix of natural and developed areas."
+ },
+ {
+  "image_id": "06077_0000.png",
+  "reference": "The image from GoogleEarth showcases a maritime scene, prominently featuring two ships in a body of water. One sizable ship occupies a majority of the top half of the frame with its deck filled with structures and equipment. Below it, towards the center, lies a smaller ship.",
+  "prediction": "The image, sourced from GoogleEarth, features a large ship docked at a port with a distinct yellow line pattern on its hull. The ship occupies a significant portion of the frame and is surrounded by water."
+ },
+ {
+  "image_id": "P6687_0051.png",
+  "reference": "The aerial image showcases a high-resolution view of a terrain with patches of green foliage and dirt paths. Located in the top-right corner of the image are five small vehicles parked near a structure with a dark roof.",
+  "prediction": "The aerial image captures a scene with a dirt path running through a grassy area, bordered by trees. There are three small vehicles visible on the right side of the image, parked along a road adjacent to the path."
+ },
+ {
+  "image_id": "P0170_0008.png",
+  "reference": "The high-resolution image from GoogleEarth depicts a section of an airport tarmac with a small planes. The planes are parked in rows. The top-right area of the image features a plane located at the top-most position on the tarmac, while the right side of the image contains another plane that is the bottom-most. There's a plane positioned on the left-most edge. The image shows a clear demarcation of parking spaces and good tarmac condition.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an airport tarmac with several small planes parked. There are six planes visible, with one positioned at the top-right corner and another at the bottom-right corner of the frame. The tarmac is marked with yellow lines, and there's a grassy area adjacent to it."
+ },
+ {
+  "image_id": "P0583_0007.png",
+  "reference": "The high-resolution image from GoogleEarth shows a small ship located at the bottom-left section of the frame. The image also captures two distinct harbors: one is located towards the center, and the other is positioned on the left side of the image.",
+  "prediction": "The high-resolution image from GoogleEarth features a large harbor occupying a significant portion of the frame, with its structure extending from the left side to the right. The harbor is surrounded by water on all sides and has a rectangular shape."
+ },
+ {
+  "image_id": "P1566_0031.png",
+  "reference": "This high-resolution grayscale image provided by JL features an urban area with a complex network of roads and various buildings. Notably, there is a small bridge located towards the top middle of the image. Surrounding the bridge, the landscape is a mixture of residential areas with distinct housing and commercial zones.",
+  "prediction": "The grayscale image provided by JL features an urban area with various buildings and roads. A small bridge is visible at the top-middle of the image, spanning across a body of water."
+ },
+ {
+  "image_id": "09433_0000.png",
+  "reference": "The image from GoogleEarth captures an aerial view of a school with a distinctive basketball court located on the right side of the frame. The basketball court clearly stands out due to its contrasting color and lines marked for the game.",
+  "prediction": "The aerial image from GoogleEarth features a large building with a gray roof and a basketball court located at the bottom-right corner of the image. The basketball court is distinguishable by its distinctive markings and shape, which includes a rectangular playing area surrounded by a smaller rectangular space for the ball."
+ },
+ {
+  "image_id": "10751_0000.png",
+  "reference": "This overhead image sourced from GoogleEarth captures a brown body of water partially constrained by a linear dam structure. There are no specific details provided about the resolution. The dam is located at the bottom-right of the image.",
+  "prediction": "The image, sourced from GoogleEarth, features a large ship docked at the bottom of the frame. The ship is positioned adjacent to a body of water with a reddish-brown hue. Surrounding the ship, there are structures that appear to be part of a port or industrial facility."
+ },
+ {
+  "image_id": "10079_0000.png",
+  "reference": "The image sourced from GoogleEarth showcases a dense urban area interspersed with several recreational fields. The central focus is a small, uniquely featured ground track field surrounded by greenery located near the center of the image. Additionally, there are multiple small baseball fields visible, with one highlighted baseball field positioned towards the top-middle on the right side, distinguishable as the right-most field in that cluster.",
+  "prediction": "The image, sourced from GoogleEarth, shows an urban area with a mix of residential and commercial buildings. There is a small ground track field located towards the center of the image."
+ },
+ {
+  "image_id": "07413_0000.png",
+  "reference": "The image provided appears to be a satellite view from Google Earth showing an outdoor area that includes a small basketball court with visible court markings and hoops. The surrounding area has sections of grass, pathways, and structures indicative of a park or recreational facility.",
+  "prediction": "The image, sourced from GoogleEarth, features an aerial view of a basketball court with a distinctive red and white color scheme. The court is surrounded by a paved area with some trees and a building to the left side."
+ },
+ {
+  "image_id": "P2331_0020.png",
+  "reference": "This high-resolution image from GoogleEarth shows a water body with a harbor and multiple small ships anchored near the shore.",
+  "prediction": "The high-resolution image from GoogleEarth features a large harbor situated on the left side of the frame, with its structure extending into the water body. The surrounding area includes a mix of greenery and open land."
+ },
+ {
+  "image_id": "P5789_1365.png",
+  "reference": "This high-resolution grayscale image from GF features an urban landscape with a clear view of a baseball diamond located in the middle left part of the image. The baseball diamond is surrounded by various buildings and tree-lined streets. It is a small-sized object relative to the scale of the image.",
+  "prediction": "The grayscale aerial image provided by JL features a medium resolution view of an urban area with various structures and roads. Prominently, there is a baseball diamond located towards the bottom-left part of the image."
+ },
+ {
+  "image_id": "09997_0000.png",
+  "reference": "The image from GoogleEarth features a ship positioned in a body of water. The color and other visual characteristics of the image are ambiguous due to its lack of clarity and unspecified resolution.",
+  "prediction": "The high-resolution image from GoogleEarth features a large ship with a dark hull and white superstructure, positioned on a body of water. The ship is oriented diagonally across the frame, with its bow pointing towards the bottom-right corner of the image."
+ },
+ {
+  "image_id": "09611_0000.png",
+  "reference": "An aerial image from Google Earth showcasing a built environment with an array of structures, including dense residential and commercial areas with buildings packed closely together on the left side, and a small train station located on the right side of the image. The river near the left edge undulates along next to the dense building patterns. The train station has multiple tracks, and there are a few rectangular buildings at the station.",
+  "prediction": "The image, sourced from GoogleEarth, shows an urban area with a mix of residential and commercial buildings. A prominent feature is a large train station located towards the right side of the image. The station has multiple platforms and tracks, with several trains visible on the tracks."
+ },
+ {
+  "image_id": "10506_0000.png",
+  "reference": "The image, sourced from GoogleEarth, features a small windmill situated in the lower right quadrant. The surrounding area has a weathered texture.",
+  "prediction": "The image, sourced from GoogleEarth, features a windmill situated on a barren landscape with no visible vegetation or structures nearby. The windmill is positioned towards the bottom-right of the frame and stands out due to its distinct shape against the plain background."
+ },
+ {
+  "image_id": "10222_0000.png",
+  "reference": "An aerial image from GoogleEarth showcases a prominent chimney with visible emissions on the right, accompanied by several vehicles in different parts of the image. One vehicle is situated nearby on the top-left corner, and another vehicle is located toward the middle-left of the image, closer to the bottom edge.",
+  "prediction": "The high-resolution image from GoogleEarth features a large chimney with a distinctive shape and structure, surrounded by various buildings and open spaces. The chimney is prominent in the image, occupying a significant portion of the frame."
+ },
+ {
+  "image_id": "08933_0000.png",
+  "reference": "This aerial image from GoogleEarth shows a sports complex with a prominent baseball field occupying a large portion of the frame. The baseball field features a diamond-shaped infield with a dirt surface and a larger surrounding grassy outfield.",
+  "prediction": "The image, sourced from GoogleEarth, features a sports complex with a baseball diamond and a track and field area. The baseball diamond is located on the left side of the image, with its infield dirt and surrounding grassy areas clearly visible. Adjacent to it, there is a large track and field area with red running tracks and green fields."
+ },
+ {
+  "image_id": "11468_0000.png",
+  "reference": "The image, sourced from GoogleEarth, showcases a small windmill located in the bottom-right section with its blades extending almost to the edge of the image.",
+  "prediction": "The image, sourced from GoogleEarth, features a windmill situated on a sandy terrain. The windmill has a long, thin structure with blades extending outward."
+ },
+ {
+  "image_id": "P0589_0008.png",
+  "reference": "The image sourced from GoogleEarth features a high-resolution aerial view of a harbor. The harbor is uniquely shaped and gives a glimpse of infrastructure that is adjoining a larger water body, as seen by the presence of docks extending into the water.",
+  "prediction": "The high-resolution image from GoogleEarth features a large harbor located on the left side of the frame, extending horizontally across the water body. The surrounding area includes a mix of vegetation and possibly some industrial structures."
+ },
+ {
+  "image_id": "05985_0000.png",
+  "reference": "The remote sensing image from GoogleEarth shows a landscape with visible natural features and an artificial structure. There is one windmill structure discernable within this landscape. The surroundings of the windmill consist of undetermined natural terrain with variations in color and texture.",
+  "prediction": "The image, sourced from GoogleEarth, shows a landscape with two small planes visible on the ground. The planes are positioned at different locations within the frame."
+ },
+ {
+  "image_id": "06538_0000.png",
+  "reference": "The satellite image sourced from GoogleEarth features an aerial view of an urban area. Dominating the scene is a small stadium with an oval shape and a sizable green field, located in the lower-right portion of the image. Around the stadium, various buildings are scattered. The surroundings indicate a densely built environment with no visible natural landscapes within the immediate vicinity.",
+  "prediction": "The image, sourced from GoogleEarth, features an aerial view of a stadium with a distinctive oval shape and a green field inside. The stadium is surrounded by a dense urban area with various buildings and patches of greenery."
+ },
+ {
+  "image_id": "09421_0000.png",
+  "reference": "This aerial image provided by GoogleEarth displays three tennis courts aligned horizontally.",
+  "prediction": "The image, sourced from GoogleEarth, features three tennis courts aligned horizontally with one at the top and two at the bottom. The courts have blue playing surfaces with white boundary lines."
+ },
+ {
+  "image_id": "P1283_0056.png",
+  "reference": "The high-resolution image, captured by a GF source, depicts a dark scene where visibility is low. Within this scene, a single small ship is visible in the middle-right of the frame.",
+  "prediction": "The grayscale image provided by GF features a medium resolution view of a body of water with a single ship located towards the center-right of the frame. The ship is small in size and is surrounded by varying shades of gray, indicating the presence of clouds or water ripples."
+ },
+ {
+  "image_id": "09022_0000.png",
+  "reference": "An aerial view provided by GoogleEarth shows a residential area with individual houses, a green space with trees, and a tennis court. The houses have orange roofs and are arranged on either side of the green space, and the tennis court is positioned at the bottom of the image.",
+  "prediction": "The image, sourced from GoogleEarth, features a residential area with a mix of houses and green spaces. Prominently visible is a tennis court located towards the bottom-right of the image."
+ },
+ {
+  "image_id": "10585_0000.png",
+  "reference": "The image provided is sourced from GoogleEarth and displays a large overpass extending across the view. The distinct yellow markings on the road indicate traffic lanes, and their straight orientation suggests a structured traffic flow.",
+  "prediction": "The image, sourced from GoogleEarth, shows an aerial view of a highway intersection with multiple lanes and a grassy area adjacent to it. The highway has clearly marked lanes and is surrounded by greenery."
+ },
+ {
+  "image_id": "P5789_0981.png",
+  "reference": "This high-resolution grayscale image captured by a GF-source features a landscape predominantly covered by cloud cover with visible architectural structures. A ground-track-field, with a elongated shape and visible lanes, is located towards the right side of the visible area, surrounded by buildings.",
+  "prediction": "The grayscale aerial image provided by GF features a medium resolution view of an urban area with various structures and vehicles. Prominently, there is a small ground track field located towards the bottom right of the image."
+ },
+ {
+  "image_id": "09317_0000.png",
+  "reference": "The image is a Google Earth capture featuring a single small basketball court located in the bottom-right corner of the frame. The surrounding area includes patches of greenery and a playground.",
+  "prediction": "The image, sourced from GoogleEarth, features a landscape with a basketball court located at the bottom-right corner of the frame. The court is surrounded by greenery and has a distinct rectangular shape."
+ },
+ {
+  "image_id": "P1973_0014.png",
+  "reference": "The high-resolution image from GoogleEarth depicts a parking area with various large and small vehicles. There are four large vehicles positioned towards the left side of the image. There are vehicles parked one after another along the bottom edge. The parking spots are delineated.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an airport with multiple large vehicles and small vehicles parked on the tarmac. There are at least four large vehicles, identifiable by their size and shape, positioned near the top-left corner of the image. Additionally, there are three small vehicles visible, one located towards the bottom-middle part of the image and another towards the bottom-right corner. The vehicles are parked in designated areas, with clear markings on the ground."
+ },
+ {
+  "image_id": "08761_0000.png",
+  "reference": "The image, sourced from GoogleEarth, displays a section of an airport tarmac with a small airplane visible on the ground.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an airport tarmac with two small planes visible. One plane is located towards the bottom-right corner, while the other is positioned at the bottom-left corner of the frame. The tarmac features various markings and lines that guide aircraft movement."
+ },
+ {
+  "image_id": "09870_0000.png",
+  "reference": "The satellite image from GoogleEarth features an urban area with a prominent stadium occupying a significant area in the lower half of the image. The stadium has a large oval shape with multiple entrances and seating tiers visible. Surrounding the stadium, there are areas with trees, multiple buildings, and parking lots filled with vehicles to the left and top. The rest of the image includes residential areas with houses and roads weaving through the greenery.",
+  "prediction": "The image, sourced from GoogleEarth, features a large stadium with a green field surrounded by spectator stands. The stadium is situated within an urban area, with roads and buildings visible around it."
+ },
+ {
+  "image_id": "P1007_0023.png",
+  "reference": "This high-resolution image from Google Earth shows six harbors stretching along the coastline, with jetties extending into the water. On the left side of the image, one small ship is docked near the left-most harbor.",
+  "prediction": "The high-resolution image from GoogleEarth features a series of harbor structures extending into a body of water. There are seven distinct harbors visible, each varying in size and orientation. The largest harbor is located at the bottom-right corner of the image, while the smallest one is situated at the top-left corner. The harbors are aligned horizontally across the image, with some overlapping or partially obscured by others."
+ },
+ {
+  "image_id": "P5789_2847.png",
+  "reference": "The high-resolution grayscale image provided by GF features an urban setting with dense buildings and a unique baseball diamond located in the middle-right of the frame. The baseball diamond is small in size with a distinctive infield and outfield clearly visible.",
+  "prediction": "The grayscale image provided by GF features a medium resolution view of an urban area with various buildings and a baseball diamond located towards the top-right corner. The baseball diamond is distinguishable by its curved infield and diamond shape, surrounded by a playing field."
+ },
+ {
+  "image_id": "07627_0000.png",
+  "reference": "This is an aerial image from Google Earth showing a dam constructed across a body of water. The image captures the dam's elongated structure that occupies a significant portion of the image, connecting to landmasses on either side.",
+  "prediction": "The high-resolution image from GoogleEarth shows a large dam with a distinct rectangular shape, spanning across the width of the image. The dam is surrounded by a body of water on one side and a land area on the other."
+ },
+ {
+  "image_id": "P1275_0013.png",
+  "reference": "The grayscale image of high resolution, sourced from 'GF', captures an industrial or construction area next to a body of water. In the bottom left, on the water's edge, there is a small-sized ship that appears to be docked.",
+  "prediction": "The grayscale image provided by GF features a medium resolution view of an industrial area with various structures and roads. Prominently, there is a bridge located at the bottom-middle part of the image, spanning across a body of water."
+ },
+ {
+  "image_id": "P2294_0000.png",
+  "reference": "The medium-resolution image from GoogleEarth shows a coastal area with a distinct water body on one side and land on the other, featuring two small harbors and two ships. The first harbor, located towards the top of the image, is adjacent to the coastline. The second harbor, positioned centrally to the right in the image, is larger than the first and is at the intersection of various land elements. One small ship can be seen in the water near the bottom of the image, to the middle-left, while another is situated towards the top-middle, closer to the edge of the water body.",
+  "prediction": "The high-resolution image from GoogleEarth shows a waterfront area with a large ship docked at a pier extending into the water. The ship is positioned towards the top-middle of the image, and the surrounding area includes a mix of greenery, pathways, and a road network."
+ },
+ {
+  "image_id": "08471_0000.png",
+  "reference": "The image sourced from GoogleEarth shows a densely forested landscape with a distinct golf course carving through the greenery. The golf course has a large footprint extending from near the center to the right side of the image, surrounded by the dense tree cover.",
+  "prediction": "The image, sourced from GoogleEarth, features a landscape with a mix of greenery and man-made structures. Prominently visible is a golf course with its distinctive layout of fairways and greens, surrounded by dense vegetation. The golf course occupies a significant portion of the image, stretching across various terrains."
+ },
+ {
+  "image_id": "P1513_0014.png",
+  "reference": "A high-resolution satellite image from Google Earth depicts a section of an airport with two small airplanes. The airplanes are parked on the tarmac.",
+  "prediction": "The high-resolution image from GoogleEarth shows two planes on a tarmac. The first plane is positioned towards the bottom of the image, while the second plane is located towards the top-left corner."
+ },
+ {
+  "image_id": "09247_0000.png",
+  "reference": "This color image from GoogleEarth showcases a segment of an overpass intersecting with roads, surrounded by patches of vegetation. The overpass is visible with a concrete structure, casting a shadow beneath.",
+  "prediction": "The image, sourced from GoogleEarth, shows a section of an expressway service area with multiple lanes and parking spaces. The service area is surrounded by greenery on one side and has a road running parallel to it."
+ },
+ {
+  "image_id": "P0217_0001.png",
+  "reference": "The high-resolution image from GoogleEarth displays a section of an airport tarmac showcasing two small planes. The planes are separated by a considerable gap, with one situated closer to the top edge of the image, the other is closer to the bottom edge.",
+  "prediction": "The high-resolution image from GoogleEarth shows two planes parked on a tarmac. The planes are positioned close to each other, with one located towards the top of the image and the other towards the middle-right."
+ },
+ {
+  "image_id": "P1246_0038.png",
+  "reference": "This high-resolution grayscale image, captured by a GF source, displays two ships in open water. The top-most ship is positioned with a portion overlapping onto the darker water. A second, slightly larger ship is situated along the bottom-right edge of the image.",
+  "prediction": "The grayscale aerial image provided by JL features a medium resolution view of an area with a bridge located at the bottom-right corner. The bridge is distinguishable due to its elongated structure spanning across a body of water."
+ },
+ {
+  "image_id": "P0007_0004.png",
+  "reference": "The aerial image, sourced from GoogleEarth with high resolution, shows a parking lot with large vehicles arranged neatly in rows. Most of the large vehicles are white, and they are predominantly parked in a north-south alignment. There is a large vehicle at the left edge of the road.",
+  "prediction": "The high-resolution image from GoogleEarth shows a parking area with several large vehicles, including trucks and buses. The vehicles are parked in rows, with some positioned near the top edge of the image and others towards the bottom. There is a noticeable variety in the sizes and orientations of the vehicles."
+ },
+ {
+  "image_id": "09283_0000.png",
+  "reference": "The aerial image captured from Google Earth depicts a section of terrain with a clear view of an expressway and associated service area. The expressway runs vertically through the image and is flanked by parcels of land with vegetation. Adjacent to the expressway on the bottom-left side, there is an expressway service area that appears as a developed patch with structures and parking areas.",
+  "prediction": "The image, sourced from GoogleEarth, features a section of a highway with two distinct vehicles visible on it. The highway is surrounded by a landscape that includes patches of vegetation and a building with a red roof to the left side of the image."
+ },
+ {
+  "image_id": "11236_0000.png",
+  "reference": "This overhead image from GoogleEarth shows a large ship docked at the top of the image, along with several airplanes parked at the bottom right area. Across the scene, various small airplanes are visible, positioned either on or near the tarmac. Among the airplanes, one stands out as being the largest of the small airplanes in the bottom-right corner. The image captures the presence of docks, tarmac, and water bodies, suggesting an area that might be a combination of a maritime port and an airport.",
+  "prediction": "The image, sourced from GoogleEarth, features a harbor with multiple ships docked at its pier. The harbor is situated on the right side of the image and extends into the water. There are several ships visible, including one large ship located towards the bottom-right corner of the image and another small ship positioned near the top-left corner."
+ },
+ {
+  "image_id": "P1178_0014.png",
+  "reference": "The image, sourced from GoogleEarth with high resolution, depicts a small aircraft parked at the bottom right of a tarmac area, surrounded by designated circles that indicate parking grounds. There are also dark, curved lines visible, likely indicating taxiways.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an airport with two small planes visible on the tarmac. The planes are positioned at the bottom-right corner of the image, with one plane being closer to the right edge and another towards the left side."
+ },
+ {
+  "image_id": "P2330_0106.png",
+  "reference": "The image, sourced from GoogleEarth, features a solitary small ship navigating through a body of water with a cloudy background. The ship is situated at the bottom-left of the image.",
+  "prediction": "The high-resolution image from GoogleEarth features a large ship positioned at the bottom-left of the frame, surrounded by a vast expanse of water. The ship is characterized by its elongated shape and distinct structure."
+ },
+ {
+  "image_id": "P3575_0002.png",
+  "reference": "The image, sourced from GoogleEarth, shows a recreational area with various amenities. It features three closely positioned tennis courts. There is also a top-most tennis court towards the upper right of the image, positioned diagonally from the middle-left to the right. In the bottom-right corner, there is a baseball diamond, with its shape slightly trimmed by the image boundary. Additionally, a small swimming pool is located near the bottom-left corner of the image. Scattered across the image are multiple small vehicles, with some positioned in the top-middle of the frame.",
+  "prediction": "The high-resolution image from GoogleEarth shows a recreational area with multiple tennis courts and surrounding greenery. There are three tennis courts visible, each with distinct markings on the playing surface. The courts are arranged in a linear fashion, with one positioned at the bottom of the image and another towards the top right corner."
+ },
+ {
+  "image_id": "P1390_0033.png",
+  "reference": "The high-resolution image from GoogleEarth displays a line-up of small planes next to a runway. There are a total of six planes visible. The planes are aligned parallel to the runway, which features distinct yellow markings. The surrounding terrain is parched with some areas of sparse vegetation.",
+  "prediction": "The high-resolution image from GoogleEarth shows a series of planes parked on a tarmac. There are seven planes visible, with some positioned closer to the top edge and others towards the bottom. The planes are aligned in a row, with varying orientations."
+ },
+ {
+  "image_id": "P0844_0002.png",
+  "reference": "The high-resolution image from GoogleEarth showcases an area with two tennis courts adjacent to a building. One tennis court is bottom-most, while the other is positioned towards the top right corner.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an area with two tennis courts and a small vehicle. The tennis courts are positioned adjacent to each other, with one court located towards the top-right corner of the image and another towards the bottom-right corner. A small vehicle is situated at the top-left corner of the image."
+ },
+ {
+  "image_id": "11233_0000.png",
+  "reference": "This image, sourced from GoogleEarth, captures a segment of land with a well-defined baseball field at the middle-right side and a ground track field occupying a large space with red tracks at the left side. Trees border the top of the image, with clearings and paths surrounding the recreational areas. Adjacent to the baseball field, there are several small structures, possibly related to sports activities.",
+  "prediction": "The aerial image from GoogleEarth features a sports complex with various facilities. There is a baseball diamond located at the top-right corner of the image, surrounded by greenery and a dirt infield. Adjacent to it, there is a large track field with a running track and a grassy area for activities. The complex also includes a smaller baseball diamond situated towards the bottom-left corner of the image."
+ },
+ {
+  "image_id": "P6687_0021.png",
+  "reference": "This high-resolution aerial image features a highway with lanes traveling in different directions, bordered by a dense area of foliage on one side. There are five small vehicles on the highway, some traveling closer to the center while others are near the edges of the roadway.",
+  "prediction": "The aerial image captures a section of a highway with multiple lanes and vehicles. There are four small vehicles visible on the road, with one positioned at the bottom-middle of the image, another towards the top-left corner, and two more located near the bottom edge. The highway is flanked by greenery on both sides."
+ },
+ {
+  "image_id": "07356_0000.png",
+  "reference": "The image, sourced from GoogleEarth, depicts a waterfront with two small ships docked near a large pier that extends into the water, with lush greenery on the opposite side of a road running parallel to the shore. The absence of a clear image resolution prevents detailing of the image's quality. One ship is located at the topmost position at the pier, while the other is situated to the right side of the pier.",
+  "prediction": "The image, sourced from GoogleEarth, features a large ship docked at a port area with a body of water to its right and a road running parallel to it on the left. The ship is positioned near the bottom-right corner of the image."
+ },
+ {
+  "image_id": "P1598_0040.png",
+  "reference": "The grayscale aerial image sourced from JL depicts a small airplane located on the right side of the frame. The image has a high resolution, allowing fine details of the airport's tarmac, taxiways, and surrounding terrain to be discerned.",
+  "prediction": "The grayscale image provided by JL features an expressway toll station located at the top-right corner of the frame. The toll station is characterized by its distinct shape and is surrounded by roads and adjacent areas."
+ },
+ {
+  "image_id": "P0047_0014.png",
+  "reference": "The image, sourced from GoogleEarth with high resolution, features a small baseball diamond situated in the top-left area. This baseball diamond have infield dirt and surrounding grassy outfield, and it is bordered by trees with a curving pathway adjacent to it. The scene includes green open spaces, a winding road, and trees scattered around the area.",
+  "prediction": "The high-resolution image from GoogleEarth shows a park area with various features including a baseball diamond, trees, and a curved road. The baseball diamond is located at the top-left corner of the image, surrounded by greenery. There are also two small vehicles visible: one positioned towards the bottom-middle of the image and another towards the right side near the edge of the frame."
+ },
+ {
+  "image_id": "06468_0000.png",
+  "reference": "The image sourced from GoogleEarth shows a solitary ship floating on the water without visible resolution information. The ship is a significant visual element within the image.",
+  "prediction": "The high-resolution image from GoogleEarth features a large ship with a rectangular shape and a white superstructure, floating on a body of water. The ship occupies a significant portion of the frame, stretching from the middle-left to the bottom-right corner."
+ },
+ {
+  "image_id": "10125_0000.png",
+  "reference": "The image from GoogleEarth shows a sports facility area featuring two basketball courts and one tennis court. The basketball courts are positioned parallel to each other, one in the upper half and the other in the lower half of the image. To the right side of the image, there is a tennis court placed perpendicularly to the basketball courts.",
+  "prediction": "The image, sourced from GoogleEarth, features an aerial view of a sports complex with two basketball courts and one tennis court. The basketball courts are positioned side by side, with the top court being larger than the bottom one. The tennis court is located to the right of the basketball courts."
+ },
+ {
+  "image_id": "P1434_0005.png",
+  "reference": "The high-resolution image from GoogleEarth showcases a parking area with a mix of large and small vehicles. There are three large vehicles visible, positioned mostly towards the bottom-left section of the image. Additionally, two small vehicles are clearly visible; one is located in the middle-left section and the other is towards the right edge of the image. The parking area is bordered by trees and buildings, creating a semi-enclosed space.",
+  "prediction": "The high-resolution image from GoogleEarth shows a parking area with several vehicles and a large building. There are at least six small vehicles visible, including one located towards the top-left corner of the image. Additionally, there is a large vehicle positioned near the bottom-middle part of the image. The parking area is surrounded by greenery on one side and a building on the other."
+ },
+ {
+  "image_id": "11217_0000.png",
+  "reference": "The aerial image provided by GoogleEarth shows a residential area with a single visible vehicle. Despite the lack of specific resolution details, the image captures a house with a distinct red roof and a nearby roadway. A cluster of trees is also visible beside the house, and various terrain textures are observable around the area.",
+  "prediction": "The image, sourced from GoogleEarth, shows an aerial view of a landscape with a small vehicle located on the left side. The vehicle is positioned near a building with a red roof and surrounded by vegetation."
+ },
+ {
+  "image_id": "P2701_0013.png",
+  "reference": "The high-resolution image sourced from GoogleEarth showcases a small harbor extending towards the east with a concrete waterfront. Adjacent to the harbor are four small storage tanks, some located in the middle-right of the frame and others further right, clustered together in a compact formation.",
+  "prediction": "The high-resolution image from GoogleEarth shows a large harbor with a curved structure extending into the water. The harbor is surrounded by various industrial buildings and infrastructure, including roads and parking areas."
+ },
+ {
+  "image_id": "09737_0000.png",
+  "reference": "The image is from GoogleEarth and shows a residential area with houses surrounded by greenery and a road intersecting the scene. There are two vehicles parked along the side of the street. The vehicles are small and are located in the top-left quadrant of the image.",
+  "prediction": "The high-resolution image from GoogleEarth shows a residential area with houses, driveways, and a tennis court. There are three small vehicles visible: one is located at the top-left corner of the image, another is positioned towards the middle-left, and the third vehicle is situated at the bottom-right corner. The tennis court is located at the bottom-right corner of the image."
+ },
+ {
+  "image_id": "P1410_0019.png",
+  "reference": "The image sourced from GoogleEarth shows a high-resolution view of a baseball diamond. The diamond is situated on the right side of the frame with a small infield and outfield. The surrounding area is a mix of sandy terrain and well-maintained grass, with some visible structures such as a backstop behind home plate and a dugout along one side of the field.",
+  "prediction": "The high-resolution image from GoogleEarth shows a baseball field with a green infield and a dirt outfield. The field is surrounded by a parking area on one side and a grassy area on another, with trees visible at the edges of the parking lot."
+ },
+ {
+  "image_id": "10383_0000.png",
+  "reference": "The image, sourced from GoogleEarth, shows a recreational area with two baseball fields adjacent to one another. The top-most baseball field is enclosed within a curved yellow line that denotes its boundary. The bottom-most baseball field is larger than the top one and is similarly enclosed within a boundary line. There are no visible structures such as spectator stands or buildings within the confines of the baseball fields, and pedestrian paths are adjacent to both fields..",
+  "prediction": "The image, sourced from GoogleEarth, features a baseball field with a distinctive diamond shape and surrounding greenery. The field is surrounded by a curved boundary line that demarcates the playing area. There are no visible players or game action taking place on the field."
+ },
+ {
+  "image_id": "06002_0000.png",
+  "reference": "The image sourced from GoogleEarth features two overpasses. The overpasses are displayed running horizontally across the bottom of the image. The top overpass is notably larger than the bottom one.",
+  "prediction": "The image, sourced from GoogleEarth, shows an aerial view of a section of a highway with multiple lanes. The highway is surrounded by greenery on one side and a clear demarcation line on the other. There is a small bridge located at the bottom-middle part of the image, spanning across the highway."
+ },
+ {
+  "image_id": "P1179_0032.png",
+  "reference": "The high-resolution image sourced from GoogleEarth captures an area with adjacent tarmac and a street lined with buildings. Several small vehicles are visible on the street. One notable vehicle is situated in the left-most part of the group.",
+  "prediction": "The high-resolution image from GoogleEarth shows an airport with various vehicles and structures. There is a large vehicle positioned at the bottom-middle of the image, and another large vehicle located towards the top-right corner. Additionally, there are several small vehicles scattered throughout the scene, including one near the center-top of the image and another towards the middle-right. The airport tarmac features markings and taxiways, and there are buildings with red roofs adjacent to the parking area."
+ },
+ {
+  "image_id": "08606_0000.png",
+  "reference": "The image provided comes from GoogleEarth and features an industrial area with various structures. There is a chimney located at the bottom of the image, and a vehicle is situated in the middle-right section. The surroundings contain buildings of varying sizes and a road on left and right sides.",
+  "prediction": "The image, sourced from GoogleEarth, shows an industrial area with various structures and vehicles. There is one large vehicle located towards the bottom-right of the image."
+ },
+ {
+  "image_id": "P1672_0040.png",
+  "reference": "The high-resolution image captured by JL features a transportation hub with visible infrastructure such as a roundabout and plane. A roundabout is situated in the middle-left part of the image. Towards the bottom of the image, there is a plane.",
+  "prediction": "The grayscale image provided by GF features a medium resolution view of an airport with various infrastructure elements. Prominently, there is a small plane located towards the bottom-middle of the image, positioned on the tarmac."
+ },
+ {
+  "image_id": "P1452_0003.png",
+  "reference": "High-resolution aerial image sourced from GoogleEarth displaying a compound with various large vehicles and industrial elements. In the middle-left of the image, the most top-most large vehicle is visible. Another large vehicle is located to the right side in the middle-left section and is partially cropped.",
+  "prediction": "The high-resolution image from GoogleEarth shows a parking area with several large vehicles and a small vehicle. The vehicles are parked in rows, with some positioned near the top of the image and others towards the bottom. There is a distinct small vehicle located at the bottom-left corner of the image."
+ },
+ {
+  "image_id": "06315_0000.png",
+  "reference": "The image, sourced from GoogleEarth, features an aerial view of a sports complex with a large ground track field visible. The track field includes lanes, a central grassy area, and a soccer field with visible boundary lines and a center circle. Surrounding the track field, there are patches of grass and dirt areas.",
+  "prediction": "The image, sourced from GoogleEarth, features an aerial view of a sports complex with a soccer field and a track and field area. The soccer field is located on the right side of the image, with its distinctive rectangular shape and white markings. Adjacent to it, there is a track and field area with a running track encircling a central field."
+ },
+ {
+  "image_id": "10438_0000.png",
+  "reference": "Overhead view of an urban area from GoogleEarth featuring a small stadium with a green field surrounded. Surrounding the stadium, there are various buildings, roads, and patches of vegetation.",
+  "prediction": "The image, sourced from GoogleEarth, features an aerial view of a stadium with a large green field and surrounding structures. The stadium is surrounded by roads and buildings, with trees visible along the edges."
+ },
+ {
+  "image_id": "08489_0000.png",
+  "reference": "An aerial view of a residential area captured by Google Earth showing a basketball court placed adjacent to a housing development. The court is marked with the standard lines and circles for gameplay. Surrounding the court, there are discernible pathways and greenery.",
+  "prediction": "The image, sourced from GoogleEarth, features an aerial view of a basketball court located at the bottom-right corner. The court is surrounded by a mix of greenery and open spaces."
+ },
+ {
+  "image_id": "08049_0000.png",
+  "reference": "This aerial image from GoogleEarth features an airport tarmac with clearly marked lanes and a large airplane positioned on it.",
+  "prediction": "The high-resolution image from GoogleEarth shows a large airplane on a tarmac with visible markings and a green area adjacent to it. The airplane is positioned diagonally across the frame, with its wings spanning from the bottom left to the top right of the image."
+ },
+ {
+  "image_id": "P1541_0036.png",
+  "reference": "The high-resolution image provided by JL depicts a grayscale aerial view of a landscape. It features a distinctive small bridge located towards the top-middle area of the frame.",
+  "prediction": "The grayscale image provided by GF features a medium resolution view of an area with a bridge located at the top-left corner. The bridge spans across a body of water, connecting two land masses."
+ },
+ {
+  "image_id": "10688_0000.png",
+  "reference": "The image sourced from GoogleEarth shows a small basketball court at the bottom, a couple of distinct vehicles, and surrounding infrastructure including roads and possibly a park area with no specified image resolution. The basketball court is marked with white lines and has a hoop at one of its ends. At least four vehicles are evident in the area - one of which is the right-most on the top side, one is positioned as the bottom-most vehicle out of those visible, and another is located in the top-left region of the scene. Surrounding the court and vehicles are patches of green that could indicate grassy areas, as well as sections that appear to be sandy playgrounds.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an urban area with various elements including vehicles, a basketball court, and a playground. There are three small vehicles visible: one located at the top-left corner, another near the center, and the third positioned towards the top-right. The basketball court is situated on the bottom right side of the image, while the playground occupies the bottom left area."
+ },
+ {
+  "image_id": "P2330_0051.png",
+  "reference": "The image from GoogleEarth features three small ships on a body of water. There are three ships with one being at the center and the other on the middle-right side of the frame. The other two ships are at the top section of the lighter side.",
+  "prediction": "The image, sourced from GoogleEarth with high resolution, features two large ships positioned on a dark water body. The ship located towards the top-right of the frame is larger and has a distinct rectangular shape. Another ship is situated towards the bottom-middle of the image, smaller in size compared to the first one."
+ },
+ {
+  "image_id": "07748_0000.png",
+  "reference": "An aerial view of an area from GoogleEarth with a basketball court and parking spaces visible. The basketball court is lined with red and enclosed by a fence. Adjacent to the basketball court, there is a parking lot where two vehicles are parked. One vehicle is positioned towards the top of the parking lot, and the other is positioned in the middle-right area near the bottom of the parking lot.",
+  "prediction": "The high-resolution image from GoogleEarth shows a basketball court with a small vehicle parked on its right side. The court is surrounded by a parking area with several marked spaces and trees providing shade."
+ },
+ {
+  "image_id": "P0217_0003.png",
+  "reference": "The high-resolution image from Google Earth shows an airport with small planes parked at the tarmac. The planes are positioned in close proximity to the airport buildings. One small plane is positioned at the bottom right portion of the image. The image captures small vehicles located on the top side of the image. The airport surroundings include roadways and parking areas.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an airport with multiple planes and vehicles. There are six planes visible, with one plane positioned at the top-left corner of the image, another at the bottom-middle, and two more towards the right side. Additionally, there is a small vehicle located at the top-right corner of the image."
+ },
+ {
+  "image_id": "P1356_0009.png",
+  "reference": "High-resolution grayscale image sourced from GF revealing several ships within a coastal area. There are at least four ships present, positioned towards the left side of the image, with one ship located in the top-left corner nearly parallel to the frame and another at the bottom. The specified area exhibits a mix of irregular and geometric shapes.",
+  "prediction": "The grayscale image provided by GF features a medium resolution view of a landscape with a bridge located at the bottom-middle part of the frame. The bridge spans over a body of water, connecting two land masses. Surrounding the bridge, there is a mix of agricultural fields and some built-up areas."
+ },
+ {
+  "image_id": "08029_0000.png",
+  "reference": "The image, sourced from GoogleEarth, displays a top-down view of an industrial area with storage tanks and pipeline infrastructure. There are three visible storage tanks of similar size, with two located towards the right and one on the bottom-left side of the image. The surrounding area is an open field with sections of dirt access roads intersecting at right angles and connecting the tanks and other facilities.",
+  "prediction": "The image, sourced from GoogleEarth, features an industrial area with three large storage tanks. The tanks are circular and have white tops. They are arranged in a triangular formation with one tank positioned at the top-right corner of the image, another at the bottom-right corner, and the third at the bottom-left corner."
+ },
+ {
+  "image_id": "P1086_0003.png",
+  "reference": "The high-resolution image from Google Earth showcases a recreational area with two adjacent tennis courts.",
+  "prediction": "The high-resolution image from GoogleEarth shows a recreational area with two tennis courts and a swimming pool. The tennis courts are positioned adjacent to each other, with one located towards the top of the image and the other towards the bottom. A small, rectangular swimming pool is situated at the bottom-right corner of the image."
+ },
+ {
+  "image_id": "P0949_0007.png",
+  "reference": "The high-resolution image sourced from GoogleEarth depicts a two ships situated at the top-right corner.",
+  "prediction": "The high-resolution image from GoogleEarth features a large body of water with two ships visible. One ship is located towards the top-right corner, while the other is positioned at the top-middle part of the image."
+ },
+ {
+  "image_id": "07163_0000.png",
+  "reference": "The image sourced from GoogleEarth shows a portion of an expressway service area adjacent to a dense treeline, and an overpass crossing over the area near the top right. The service area cover a modest area with a mixture of structures and parking spaces.",
+  "prediction": "The image, sourced from GoogleEarth, shows an aerial view of a small expressway toll station located on the right side of the frame. The toll station is surrounded by a mix of greenery and developed areas."
+ },
+ {
+  "image_id": "07286_0000.png",
+  "reference": "The image, sourced from Google Earth, shows an aerial view of a location with two small tennis courts positioned in the bottom right section. The courts are parallel to each other with one being the left-most and the other being the right-most in the image. Adjacent to the courts on the left, there is a large structure, possibly a building, and a wide road is seen running along the left edge of the image. The surrounding area includes grass and a few trees.",
+  "prediction": "The image, sourced from GoogleEarth, features a section of an area with two tennis courts and a road running parallel to them. The tennis courts are positioned adjacent to each other, with one located towards the bottom right corner and the other towards the bottom left corner of the image."
+ },
+ {
+  "image_id": "P0466_0001.png",
+  "reference": "The aerial image from GoogleEarth shows a high-resolution view of a recreational area surrounded by vegetation. There are three tennis courts arranged vertically. The courts are small in size and share consistent coloring and markings.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an area with three tennis courts. The courts are aligned horizontally, with the left-most court being the smallest and the right-most court being the largest. Surrounding the courts is a dense green area that appears to be a forest or a heavily vegetated region."
+ },
+ {
+  "image_id": "P0457_0004.png",
+  "reference": "The high-resolution image from GoogleEarth presents a birds-eye view of a location with a small parking area surrounded by trees and alongside a basketball court. A number of small vehicles are parked, and there's a distinct basketball court that is small in size, located towards the bottom left corner of the image. The court is adjacent to a tennis court.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an area with multiple small vehicles and a basketball court. There are five small vehicles visible, parked along the edges of a parking lot or near buildings. The basketball court is located at the bottom-left corner of the image, with its distinctive markings clearly visible."
+ },
+ {
+  "image_id": "10491_0000.png",
+  "reference": "Aerial view of a landscape from GoogleEarth showing a mix of agricultural fields with distinct cultivation patterns. Within the scene, two windmills are visible. One windmill is located in the bottom right of the image, while the other is positioned towards the top right.",
+  "prediction": "The image, sourced from GoogleEarth, features a landscape with agricultural fields and two windmills. The fields are marked by distinct patterns of plowing, and the terrain is relatively barren with some patches of vegetation. One windmill is positioned towards the top-right corner of the image, while another is located at the bottom-right corner."
+ },
+ {
+  "image_id": "09806_0000.png",
+  "reference": "The image sourced from GoogleEarth presents an aerial view of agricultural fields with varying shades of brown and tan, displaying signs of harvesting. The patterns of the fields create a patchwork effect, with some fields showing more textured furrows than others. A solitary windmill is visible, situated in the top-right section of the image.",
+  "prediction": "The image, sourced from GoogleEarth, shows a landscape with various fields and a windmill located towards the top-right corner of the frame. The fields exhibit different shades of brown, indicating varying stages of cultivation or land use. The windmill stands out due to its distinct shape and position relative to the surrounding terrain."
+ },
+ {
+  "image_id": "06767_0000.png",
+  "reference": "The image from GoogleEarth shows an aerial view of an airport setting with an airplane parked on the tarmac to the right side of the frame. The plane is small with its wings extending outward from a central fuselage. The surrounding area includes structures associated with airport operations.",
+  "prediction": "The high-resolution image from GoogleEarth shows an airport tarmac with a large plane positioned on the bottom right side of the frame. The plane is surrounded by various ground markings and equipment, including a small vehicle located towards the top-right corner of the image."
+ },
+ {
+  "image_id": "06270_0000.png",
+  "reference": "The aerial image from GoogleEarth shows a scene dominated by an abundance of greenery and pathways winding through a park-like area. Notable features include a solitary tennis court in the bottom-right corner of the image. The surrounding area is dense with trees, and paths meandering around the foliage.",
+  "prediction": "The aerial image from GoogleEarth features a landscape with dense greenery and a tennis court located at the bottom-right corner of the frame. The tennis court is surrounded by trees, and there is a road running parallel to the court's edge."
+ },
+ {
+  "image_id": "09262_0000.png",
+  "reference": "This satellite image from Google Earth features a portion of a maritime environment with two distinct ships docked.The dark water surface takes up more than half the image area. The top-most ship is smaller compared to the ship at the bottom.",
+  "prediction": "The high-resolution image from GoogleEarth shows a large ship docked at a port with multiple structures and equipment visible on its deck. The ship is positioned near the bottom of the frame, occupying a significant portion of the image."
+ },
+ {
+  "image_id": "06732_0000.png",
+  "reference": "The image from GoogleEarth shows a section of an overpass on the bottom-right side. Adjacent to the overpass is an expressway service area that takes up a large portion of the image and displays complex structures including buildings with various rooftop colors, indicating different facilities and services provided at the location. The service area is bordered by a green space with dense vegetation on one side, providing contrast to the more developed areas.",
+  "prediction": "The image, sourced from GoogleEarth, features a landscape with a mix of natural and man-made elements. A tennis court is visible on the right side of the image, surrounded by buildings with red roofs and greenery. The court has a blue surface and is positioned adjacent to a road that runs along the bottom edge of the image."
+ },
+ {
+  "image_id": "P1390_0046.png",
+  "reference": "The high-resolution image sourced from GoogleEarth displays a group of three small planes situated on a tarmac. The left-most plane is positioned near the left edge of the frame, while the right-most plane is close to the center of the image. The third plane is located towards the bottom of the top left quadrant image. A curved dirt roadway is seen on the right side, cutting through the otherwise barren landscape around the parked aircraft.",
+  "prediction": "The high-resolution image from GoogleEarth shows a group of planes parked on a dirt surface with visible tire tracks. There are six planes in total, with some positioned closer to the top edge and others towards the bottom. The planes have a similar design, featuring white bodies with dark accents."
+ },
+ {
+  "image_id": "10232_0000.png",
+  "reference": "This color image sourced from GoogleEarth depicts an area with a variety of visible structures and vehicles. At the center, there is a large expressway service area spanning most of the image's width. A small overpass is observable towards the right side of the scene. Embed within the service area, a number of vehicles are parked in various locations, among them a larger vehicle stands out in the center, and a couple of vehicles are positioned on what appears to be a parking area to the right.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an area with a train station and surrounding infrastructure. The train station is located towards the bottom-middle of the image, characterized by its distinct layout and the presence of tracks. Adjacent to the train station, there are several buildings and structures, including what appears to be a parking lot or open space."
+ },
+ {
+  "image_id": "09610_0000.png",
+  "reference": "The image from GoogleEarth showcases a train station at the bottom part, surrounded by a variety of other infrastructure. Adjacent to the train station, there's a notable ground track field of a small size. The overall area is densely built with multiple buildings, indicating an urban environment.",
+  "prediction": "The image, sourced from GoogleEarth, shows an urban area with a mix of residential and industrial buildings. A distinctive feature is the presence of a large train station located at the bottom part of the image. The station has multiple platforms and tracks, indicating it serves as a major transportation hub for the region. Surrounding the station, there are various buildings with different roof colors, and the area is densely packed with structures."
+ },
+ {
+  "image_id": "P1809_0086.png",
+  "reference": "The high-resolution image from GoogleEarth presents a portion of an airport with a mix of paved areas and vegetated land. At least four small vehicles are identifiable, scattered across the tarmac and adjacent spaces. A cluster of trees in the center bisects the asphalt and concrete surfaces, creating visual contrast with the man-made elements around it.",
+  "prediction": "The high-resolution image from GoogleEarth shows an area with various elements including vehicles and buildings. There is a small vehicle located at the bottom-middle of the image, positioned on a road adjacent to a dense green area. Another small vehicle is situated towards the top-left corner of the image, parked near a building."
+ },
+ {
+  "image_id": "P1586_0015.png",
+  "reference": "This high-resolution grayscale image from JL features a dense urban area with a network of roads interspersed with buildings. Within the image is a small, distinct roundabout located at the center of the crossroad.",
+  "prediction": "The grayscale image provided by JL features a medium resolution view of an urban area with a distinctive roundabout at the bottom-right corner. The roundabout is surrounded by various buildings and roads, creating a complex network of transportation routes."
+ },
+ {
+  "image_id": "10678_0000.png",
+  "reference": "This aerial image from GoogleEarth features residential buildings with dark rooftops and a distinctive basketball court with red surface and white markings in the lower right corner.",
+  "prediction": "The image, sourced from GoogleEarth, features an aerial view of a basketball court with a distinctive red surface and white markings. The court is surrounded by buildings and pathways."
+ },
+ {
+  "image_id": "P2488_0022.png",
+  "reference": "This high-resolution image from GoogleEarth showcases a suburban area with a gridded street layout featuring numerous houses, each with distinct gardens and driveways. The image includes two swimming pools, both are small in size, located within residential backyards.",
+  "prediction": "The high-resolution image from GoogleEarth shows a suburban area with a mix of residential houses, green spaces, and a large field. The houses are arranged in a grid-like pattern, with streets running perpendicular to each other. There is a noticeable contrast between the dense development of the residential areas and the open space of the field."
+ },
+ {
+  "image_id": "08922_0000.png",
+  "reference": "The aerial image from Google Earth features a landscape with various elements commonly found in a rural area. In the center bottom part of the image, there's a small expressway toll station.",
+  "prediction": "The image, sourced from GoogleEarth, shows an airport with a small runway and surrounding infrastructure. The runway is visible on the left side of the image, extending horizontally across the frame. Adjacent to the runway, there are buildings and what appears to be a parking area or service facilities."
+ },
+ {
+  "image_id": "06944_0000.png",
+  "reference": "This aerial image from GoogleEarth captures part of an airport with a small airplane and a vehicle on the tarmac. The airplane is centrally located within the image, positioned on the ground with its wings extending across.",
+  "prediction": "The high-resolution image from GoogleEarth shows an airport tarmac with a large plane positioned on the left side of the frame. The plane is surrounded by various markings and lines on the ground, indicating parking or taxiing areas. There are no other planes visible in the immediate vicinity."
+ },
+ {
+  "image_id": "09445_0000.png",
+  "reference": "The image, sourced from Google Earth, features two adjacent tennis courts with no specific resolution details provided. The courts are surrounded by a small parking area on the left and some greenery. The two courts can be distinguished from each other; one is positioned in the center, while the other is located closer to the right edge of the image.",
+  "prediction": "The image, sourced from GoogleEarth, features two tennis courts with a small size. The courts are positioned adjacent to each other, with one court located towards the bottom-right and another towards the top-right of the image."
+ },
+ {
+  "image_id": "P2766_0044.png",
+  "reference": "The high-resolution Google Earth image depicts a predominantly industrial area with buildings and infrastructure. Prominently featured in the image is a storage tank located towards the middle-right of the frame.",
+  "prediction": "The high-resolution image from GoogleEarth shows an industrial area with various buildings and structures. Prominently, there is a storage tank located towards the right side of the image."
+ },
+ {
+  "image_id": "P1065_0002.png",
+  "reference": "The high-resolution image from GoogleEarth depicts a waterfront residential area with visible harbors and small vehicles. The harbors are small in size with one located at the top-most part of the image and the other at the bottom-most part. A small vehicle can be seen near the top-left corner of the image, and another is positioned at the bottom-left edge.",
+  "prediction": "The high-resolution image from GoogleEarth features a waterfront residential area with houses, trees, and a large swimming pool located at the bottom-middle of the frame. There is a unique small ship positioned towards the top-middle part of the image, docked near the water's edge."
+ },
+ {
+  "image_id": "11248_0000.png",
+  "reference": "The image provided by GoogleEarth shows a small bridge crossing over a water body. The bridge connects two pieces of land and is visible amidst surrounding greenery.",
+  "prediction": "The image, sourced from GoogleEarth, shows a section of a road with a small vehicle located on the right side. The surrounding area includes greenery and a few patches of bare ground."
+ },
+ {
+  "image_id": "08217_0000.png",
+  "reference": "The image, sourced from GoogleEarth, shows a small expressway-toll-station and two vehicles on its right side. The toll station is a prominent structure in the bottom-right regions of the image with blue roofing. the smaller of the two vehicles is located closest to the bottom edge of the image.",
+  "prediction": "The image, sourced from GoogleEarth, features a small vehicle positioned on a road with a distinct blue roof. The vehicle is captured in a top-down view and occupies a significant portion of the frame."
+ },
+ {
+  "image_id": "P0613_0003.png",
+  "reference": "A high-resolution Google Earth image displays a water body with one small ship and two harbors. The harbors are positioned at the top and middle-right sections within the image, with the ship located between them.",
+  "prediction": "The high-resolution image from GoogleEarth features a body of water with three distinct harbors and one ship. The top-most harbor is located at the top edge of the image, extending horizontally across the frame. Another harbor is situated towards the bottom-right corner, also stretching horizontally. A third harbor is positioned at the middle-right side, oriented vertically. Additionally, there is a ship located near the center of the image, docked at the bottom-most harbor."
+ },
+ {
+  "image_id": "P2330_0018.png",
+  "reference": "This image from GoogleEarth shows a dark ocean surface with four small ships visible. One ship is located in the top-left quadrant of the image, another in the center area, and the third is towards the top-right quadrant. The fourth ship overlaps with another in the bottom half of the image. Due to the dark background, the ships are clearly distinguished.",
+  "prediction": "The image, sourced from GoogleEarth with high resolution, features a dark expanse of water with three ships visible. The largest ship is positioned towards the bottom-middle of the frame, while two smaller ships are located at the top-left and top-right corners of the image."
+ },
+ {
+  "image_id": "P1854_0024.png",
+  "reference": "The high-resolution image sourced from Google Earth depicts part of an airport tarmac with airplanes and vehicles. Two planes are seen in the image. Adjacent to these planes, there are small vehicles visible. There is a large vehicle located in the top-left part of the image.",
+  "prediction": "The high-resolution image from GoogleEarth shows two large planes parked at an airport terminal with their wings spanning across the frame. The planes are positioned on the tarmac, with one plane located towards the left side of the image and another towards the right. There is also a small vehicle visible near the bottom center of the image."
+ },
+ {
+  "image_id": "P0882_0005.png",
+  "reference": "The high-resolution image from GoogleEarth shows a small tennis court surrounded by an area with dry grass and trees. The court is uniquely shaped and positioned in the left part of the image.",
+  "prediction": "The high-resolution image from GoogleEarth features a tennis court located on the left side of the frame, surrounded by a mix of greenery and open land. The court is rectangular with a blue playing surface and white boundary lines."
+ },
+ {
+  "image_id": "11198_0000.png",
+  "reference": "The image from GoogleEarth shows a portion of an overpass and a vehicle on a road parallel to it. The road appears to run east-west, judging by the overpass's orientation. The overpass dominates the scene and is situated in the central area. A single vehicle can be seen on the road, positioned at the bottom-middle of the image.",
+  "prediction": "The image, sourced from GoogleEarth, shows a section of an expressway service area with a large parking lot and a road running alongside it. The parking lot is divided into sections by marked lines, and there is one small vehicle visible on the bottom right side of the parking lot."
+ },
+ {
+  "image_id": "P0929_0004.png",
+  "reference": "This high-resolution image sourced from GoogleEarth displays a coastal area with two small harbors. The top-most harbor is located towards the upper right corner. The bottom-most harbor, situated towards the lower-right part of the image.",
+  "prediction": "The high-resolution image from GoogleEarth features a harbor with multiple docks extending into the water body. The harbor is situated on the right side of the image, with its docks clearly visible."
+ },
+ {
+  "image_id": "09294_0000.png",
+  "reference": "The image sourced from GoogleEarth shows a small baseball field with distinct diamond-shaped brown infield and surrounding green outfield areas. The field is situated in the top-right sections of the image, featuring a pitching mound and bases visible on the infield. Adjacent to the baseball field, there is a circular structure, a roundabout, and several parking spaces delineated by white lines. There is also a building south of the field in the bottom-right sections of the image.",
+  "prediction": "The image, sourced from GoogleEarth, features a baseball field with a dirt infield and grass outfield. The field is surrounded by a parking lot on one side and a green area on the other. There are no visible players or game action taking place."
+ },
+ {
+  "image_id": "P2169_0003.png",
+  "reference": "The GoogleEarth image depicts a wide highway running perpendicular to the view with multiple lanes and vehicles. To the left of the highway, an area of cleared land is. Dense greenery surrounds the highway and the cleared land. A medium-sized, rectangular swimming pool is situated at the bottom left of the image.",
+  "prediction": "The high-resolution image from GoogleEarth features a landscape with a large road running diagonally across the frame, surrounded by patches of greenery and a small body of water to the left. There is a unique small vehicle located on the top-left side of the road."
+ },
+ {
+  "image_id": "09965_0000.png",
+  "reference": "The image from GoogleEarth showcases a structure resembling a chimney with a wide, round body tapering towards the top. The color of the chimney appears homogeneous, and it occupies a substantial portion of the image's central area.",
+  "prediction": "The high-resolution image from GoogleEarth features a large chimney with a distinctive conical shape, surrounded by various industrial structures and infrastructure. The chimney is positioned centrally within the frame, occupying a significant portion of the image."
+ },
+ {
+  "image_id": "P0348_0004.png",
+  "reference": "The high-resolution image from GoogleEarth illustrates a small harbor extending over a body of water, identifiable by its position in the middle part of the image. There is small ship near the harbor. Adjacent to the harbor, on the bottom side, there is a building structure.",
+  "prediction": "The high-resolution image from GoogleEarth shows a harbor with a small ship docked at its pier. The harbor is situated on the left side of the image, extending into the water body. The ship is positioned near the center of the pier, and it appears to be stationary."
+ },
+ {
+  "image_id": "P1398_0015.png",
+  "reference": "The high-resolution image from GoogleEarth features a couple of parked small planes on a tarmac. The planes are shown with their distinctive blue and white liveries. They are oriented horizontally across the image and are approximately the same size relative to each other.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an airport tarmac with two large planes positioned side by side. The planes have a similar design, featuring multiple engines and wings."
+ },
+ {
+  "image_id": "10892_0000.png",
+  "reference": "This aerial view captured from GoogleEarth shows a small bridge over a body of water with two small vehicles on an adjacent road. The bridge is positioned in the upper half of the image, while the vehicles are aligned parallel to the bridge, one near the bottom-left corner and another towards the mid-right of the frame.",
+  "prediction": "The high-resolution image from GoogleEarth shows two small vehicles on a road with a grassy area to the left and a paved surface to the right. The vehicles are positioned at different points along the road, with one located towards the bottom-left corner of the image and another towards the bottom-right corner."
+ },
+ {
+  "image_id": "P2645_0011.png",
+  "reference": "A high-resolution GoogleEarth image showing an industrial area. The image features a cluster of three storage tanks, with two having a white speckled pattern on their circular roofs and one being partially visible. A unique large vehicle is located on the top-left of the image.",
+  "prediction": "The high-resolution image from GoogleEarth shows a section of an industrial area with large storage tanks and surrounding infrastructure. There are three prominent storage tanks visible, each with a circular shape and white tops. The tanks are arranged in a pattern that suggests they are part of a larger facility. Adjacent to the tanks, there is a road running parallel to the tanks, and a section of greenery can be seen on the left side of the image."
+ },
+ {
+  "image_id": "10620_0000.png",
+  "reference": "The image, sourced from GoogleEarth, shows an aerial view featuring a highway with two visible vehicles and an overpass on the right side of the frame. There is a light-colored vehicle positioned closer to the top edge of the image and a dark-colored vehicle located towards the bottom edge. The highway have multiple lanes with clear lane markings. Adjacent to the highway, there are areas covered in trees.",
+  "prediction": "The aerial image from GoogleEarth shows a section of a highway with two small vehicles visible on it. The vehicles are positioned at different points along the road, with one located towards the top-middle and another towards the bottom-middle of the image."
+ }
+]

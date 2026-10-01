@@ -1,0 +1,1002 @@
+[
+ {
+  "image_id": "P1386_0046.png",
+  "reference": "This high-resolution image provided by GoogleEarth features a maritime scene where a small ship is visible in the top-right area surrounded by the texture of water and other indistinct land or water features.",
+  "prediction": "The image appears to be a low-resolution, blurry photograph of a landscape scene. The main elements visible in the image include:\n\n1. **Trees**: There are several trees with green foliage, suggesting a forest or wooded area.\n2. **Ground**: The ground is covered with what looks like grass or a similar vegetation, possibly indicating a meadow or a park.\n3. **Sky**: The sky is not clearly visible due to the blurriness, but it seems to be an open sky without any clouds.\n\nThe overall impression is that of a natural, outdoor setting, likely a park or a forested area. However, the lack"
+ },
+ {
+  "image_id": "06599_0000.png",
+  "reference": "The image, sourced from GoogleEarth, shows a landscape with a mix of urban and recreational areas. Part of the area is covered by a golf course with distinct fairways and greens, located at the top-right side and occupying a significant portion of the image. To the left and closer to the top, there's a smaller baseball field with an identifiable diamond shape and a lighter patch that indicates the infield. The surrounding region comprises industrial buildings with large warehouse structures, roads, and a residential area with numerous houses to the northwest of the baseball field.",
+  "prediction": "The image is an aerial view of a large industrial or commercial area, likely part of a larger urban or suburban landscape. The area is divided into several sections by roads and pathways. \n\n1. **Industrial Buildings**: There are numerous rectangular buildings with flat roofs, which appear to be warehouses, factories, or other industrial facilities. These buildings are arranged in a grid-like pattern, suggesting a well-planned industrial zone.\n\n2. **Parking Lots**: In front of some of the industrial buildings, there are large parking lots filled with vehicles. This indicates that these areas are accessible for deliveries and possibly for employees who need to park their cars.\n\n3"
+ },
+ {
+  "image_id": "10335_0000.png",
+  "reference": "The image from Google Earth displays a baseball complex with two baseball fields. To the left-hand side, there is the bottom-most baseball field, which is slightly smaller in size compared to the second field. The right-hand side features the top-most baseball field, which appears larger and is positioned on the upper side of the image frame.",
+  "prediction": "The image appears to be an aerial view of a small park or recreational area. Here are the details:\n\n1. **Parking Lot**: On the left side of the image, there is a parking lot with several yellow lines marking the parking spaces. The parking lot is adjacent to the park.\n\n2. **Park Area**: The central and right part of the image shows a grassy area that looks like a park. There are patches of brown soil, possibly indicating areas that have been recently worked on or are undergoing maintenance.\n\n3. **Playground Equipment**: In the middle of the park, there is a large, circular playground structure. This"
+ },
+ {
+  "image_id": "10516_0000.png",
+  "reference": "This aerial image from Google Earth shows a landscape featuring a bridge spanning over a water body at the bottom. There are no clear indications of any other distinguishable objects such as vehicles or buildings in this section of the image.",
+  "prediction": "The image appears to be an aerial view of a flooded area, likely taken from a drone or satellite. The scene shows a large body of water covering what was previously land, indicating a significant flood event. \n\nKey features include:\n1. **Flooded Area**: The majority of the image is dominated by water, which has inundated the ground and created a large expanse of wetland.\n2. **Roadway**: There is a road visible on the left side of the image, partially submerged in water. The road appears to be a two-lane highway with a central divider.\n3. **Vegetation**: On the"
+ },
+ {
+  "image_id": "P1332_0018.png",
+  "reference": "The high-resolution grayscale image provided by GF features a single ship located in the middle-right section of the frame. The ship is small in size and it's the only clear object visible against the surrounding water.",
+  "prediction": "The image appears to be a very dark and blurry photograph, possibly taken at night or in a low-light environment. The main subject of the image is a small, faint object that resembles a spacecraft or an aircraft. This object is positioned towards the upper right corner of the image and is illuminated by a light source, making it stand out against the dark background.\n\nThe overall quality of the image is poor, with significant noise and graininess, which makes it difficult to discern finer details. The background is completely black, indicating that there is no ambient light or other objects present in the scene. The faintness of the object suggests that it might"
+ },
+ {
+  "image_id": "P2701_0032.png",
+  "reference": "The high-resolution image from GoogleEarth features a waterfront scene with two ships and two harbors. One ship is positioned closer to the middle right of the scene, while another is more centrally located. The harbors are seen at the top and bottom edges of the image, with one of them being at the uppermost part and the other at the bottommost part.",
+  "prediction": "The image appears to be an aerial view of a dock or pier area. The structure is rectangular and extends into the water, with a walkway running along its length. There is a small boat moored near the center of the dock, floating on calm waters. The dock is bordered by a concrete or paved edge, and there are some buildings or structures visible at the far end of the dock. The surrounding area includes what looks like agricultural fields or farmland, as indicated by the grid-like pattern and the presence of crops. The overall scene suggests a rural or semi-rural location with a focus on both industrial and agricultural activities."
+ },
+ {
+  "image_id": "11442_0000.png",
+  "reference": "An aerial view from GoogleEarth showing a section of highway with an overpass and four vehicles. There are trees on either side of the roads, and one overpass intersects the highway from left to right. The vehicles are scattered on the roads, with one on the highway and three on the overpass.",
+  "prediction": "The image is an aerial view of a multi-lane highway surrounded by greenery. The road has multiple lanes, with visible lane markings and a solid yellow line separating opposing traffic. There are several vehicles on the road, including cars and trucks, indicating moderate traffic.\n\nOn the left side of the image, there is a grassy area with some trees, and the road appears to be elevated slightly above this area. On the right side, there is another section of the road that seems to be at a lower elevation compared to the main highway. This lower section also has a grassy area with trees and some vegetation.\n\nThe overall scene suggests"
+ },
+ {
+  "image_id": "08656_0000.png",
+  "reference": "The aerial image provided by GoogleEarth shows a section of a residential area with roads and vehicles. An intersection can be seen with a vehicle on the left side placed on the outer part of the curve and one vehicles in the image is located on the bottom road. There are patches of green space, a large shadow cast by a tree, and a parking lot on the right.",
+  "prediction": "The image appears to be an aerial view of a residential area. Here are the details:\n\n1. **Road and Sidewalks**:\n   - There is a road running horizontally across the image.\n   - The road has a white line marking the center.\n   - On the left side of the road, there is a sidewalk with a curb.\n   - On the right side of the road, there is another sidewalk with a curb.\n\n2. **Vegetation**:\n   - There is a large tree on the left side of the road, casting a shadow on the road.\n   - In the middle of the image,"
+ },
+ {
+  "image_id": "11258_0000.png",
+  "reference": "The satellite image provided by GoogleEarth features an industrial scene with several small storage tanks and infrastructure. The tanks vary in size and are positioned at different corners of the image. One tank is located in the top-right of the image, while two tanks are situated towards the bottom.",
+  "prediction": "The image appears to be an aerial view of an industrial facility, likely a chemical or petrochemical plant. The layout includes several large cylindrical tanks, which are typically used for storing liquids such as chemicals, fuels, or other industrial materials. These tanks are arranged in a row and are connected by pipes, indicating a system for transferring materials between them.\n\nTo the left of the tanks, there is a complex network of pipes and machinery, suggesting a process area where various chemical reactions or material handling operations take place. There are also some buildings and structures visible, including what looks like a control room or administrative building at the top left corner of the"
+ },
+ {
+  "image_id": "10106_0000.png",
+  "reference": "This aerial image provided by GoogleEarth shows a green space with a baseball field in the right portion of the image. The baseball field features a diamond shape typically seen in such sports facilities, with a dirt infield and surrounding grassy areas.",
+  "prediction": "The image appears to be an aerial view of a park or recreational area. The main feature is a large, open grassy field that occupies most of the image. This field is bordered by a paved path on one side and a road on another. \n\nTo the left of the field, there is a small cluster of trees, which adds some greenery to the scene. On the right side of the field, there is a concrete structure that looks like a playground or sports area, with a curved edge and possibly some equipment or seating.\n\nIn the top left corner of the image, there is a red object that resembles a car parked on"
+ },
+ {
+  "image_id": "09071_0000.png",
+  "reference": "The image from GoogleEarth features an aerial view of a landscape, with a baseball field among grass-covered areas and dirt patches.",
+  "prediction": "The image appears to be an aerial view of a rural area, likely taken from a satellite or drone. The scene includes several distinct features:\n\n1. **Central Feature**: There is a large, circular mound of dirt or sand located in the center of the image. This mound is surrounded by a cleared area, suggesting it might have been recently excavated or moved.\n\n2. **Surrounding Area**: The surrounding area consists of various fields and patches of land. Some fields appear to be plowed, indicating agricultural activity. There are also some small structures visible, possibly sheds or barns, near the bottom left corner of the image."
+ },
+ {
+  "image_id": "P2791_0055.png",
+  "reference": "The high-resolution image provided by GoogleEarth features an airport setting with a small, distinct plane located on the tarmac. The plane occupies a noticeable portion of the tarmac. Surrounding the plane, the concrete surface is visible along with adjacent grassy areas.",
+  "prediction": "The image appears to be a close-up view of a surface, possibly a floor or a wall, with a reflective quality. The surface has a greenish hue and is textured, suggesting it might be made of a material like vinyl or rubber. There are several small, dark spots scattered across the surface, which could be dirt, debris, or imperfections in the material.\n\nIn the upper part of the image, there is a reflection that shows a person's face. The reflection is distorted due to the angle and the nature of the surface, but it is clear enough to identify the person as a man with short hair. The background of"
+ },
+ {
+  "image_id": "P0019_0065.png",
+  "reference": "This high-resolution image provided by GoogleEarth shows a well-maintained landscape with a body of water on one side. A small-sized ship is docked at the edge of the water. Surrounding the area are patches of trees and grass, a house near the center of the image, and a driveway leading to the house.",
+  "prediction": "The image appears to be an aerial view of a rural area with several distinct features:\n\n1. **Foreground**: There is a large field that looks like it could be a cornfield or a similar crop, given its dark green color and patterned appearance.\n\n2. **Middle Ground**: \n   - There is a small building or structure located near the center of the image.\n   - This structure has a flat roof and is surrounded by some vegetation.\n   - To the right of this structure, there is another smaller building or shed, also with a flat roof.\n\n3. **Background**: \n   - The background consists of a mix of"
+ },
+ {
+  "image_id": "P1147_0073.png",
+  "reference": "A high-resolution image from GoogleEarth shows a small airplane located on a tarmac with visible markings on the ground.",
+  "prediction": "The image appears to be a close-up view of a metallic structure, possibly part of a larger machine or equipment. The structure is composed of several horizontal and vertical metal bars, forming a grid-like pattern. There are two main horizontal bars at the top and bottom of the image, with additional smaller horizontal bars connecting them.\n\nOn the right side of the image, there is a vertical bar that extends from the top to the bottom, with another shorter vertical bar attached to it near the middle. This setup suggests that the structure might be part of a frame or support system, possibly for holding or securing something.\n\nThere are also some cables or wires"
+ },
+ {
+  "image_id": "P1376_0025.png",
+  "reference": "The high-resolution image sourced from GoogleEarth captures a portion of an airport tarmac with a small blue plane and a few service vehicles visible. The tarmac is composed of large square tiles, and the plane is parked such that part of its body extends beyond the displayed image area.",
+  "prediction": "The image appears to be an aerial view of a rooftop with a tiled surface. The tiles are arranged in a herringbone pattern, which is commonly used for aesthetic appeal and drainage purposes. The roof seems to be made of asphalt shingles, which are typical for residential or commercial buildings. There is a small section of grass visible on the left side of the image, indicating that there might be a garden or yard area nearby. The overall condition of the roof looks clean and well-maintained."
+ },
+ {
+  "image_id": "05920_0000.png",
+  "reference": "This aerial image from Google Earth shows a well-organized landscape with various sports fields and infrastructures. A series of baseball fields are visible, each marked with a distinct diamond shape located in the bottom right quadrant. Additionally, there is a small ground track field toward the bottom center of the image, identifiable by its oval shape and a smaller, rectangular bridge is also present, positioned slightly below the center of the image. The presence of water bodies and clusters of residential areas with curved road designs enhances the structured look of the locality.",
+  "prediction": "The image appears to be an aerial view of a suburban area, likely taken from a satellite or drone. The layout is organized into several distinct sections:\n\n1. **Left Side**: This section consists of multiple rows of houses and buildings. The houses are arranged in a grid-like pattern, with each row containing several units. The buildings vary in size and design, suggesting a mix of residential and possibly commercial properties.\n\n2. **Center**: There is a large, open space that looks like a parking lot or a large parking area. It is surrounded by roads and is connected to other parts of the area. The area is relatively flat and well"
+ },
+ {
+  "image_id": "P1283_0017.png",
+  "reference": "The image depicts a high-resolution grayscale aerial view sourced from GF, showcasing a landscape with an identifiable roundabout. The roundabout is surrounded by terrain. There is no visible urban infrastructure or dense housing.",
+  "prediction": "The image appears to be an aerial view of a golf course. The course is surrounded by dense forests on both sides, creating a natural boundary. There are several well-maintained fairways and greens visible, with the greens being darker and more defined than the fairways. \n\nIn the center of the image, there is a large pond or water hazard that separates two parts of the course. The pond has a curved shape and is bordered by trees on one side. To the left of the pond, there is a small building or clubhouse, which is partially obscured by trees. \n\nOn the right side of the image, there is another"
+ },
+ {
+  "image_id": "09252_0000.png",
+  "reference": "The image from GoogleEarth shows a section of road infrastructure including two overpasses and some vehicles. The left-most overpass is smaller in size. The right-most overpass is larger and positioned on the right side of the frame. There are two vehicles captured on the road; they are situated at the center of the image, with one white vehicle appearing in the top part of the road and the other in the bottom part.",
+  "prediction": "The image appears to be an aerial view of a road intersection, likely captured from a satellite or drone perspective. The main features include:\n\n1. **Roadways**: There are multiple lanes of traffic on both sides of the intersection. The lanes are clearly marked with dashed lines and solid lines.\n2. **Crosswalks**: There are crosswalks visible at the intersection, indicating pedestrian crossings.\n3. **Traffic Signs**: Several traffic signs are present, including a stop sign and possibly other regulatory signs, although their details are not entirely clear from this angle.\n4. **Streetlights**: Streetlights are visible along the edges of the roads"
+ },
+ {
+  "image_id": "P0179_0051.png",
+  "reference": "The image sourced from GoogleEarth presents a high-resolution view of an area featuring buildings and vehicles. There are two small vehicles captured in the scene, with one positioned towards the bottom left corner and the other towards the top right corner of the image, near warehouses with large flat roofs.",
+  "prediction": "The image appears to be an aerial view of a residential area with multiple houses. The houses have flat roofs and are arranged in a row along a street. The roofs are covered with metal shingles, and there are small patches of grass or landscaping around each house. The street is paved and has a few visible vehicles parked along it. The overall scene suggests a suburban neighborhood."
+ },
+ {
+  "image_id": "10094_0000.png",
+  "reference": "The satellite image from GoogleEarth shows a region with two expressway service areas and a bridge. The service areas and the bridge are amidst a terrain with visible greenery suggesting vegetated surroundings. The first expressway service area is located centrally at the top, while the second one is positioned centrally at the bottom. There is a small bridge on the middle-left side of the image.",
+  "prediction": "The image appears to be an aerial view of a construction site for a highway or road. The main features include:\n\n1. **Highway**: A wide, straight road that runs horizontally across the image. It is likely a major roadway given its size and the presence of construction equipment.\n2. **Construction Site**: There are several structures and equipment visible on the right side of the highway. These include:\n   - **Concrete Slabs**: Large concrete slabs are laid out, possibly for the roadbed or pavement.\n   - **Cement Mixers**: These are large vehicles used for mixing cement, which is essential for road construction."
+ },
+ {
+  "image_id": "06488_0000.png",
+  "reference": "This is an aerial image from GoogleEarth depicting a rural area with a storage tank visible in the bottom-right corner. The terrain is mostly barren with some patches of greenery and a curved dirt road adjacent to the storage tank. There are no buildings or other infrastructure immediately visible in the vicinity of the storage tank.",
+  "prediction": "The image appears to be an aerial view of a large, circular structure situated in a desert-like environment. The structure is predominantly white and has a dome-like shape, suggesting it could be a satellite dish or a similar type of antenna. The surrounding area is arid with sparse vegetation, characterized by small shrubs and patches of dirt.\n\nThe structure is positioned on a raised platform, which is connected to a series of cables and supports that extend outward. These cables likely serve to stabilize the structure and possibly to connect it to other equipment or infrastructure. The ground around the structure is uneven, with some areas appearing to be slightly elevated, possibly due"
+ },
+ {
+  "image_id": "P2571_0002.png",
+  "reference": "The aerial image sourced from GoogleEarth displays high-resolution details that include two distinct tennis courts. The first court, positioned at the middle right of the image, is the court with a smaller area compared to the other. The second court, partially cropped at the top edge of the image, appears to be with a larger overall area. Surrounding the courts are areas with dense vegetation, a variety of buildings with different roof colors, and parked cars adjacent to the buildings.",
+  "prediction": "The image appears to be an aerial view of a residential area with several distinct features:\n\n1. **Houses and Buildings**: There are multiple houses and buildings visible, some with blue roofs and others with different colors. The structures seem to be closely packed together.\n\n2. **Vegetation**: A significant portion of the area is covered by dense greenery, likely trees or bushes, which suggests that there might be a forested area nearby or that the land is heavily vegetated.\n\n3. **Sports Courts**: There are two tennis courts visible on the right side of the image. They have a reddish-brown surface, typical for"
+ },
+ {
+  "image_id": "08180_0000.png",
+  "reference": "The image, sourced from GoogleEarth, displays an expressway service area located within an agricultural landscape. Specific details include small patches of land used for farming surrounding the area, as well as a contiguous forested region. The expressway service area is characterized by an open, unpaved space with structures associated with roadway support functions.",
+  "prediction": "The image appears to be an aerial view of a rural area with several distinct features:\n\n1. **Fields and Farmland**: The majority of the image is covered by fields, which seem to be agricultural land. The fields are divided into different sections, possibly indicating different types of crops or farming practices.\n\n2. **Trees and Vegetation**: There are patches of trees and vegetation scattered throughout the fields. These areas likely serve as natural boundaries or provide some level of shade for the farmland.\n\n3. **Buildings and Structures**: In the center of the image, there are several buildings and structures. These could be farmhouses, storage facilities"
+ },
+ {
+  "image_id": "P4151_0082.png",
+  "reference": "This is a high-resolution aerial image featuring a city block with several elements. There is a road that cuts across the image, marked with pedestrian crossings and lined by trees. On this road, a few small vehicles are visible. Some buildings with similar architectural designs flank the road on one side. Shadow patterns indicate the presence of a strong light source.",
+  "prediction": "The image is an aerial view of a street scene in what appears to be an urban area, possibly a city or town. The main features include:\n\n1. **Buildings**: There are several multi-story buildings lining the street. These buildings have a modern architectural style with large windows and balconies. The facades are predominantly gray and beige.\n\n2. **Street**: The street is wide and appears to be well-maintained. It has multiple lanes for vehicles, including a dedicated bike lane on the right side. The road surface looks smooth and clean.\n\n3. **Sidewalks**: There are sidewalks on both sides of the"
+ },
+ {
+  "image_id": "07176_0000.png",
+  "reference": "The image sourced from GoogleEarth displays a cluster of basketball courts with painted boundary lines and baskets visible. There are two clearly delineated courts captured in this overhead photo.",
+  "prediction": "The image shows an aerial view of a basketball court. The court is rectangular and has standard markings for a basketball game, including the free-throw lines, key, and backboard areas. The court appears to be on a paved surface, possibly asphalt or concrete, with some cracks visible. There is a building or structure adjacent to the court on the left side, which has a dark-colored door and windows. The surrounding area includes grassy patches and some vegetation. The overall condition of the court looks well-maintained, but there are some signs of wear and tear, such as cracks and slight discoloration."
+ },
+ {
+  "image_id": "07345_0000.png",
+  "reference": "The image sourced from GoogleEarth shows an area with tennis courts. There are two tennis courts visible, positioned adjacently within the frame.",
+  "prediction": "The image appears to be an aerial view of a tennis court. The court is rectangular and has a standard design with white lines marking the boundaries and service boxes. There are two visible courts, each with its own net dividing them into two halves. The surface of the courts looks like it could be made of concrete or asphalt, which is typical for outdoor tennis courts.\n\nSurrounding the tennis courts, there is a grassy area that extends beyond the court boundaries. The grass appears to be well-maintained but shows signs of wear, particularly around the edges where the grass meets the court. There are also some patches of dirt or bare"
+ },
+ {
+  "image_id": "07758_0000.png",
+  "reference": "The image, sourced from GoogleEarth, presents an aerial view of a train station. The train station spans from the bottom center to the right side of the image with a portion of its infrastructure extending off the frame. The surrounding area features roads, a variety of buildings, and green spaces. The station has multiple tracks, with at least one visible train situated on the tracks.",
+  "prediction": "The image is an aerial view of a transportation hub, likely a train station or a large bus terminal. The layout includes multiple tracks for trains and buses, with platforms on either side. There are several buildings with flat roofs, possibly waiting areas or ticket offices.\n\n1. **Tracks and Platforms:**\n   - There are multiple sets of parallel tracks running horizontally across the image.\n   - Each track has a platform on either side, indicating designated areas for boarding and alighting passengers.\n   - The platforms are relatively wide, suggesting they can accommodate a significant number of passengers.\n\n2. **Buildings:**\n   - Several buildings with flat roofs"
+ },
+ {
+  "image_id": "10551_0000.png",
+  "reference": "The image, sourced from Google Earth, displays a section of landscape featuring an expressway-toll station located at the bottom-right part of the frame. The toll station area includes dedicated lanes for vehicles, and there are visible infrastructural elements.",
+  "prediction": "The image appears to be an aerial view of a large, elevated structure that resembles a bridge or a viaduct. The structure is supported by multiple columns and beams, forming a grid-like pattern. The surface of the structure is smooth and flat, likely made of concrete or another durable material.\n\nOn the left side of the image, there is a large, rectangular area with a reddish-brown color, which could be a construction site or a different type of infrastructure. This area has a grid-like pattern similar to the main structure but on a smaller scale.\n\nIn the middle and right sections of the image, there are several vehicles moving"
+ },
+ {
+  "image_id": "P1103_0001.png",
+  "reference": "The high-resolution image from GoogleEarth features three small planes on a tarmac. Two of the planes are positioned with their bodies parallel to each other while the third is positioned at a different angle.",
+  "prediction": "The image appears to be an aerial view of an airport runway with three airplanes visible. The planes are positioned in a way that suggests they might be preparing for takeoff or have just landed. Here are some details about the image:\n\n1. **Runway**: The runway is clearly visible, extending horizontally across the image. It has a dark surface, likely asphalt, and is marked with white lines and symbols.\n\n2. **Airplanes**:\n   - **Left Plane**: This plane is on the left side of the image and is closer to the camera. It has its landing gear down, indicating it might be preparing for takeoff."
+ },
+ {
+  "image_id": "07033_0000.png",
+  "reference": "The image, sourced from GoogleEarth, presents an aerial view of two objects, with no specific resolution information provided. The image features one small airplane with a noticeable jet bridge attached to it.",
+  "prediction": "The image appears to be an aerial view of a small airplane on the ground, likely at an airport or airfield. The airplane is positioned diagonally across the frame, with its nose pointing towards the bottom left corner and its tail towards the top right corner. \n\nKey features of the airplane include:\n1. **Wings**: The wings are visible, with one wing closer to the camera and the other slightly further away.\n2. **Tail Section**: The tail section is prominent, showing the vertical stabilizer and horizontal stabilizers.\n3. **Landing Gear**: The landing gear is visible, with the nose wheel and main wheels clearly"
+ },
+ {
+  "image_id": "P1234_0053.png",
+  "reference": "The high-resolution grayscale image from GF source features a variety of storage tanks and ships. There is a cluster of six small-sized storage tanks located towards the bottom right of the image. Additionally, there are two ships within the image; one is positioned towards the left-most part, while the other is at the bottom-most area of the image, making it distinct from the rest of the surroundings.",
+  "prediction": "The image appears to be an aerial or satellite view of a large industrial facility. The structure is composed of several rectangular buildings and cylindrical tanks arranged in a grid-like pattern. The buildings have flat roofs, and there are visible walkways connecting them. The cylindrical tanks are likely used for storage, possibly for liquids such as oil or chemicals.\n\nTo the left of the main structure, there is a circular area that could be a parking lot or a service area. The surrounding area is relatively flat and open, with some greenery visible in the distance, indicating that the facility is located near a natural landscape.\n\nThe overall layout suggests that this is a"
+ },
+ {
+  "image_id": "11460_0000.png",
+  "reference": "The image sourced from GoogleEarth shows a large wind turbine with its blades extended is at the bottom-right area of the image.",
+  "prediction": "The image appears to be an aerial view of a landscape, possibly taken from a drone or satellite. The terrain is predominantly flat and covered with what looks like sand or desert-like vegetation. There are several distinct features visible:\n\n1. **Roadways**: There are two main roads running horizontally across the image. One road is more prominent and runs from the left side towards the center, while the other road is slightly obscured by the terrain but still discernible.\n\n2. **Structures**: In the upper right corner, there is a structure that resembles a building or a large structure. It has a rectangular shape with some details that suggest it might"
+ },
+ {
+  "image_id": "11055_0000.png",
+  "reference": "This satellite image captured by GoogleEarth shows a portion of an airport with a single small airplane positioned at a boarding gate with its jet bridge extended towards the terminal.",
+  "prediction": "The image is an aerial view of an airport runway and taxiway system. The runway appears to be made of asphalt and is marked with various lines and symbols, including taxiways that guide aircraft from one part of the runway to another. There are several aircraft visible on the ground, including a large jetliner that is prominently featured in the foreground. This jetliner has its landing gear deployed, indicating it might be preparing for takeoff or has just landed. The aircraft's engines are visible, and there are multiple propellers attached to the wings, suggesting this is a twin-engine aircraft. The surrounding area includes various ground support equipment and vehicles,"
+ },
+ {
+  "image_id": "06027_0000.png",
+  "reference": "The image from GoogleEarth shows a section of a straight road running east-west with two visible vehicles. The road has multiple lanes marked with white lines and arrows indicating direction of travel. On the lanes closest to the top of the image, there is a small dark-colored vehicle oriented horizontally. To the bottom, closer to the image edge, is another small vehicle, dark red in color.",
+  "prediction": "The image is an aerial view of a road intersection. The road has multiple lanes, with two lanes visible on the left and right sides of the intersection, and one lane running through the center. The lanes are separated by yellow lines.\n\nThere are two cars visible in the image. One car is positioned near the center of the intersection, while the other car is on the left side of the road. Both cars appear to be moving, as indicated by their positions relative to the lanes.\n\nThe surrounding area includes a grassy area on the left side of the road, some trees, and a sidewalk. There is also a building or structure visible"
+ },
+ {
+  "image_id": "05930_0000.png",
+  "reference": "The satellite image, sourced from GoogleEarth, presents a baseball field adjacent to a road. The field has a distinct diamond shape, with the infield area consisting of dirt and the outfield covered in grass. There is a noticeable line marking on the grass, indicating field boundaries.",
+  "prediction": "The image appears to be an aerial view of a baseball field. The field is divided into two main sections by a dirt infield and a grass outfield. \n\n1. **Infield**: \n   - The infield is primarily composed of dirt, with a visible pitcher's mound in the center.\n   - There is a blue tarp or cover over part of the infield, possibly for protection against weather.\n\n2. **Outfield**:\n   - The outfield is covered with grass, showing varying shades of green.\n   - There are several rectangular structures, likely benches or seating areas, placed along the perimeter of the outfield.\n\n3. **Sur"
+ },
+ {
+  "image_id": "09415_0000.png",
+  "reference": "This is a satellite image sourced from GoogleEarth featuring a basketball court with clear boundaries and markings. The court is surrounded by a grassy area. Near the top edge of the image, to the left, there is a small parking area with vehicles.",
+  "prediction": "The image is an aerial view of a basketball court and surrounding area. The basketball court is rectangular with standard markings for a regulation game, including three-point lines, free-throw lines, and the center circle. The court appears to be made of concrete or a similar material.\n\nTo the left of the basketball court, there is a smaller, possibly adjacent court or area that is also marked for basketball play. This smaller court has a similar layout but is smaller in size.\n\nIn the background, there is a parking lot with several cars parked. The cars are of various colors and models, indicating a mix of personal vehicles. The parking lot is"
+ },
+ {
+  "image_id": "P1471_0090.png",
+  "reference": "The high-resolution image from GoogleEarth shows an area with two distinct small vehicles. The vehicles are positioned at different points; one is towards the left and appears to be the topmost in its relative position.",
+  "prediction": "The image appears to be a top-down view of a room, likely taken from an overhead camera or drone. The room contains several objects and furniture items:\n\n1. **Furniture**: There is a bed with a wooden headboard on the left side of the image. The bed has a dark-colored mattress and is positioned against a wall.\n2. **Shelves**: On the right side of the image, there are two shelves. The upper shelf holds various items, including what looks like a green plant, a small decorative object, and some books or magazines. The lower shelf also contains some items, but they are not clearly visible due"
+ },
+ {
+  "image_id": "06371_0000.png",
+  "reference": "This aerial image sourced from GoogleEarth features an open grassy area with a baseball field located centrally. The field has a distinct diamond shape with a brown dirt infield and green surroundings.",
+  "prediction": "The image appears to be an aerial view of a baseball field. The field is surrounded by green grass and trees, with a paved path leading up to the entrance. The infield is covered in brown dirt, which is typical for a baseball diamond. There are two light towers on either side of the field, one on each end, providing illumination for night games. The outfield is also covered in grass, and there are no visible players or equipment in the image. The overall layout suggests it is a well-maintained baseball field, likely used for practice or training sessions."
+ },
+ {
+  "image_id": "P0420_0006.png",
+  "reference": "The high-resolution image sourced from Google Earth depicts a body of water with two small harbors. The left-most harbor is tucked near the shoreline. The top-most harbor is more centrally positioned, featuring a T-shaped dock extending into the water.",
+  "prediction": "The image appears to be an aerial view of a body of water, possibly a lake or a river, with two docks extending into it. The water is relatively calm, with slight ripples visible on the surface. \n\n1. **Docks**: \n   - There are two docks visible in the image.\n   - The dock on the left extends diagonally from the top left corner towards the bottom right, ending near the center of the image.\n   - The dock on the right is more linear and extends horizontally from the top right corner towards the bottom right, also ending near the center of the image.\n\n2. **Water Body**"
+ },
+ {
+  "image_id": "07598_0000.png",
+  "reference": "The image provided is sourced from GoogleEarth and does not include a specified resolution. The area features a golf course that is situated toward the bottom right section of the image.. Surrounding areas include sections that is agricultural fields based on their geometric division and color variation.",
+  "prediction": "The image appears to be an aerial view of a rural landscape, likely taken from a satellite or drone. The scene includes several distinct features:\n\n1. **Fields and Farmland**: There are numerous rectangular fields arranged in a grid-like pattern, indicating agricultural land. The fields vary in color, suggesting different types of crops or stages of growth.\n\n2. **Ponds and Lakes**: There are several small ponds and lakes scattered throughout the landscape. These bodies of water add a natural element to the otherwise agricultural setting.\n\n3. **Hills and Mountains**: The terrain is hilly, with some areas appearing more elevated than others. This suggests that"
+ },
+ {
+  "image_id": "07481_0000.png",
+  "reference": "The satellite image captured from Google Earth presents a diverse urban area featuring a golf field, a bridge, and a ground track field. There is a bridge located in the top-right corner of the image. A small golf field can be seen that is mainly composed of greenery and surrounded by roads. Additionally, a small ground track field is visible, distinguishable by its oval shape and athletic tracks.",
+  "prediction": "The image is an aerial view of a suburban or urban area, likely captured from a satellite or drone. The layout and features suggest it could be a residential or mixed-use development.\n\n1. **Buildings and Structures**:\n   - There are numerous buildings, predominantly rectangular in shape, indicating a planned urban area.\n   - Some buildings have distinct colors, possibly indicating different types of structures such as residential houses, commercial buildings, or institutional facilities.\n   - There are also some open spaces with greenery, which might be parks or recreational areas.\n\n2. **Green Spaces**:\n   - The image shows several patches of greenery, including"
+ },
+ {
+  "image_id": "09493_0000.png",
+  "reference": "The image sourced from GoogleEarth showcases a parking area with a small number of vehicles and two visible buildings with dark rooftops. There are two distinct rows of parking spaces oriented vertically, with most spaces unoccupied. A total of five small vehicles are visible, two positioned at the bottom of the image, and the other three placed towards the top.",
+  "prediction": "The image is an aerial view of a parking lot adjacent to a residential area. The parking lot has several marked parking spaces with yellow lines indicating the boundaries of each space. There are four cars parked in the lot, each in its designated spot.\n\n1. **Top Left Corner**: A white car is parked in the top left corner of the parking lot.\n2. **Middle Left**: A black car is parked in the middle left section of the parking lot.\n3. **Bottom Right**: A silver car is parked in the bottom right corner of the parking lot.\n4. **Bottom Center**: A dark-colored car is parked in the bottom"
+ },
+ {
+  "image_id": "08692_0000.png",
+  "reference": "This aerial image from GoogleEarth showcases a small baseball field with a diamond shape, surrounded by lush green grass. Adjacent to the field, there's a small vehicle parked on the edge of a parking area. The image captures details such as the infield dirt, the bases, and the pitcher's mound, as well as the surrounding environment.",
+  "prediction": "The image is an aerial view of a school playground and adjacent areas. The playground features a large, open grassy area with a baseball diamond in the center. The diamond has a well-maintained infield and outfield, with clearly marked bases and a pitcher's mound.\n\nTo the left of the baseball diamond, there is a building with a flat roof and several windows. The building appears to be part of the school, possibly a classroom or administrative building. In front of this building, there is a paved area with a basketball court. The basketball court has a standard layout with three hoops and a center circle.\n\nAdjacent to the basketball court,"
+ },
+ {
+  "image_id": "P1240_0045.png",
+  "reference": "The grayscale image has high resolution and captures a section of terrain with a mix of natural and constructed features. A distinctive roundabout is visible, integrated into the surrounding roads and adjacent to areas of dense foliage which indicate the presence of wooded areas.",
+  "prediction": "The image appears to be an aerial photograph, likely taken using a drone or satellite camera. It shows a landscape with various features:\n\n1. **Foreground**: The lower part of the image is dominated by dense, dark green vegetation, suggesting a forested area. There are no clear paths or roads visible within this section.\n\n2. **Midground**: In the middle of the image, there is a large, circular structure that resembles a roundabout or a large round object. This structure is surrounded by more vegetation and appears to be a significant feature in the landscape.\n\n3. **Background**: The upper part of the image shows a road or"
+ },
+ {
+  "image_id": "08210_0000.png",
+  "reference": "The image from GoogleEarth depicts a small ship located in the top of the image on a body of water with no other vessels or landmarks visible in the vicinity.",
+  "prediction": "The image appears to be an aerial view of a small island or piece of land surrounded by water, likely a lake or sea. The island has a distinct shape and is relatively flat, with some visible structures on it. The surrounding water is dark green, indicating it might be deep or have a significant amount of vegetation or algae. There are no visible boats or other objects in the immediate vicinity of the island. The overall scene suggests a remote or isolated location."
+ },
+ {
+  "image_id": "11394_0000.png",
+  "reference": "The image from Google Earth features a portion of lush greenery adjacent to a sports area with a small basketball court. The court is marked with standard basketball lines and has a central circle and hoop.",
+  "prediction": "The image is an aerial view of a basketball court surrounded by a dense area of trees and greenery. The basketball court appears to be part of a park or recreational area, as indicated by the presence of multiple courts and the natural environment.\n\nHere are the details of the image:\n\n1. **Basketball Court**: \n   - There are two basketball courts visible in the image.\n   - The court on the right side has a standard basketball layout with three hoops, a center circle, and the markings for the game.\n   - The court on the left side is partially visible and seems to be in use, with players and possibly a ball"
+ },
+ {
+  "image_id": "10248_0000.png",
+  "reference": "The image sourced from GoogleEarth shows a large bridge prominently spanning from left to right across the frame, with distinct supporting structures visible beneath it. On the top-left portion of the image, a vehicle is present on a road that intersects with the bridge.",
+  "prediction": "The image is an aerial view of a highway or road that appears to be under construction or recently completed. The road has multiple lanes, with one lane visible on the left side and another lane on the right side. The road is bordered by a concrete barrier on the right side, which separates it from a grassy area.\n\nOn the left side of the road, there is a construction site with several workers and equipment. There is a crane visible near the center of the construction site, indicating ongoing work. The ground around the construction site is uneven and shows signs of excavation, with some areas appearing to be filled with dirt or gravel.\n\nThe"
+ },
+ {
+  "image_id": "P1384_0036.png",
+  "reference": "The aerial image sourced from GoogleEarth displays a high-resolution view of a landscaped area with several prominent features. Located on the left side of the image, a small soccer ball field is visible, marked by its distinctive rectangular shape with rounded corners. The field is surrounded by a mix of open grassy spaces and dense clusters of trees, indicating a recreational or park setting. Additionally, there are paths and open patches that could be used for walking or resting.",
+  "prediction": "The image appears to be an aerial view of a park or recreational area. Here are the details:\n\n1. **Foreground**: \n   - There is a large, well-maintained grassy area that looks like a soccer field or a similar sports field.\n   - The grass is green and appears to be in good condition.\n\n2. **Midground**:\n   - There is a paved path or road running through the center of the image, surrounded by trees.\n   - On the right side of the path, there are several red objects that could be benches or picnic tables, indicating a seating area for visitors.\n\n3. **Background"
+ },
+ {
+  "image_id": "08756_0000.png",
+  "reference": "The image from GoogleEarth shows a airport located in an area surrounded by greenery and infrastructure.",
+  "prediction": "The image appears to be an aerial view of an airport or airfield. The layout includes several key features:\n\n1. **Runway**: There is a long, straight runway running horizontally across the center of the image. The runway is surrounded by grassy areas and some paved sections.\n\n2. **Airfield Buildings**: Several buildings are visible near the runway. These buildings likely serve as hangars, control towers, or administrative facilities. They are mostly rectangular and appear to be made of concrete or metal.\n\n3. **Parking Areas**: There are multiple parking areas with blue tarps or covers, indicating where aircraft might be parked when not in"
+ },
+ {
+  "image_id": "10415_0000.png",
+  "reference": "The image from GoogleEarth displays a stadium with a distinctive U-shaped structure and an adjacent parking lot. The stadium has a large field surrounded by seating areas. Next to the stadium, there are neatly aligned rows of small vehicles in the parking lot, with a concentration of vehicles towards the top left of the image.",
+  "prediction": "The image is an aerial view of a large stadium complex. The main feature is a large, modern-looking stadium with a green field and blue seating areas. The stadium has a distinctive curved roof structure that extends over the seating area, providing shade for spectators.\n\nSurrounding the stadium, there is a parking lot filled with numerous cars. The parking lot is organized into several sections, with some areas designated for specific types of vehicles or groups. Adjacent to the parking lot, there is a smaller building with a flat roof, which appears to be part of the stadium complex, possibly serving as administrative offices or facilities.\n\nTo the left of the"
+ },
+ {
+  "image_id": "10109_0000.png",
+  "reference": "The aerial image provided is sourced from GoogleEarth and showcases a broad view of an urban area with dense buildings and a train station occupying a significant part of the scene. The train station is large, extending from nearly the center to the right edge, highlighted by its multiple parallel tracks and expansive, roofed platforms.",
+  "prediction": "The image is an aerial view of a large, complex urban area with a prominent train station or transportation hub at its center. The station features multiple platforms and tracks, indicating it is a major rail terminal. Surrounding the station are numerous buildings, including residential apartments, commercial structures, and possibly industrial facilities.\n\nTo the left of the station, there is a dense cluster of buildings, likely residential or mixed-use properties. These buildings are closely packed together, forming a grid-like pattern typical of urban planning. Some of these buildings have flat roofs, while others have sloped roofs, suggesting a mix of architectural styles.\n\nOn the right side of the"
+ },
+ {
+  "image_id": "08199_0000.png",
+  "reference": "The image, sourced from GoogleEarth, displays a natural landscape with sparse vegetation and an isolated bridge on the bottom-right side. The bridge runs vertically within the image frame, and it spans from around the halfway point to the bottom edge. There are no visible structures or vehicles in the vicinity of the bridge, and the surrounding area features patches of shrubs and small bushes scattered across the terrain.",
+  "prediction": "The image appears to be an aerial view of a landscape that includes both natural and man-made elements. The scene is dominated by a large, irregularly shaped area that looks like a dried-up lake or wetland, with patches of green vegetation scattered across it. This area is surrounded by a mix of greenery and what seems to be dry, barren land.\n\nTo the right side of the image, there is a long, straight road that runs parallel to the edge of the wetland. The road is bordered by a double yellow line, indicating it is a two-way road. The road appears to be well-maintained, with clear"
+ },
+ {
+  "image_id": "10791_0000.png",
+  "reference": "The image from GoogleEarth shows a segment of a road with multiple lanes and a median strip adorned with shrubbery. Adjacent to the road, there are two sets of tennis courts. The courts are aligned parallel to each other, with one set positioned towards the bottom-left of the image and the other set towards the bottom-right.",
+  "prediction": "The image is an aerial view of a road and a tennis court area. The road has multiple lanes, separated by white dashed lines, and is bordered by greenery on both sides. The greenery includes a mix of grassy areas and small trees or bushes. \n\nIn the foreground, there are two tennis courts with blue surfaces and white boundary lines. The courts are surrounded by a green lawn, and there are additional green areas with small trees and bushes around them. The overall scene appears to be well-maintained, suggesting it might be part of a recreational or sports facility."
+ },
+ {
+  "image_id": "P5789_0293.png",
+  "reference": "The image, sourced from GF with high resolution, primarily features an isolated small plane situated in the bottom-middle segment against a monotone background. The plane is the sole object within the scene.",
+  "prediction": "The image is a very dark and blurry photograph of an airplane flying in the sky. The airplane appears to be small due to the low light conditions, and it is positioned towards the bottom center of the image. The background is predominantly black, indicating that the photo was taken at night or in a very dark environment. There are no other discernible objects or features in the image."
+ },
+ {
+  "image_id": "08645_0000.png",
+  "reference": "The image sourced from GoogleEarth focuses on a small expressway-toll-station. The station is situated approximately in the center of the image.",
+  "prediction": "The image appears to be a close-up of a computer keyboard, specifically focusing on the spacebar and part of the surrounding keys. The spacebar is prominently visible with its characteristic rectangular shape and raised surface. The keys around it are slightly blurred, indicating that the camera may have been moved or the focus was not sharp enough. The background shows a textured surface, possibly a carpet or fabric, which is partially covered by the keyboard. The lighting in the image is uneven, with some areas brighter than others, suggesting it might have been taken in a dimly lit environment or with a flash. The overall quality of the image is low, making"
+ },
+ {
+  "image_id": "11587_0000.png",
+  "reference": "Aerial view of a section of an airport from GoogleEarth, featuring an airplane parked on the tarmac. The ground shows tarmac markings and surrounding grass areas.",
+  "prediction": "The image appears to be an aerial view of an airplane on a runway. The airplane is positioned diagonally across the frame, with its nose pointing towards the bottom left corner and its tail towards the top right corner. The aircraft's wings are visible, and it seems to be in a stationary position on the tarmac.\n\nThe runway is made of concrete and has various markings and lines painted on it. There are no other vehicles or objects visible on the runway. The surrounding area includes grassy fields, which extend beyond the runway. The sky is not visible in this particular image, so there are no indications of weather conditions.\n\nThe image does"
+ },
+ {
+  "image_id": "09871_0000.png",
+  "reference": "The image, sourced from GoogleEarth, displays an aerial view of a landscape featuring an expressway service area and vehicles. The expressway service area is notable with its significant size and occupies a central section of the imagery. Two small vehicles can be seen: one is located in the bottom center of the image on the road, while the other is positioned at the top-left corner.",
+  "prediction": "The image appears to be an aerial view of a construction site along a highway or road. The road is divided by a median, and there are multiple lanes visible. On the right side of the road, there is a construction area with several large orange and white structures, likely temporary buildings or storage units. There are also some vehicles, including what looks like a crane, indicating active construction work.\n\nSurrounding the construction area, there is dense greenery, suggesting that the site is located in a forested or rural area. The vegetation includes both trees and shrubs, and there are patches of bare ground, possibly where construction activities have"
+ },
+ {
+  "image_id": "10538_0000.png",
+  "reference": "Aerial view of a residential area captured from Google Earth, with two vehicles parked on a driveway leading to a house. The image does not specify resolution but shows clear details of the vehicles and the surrounding environment.",
+  "prediction": "The image is an aerial view of a residential street scene. The street is paved and appears to be in good condition, with no visible potholes or cracks. On the left side of the street, there is a sidewalk that runs parallel to the road. The sidewalk is bordered by a curb and has a small strip of grass on either side.\n\nOn the right side of the street, there is another sidewalk that also runs parallel to the road. This sidewalk is bordered by a curb and has a larger strip of grass on either side. There are several houses visible along the street, each with a driveway leading up to them. The driv"
+ },
+ {
+  "image_id": "10640_0000.png",
+  "reference": "The image, sourced from GoogleEarth, features a natural landscape with a bridge running diagonally across the lower section. In this scene, a small bridge can be seen crossing over a body of water.",
+  "prediction": "The image appears to be an aerial view of a rural or semi-rural area with several notable features:\n\n1. **Roads and Pathways**:\n   - There is a network of roads and pathways crisscrossing the landscape.\n   - The roads are well-defined, with clear lanes and curbs.\n   - Some roads appear to be two-lane, while others are single-lane.\n\n2. **Vegetation**:\n   - The area is covered with a mix of trees and shrubs.\n   - The vegetation is dense in some areas, particularly along the edges of the roads and near the water body."
+ },
+ {
+  "image_id": "P0457_0000.png",
+  "reference": "The image, sourced from GoogleEarth with high resolution, displays a well-defined baseball diamond surrounded by a lush green grassy area, with a darker green tree line on the left side. The diamond is located in the bottom-right part of the image and visible inner diamond turf contrasts with the outer grass.",
+  "prediction": "The image appears to be an aerial view of a golf course, specifically focusing on a green and a bunker area. The green is circular with a well-maintained, smooth surface, surrounded by a raised edge that forms a small lip around its perimeter. The surrounding area outside the green is covered in grass, which transitions into a darker, possibly shaded area, indicating the presence of trees or other vegetation.\n\nIn the center of the green, there is a small, white object that resembles a golf ball. This suggests that the image might have been taken during a golfing event or practice session. The bunker area is visible as a raised,"
+ },
+ {
+  "image_id": "P2709_0027.png",
+  "reference": "This high-resolution image from Google Earth shows a coastal port area with a small green ship docked at the bottom left side of a pier. The ship is positioned alongside the pier.",
+  "prediction": "The image appears to be an aerial view of a dock or pier area. There is a large vehicle, possibly a truck or van, parked on the left side of the image. The vehicle has a visible license plate and some cargo or equipment attached to it. \n\nOn the right side of the image, there are several people standing near the water's edge. They seem to be engaged in some activity, possibly related to the boat or the dock. One person is holding a rope or line, which might be used for mooring or unmooring the boat. Another person is standing closer to the water, possibly preparing to board or disemb"
+ },
+ {
+  "image_id": "P1398_0010.png",
+  "reference": "The high-resolution image from GoogleEarth shows a group of five small planes parked in an area with dry vegetation. The planes are arranged in a line, each separated from the other. They display similar color patterns with a combination of white and blue hues on their bodies creating a uniform appearance.",
+  "prediction": "The image depicts an aerial view of a group of fighter jets lined up on a runway. The aircraft appear to be military jet fighters, characterized by their sleek, aerodynamic design and high-wing configuration. Each jet has a distinctive color scheme with white and black markings, which is typical for certain types of fighter jets.\n\nThe jets are arranged in a straight line, facing forward, suggesting they are either preparing for takeoff or have just landed. The ground beneath them is a mix of dirt and patches of grass, indicating a relatively unpaved or less maintained airfield. The surrounding area appears to be a desert-like environment, with sparse vegetation and"
+ },
+ {
+  "image_id": "P0929_0016.png",
+  "reference": "The high-resolution image from GoogleEarth displays a waterfront scene with two harbors and a ship. The first harbor is positioned on the upper portion of the image, while another one situated at the bottom edge. Between them, a small ship is visible, located towards the top-right area of the image.",
+  "prediction": "The image appears to be an aerial view of a small body of water, possibly a lake or a pond, with a dock extending into it. The dock is made of wood and has a railing along its edge. There are two boats visible on the water; one is closer to the dock and appears to be moving away from it, leaving a wake behind it. The other boat is further out in the water, closer to the center of the image.\n\nThe surrounding area includes grassy land on both sides of the dock, with some rocks or boulders lining the edge of the water near the dock. The water itself is relatively calm"
+ },
+ {
+  "image_id": "10759_0000.png",
+  "reference": "The image, sourced from Google Earth, shows a park with a variety of amenities. There is a baseball field depicted with a distinctive diamond-shaped infield and a dirt track that outlines the running bases. Adjacent to the baseball field is a playground with some equipment set on sandy ground and sheltered by a blue-roofed structure. The park also includes a neatly organized parking area with visible parking lines, surrounded by lush green grass and a few trees randomly scattered around. The presence of a curved pathway connecting the parking area to the baseball field and playground is notable.",
+  "prediction": "The image is an aerial view of a park and playground area. The park features a baseball field with a dirt infield and grass outfield, surrounded by a paved walking path. The field appears to be well-maintained, with clear boundary lines.\n\nAdjacent to the baseball field, there is a playground area. The playground includes several play structures, including a large sand pit with a slide, a small climbing structure, and a few other play elements. There are also two blue shade shelters providing seating areas for parents or guardians.\n\nSurrounding the playground and baseball field, there is a well-kept lawn with various trees and shrubs, adding"
+ },
+ {
+  "image_id": "P1332_0017.png",
+  "reference": "High-resolution grayscale image from GF depicting a lone ship positioned in the bottom-middle of the frame, with dark waters surrounding it.",
+  "prediction": "The image is very dark and appears to be a black square with a small, faint rectangular shape in the center. The rectangular shape is barely visible against the dark background. There are no other discernible objects or details in the image."
+ },
+ {
+  "image_id": "08833_0000.png",
+  "reference": "The image sourced from GoogleEarth features a solitary windmill located on the right side.",
+  "prediction": "The image appears to be an aerial view of a large, dark, and irregularly shaped object on a flat surface. The object has a rectangular or elongated shape with a prominent vertical line running through its center. There is a small, bright light source at one end of this vertical line, which could be a camera or some other device attached to the object.\n\nThe surface on which the object is placed is relatively flat and has a dark, almost black color, suggesting it might be a type of concrete or asphalt. There are visible cracks and lines on the surface, indicating wear or age. The overall scene gives the impression of a landing"
+ },
+ {
+  "image_id": "09681_0000.png",
+  "reference": "This GoogleEarth image features four tennis courts aligned vertically along the bottom portion of the image. The bottom-most court is partially cropped, with surrounding courts fully visible. To the middle-right of the image, out of the play areas, three vehicles are parked beside buildings.",
+  "prediction": "The image appears to be an aerial view of a tennis court area. The court is made of red clay and has three visible courts, each with white boundary lines. The courts are surrounded by a paved area with several small, round objects that could be benches or trash cans. \n\nIn the background, there are several buildings, including what looks like a small house or shed on the left side and another structure further back. There is also a driveway leading to one of the buildings. The area around the courts is grassy, and there are some trees and bushes scattered around. The overall setting seems to be a recreational or community space, possibly"
+ },
+ {
+  "image_id": "P1474_0062.png",
+  "reference": "The image, sourced from GoogleEarth, displays a rural area with three small planes parked in close proximity on a makeshift airfield. There are patches of farmland surrounding the area as well as a cluster of buildings with various roof shades located to the southeast of the planes.",
+  "prediction": "The image is an aerial view of a rural area with a mix of agricultural land and residential buildings. The top portion of the image shows a large, open field with some scattered trees and patches of greenery. In the middle of this field, there is a large, white airplane that appears to be parked on the ground. The airplane has its wings extended and is positioned diagonally across the field.\n\nBelow the field, the bottom portion of the image reveals a cluster of small houses and buildings. These structures are closely packed together, indicating a residential area. The roofs of the houses vary in color, including shades of blue, brown, and"
+ },
+ {
+  "image_id": "09933_0000.png",
+  "reference": "The aerial image provided by Google Earth captures a high school stadium, which includes a ground track and field covered in synthetic turf. The field sports yard lines for American football and the large text 'DESERT HILLS' indicating the name of the school associated with the stadium.",
+  "prediction": "The image is an aerial view of a football field, specifically a high school or college-level facility named \"Desert Hills.\" The field is surrounded by a track and field area, which includes a running track with multiple lanes and a straightaway. The track is encircled by a concrete wall.\n\nThe main playing field is marked with standard gridiron lines, including yard markers, hash marks, and center markers. The field is green and appears to be well-maintained. There is a logo in the center of the field that reads \"Tiger,\" indicating the team's mascot or name.\n\nSurrounding the field, there are"
+ },
+ {
+  "image_id": "P2726_0010.png",
+  "reference": "The high-resolution image from GoogleEarth features a maritime setting with various ships docked in or adjacent to a harbor. A total of six ships are visible in the image, with two ships positioned at the top-right corner, both bearing small sizes. The two harbors, situated at opposite ends of the scene, create a juxtaposition with the topmost harbor being smaller in relative size and the bottom-most one notably larger. The ships and the harbors form a part of a larger port infrastructure.",
+  "prediction": "The image appears to be a close-up of a green surface, possibly a table or a mat, with several objects placed on it. The objects include:\n\n1. **A rectangular object**: This is a remote control with a silver and black color scheme. It has multiple buttons, including power, volume, and channel controls.\n2. **A small rectangular object**: This looks like a smartphone or a similar device. It has a screen and some buttons on its side.\n3. **A circular object**: This is a ring, likely made of metal, with a shiny surface.\n4. **A rectangular object with rounded edges**: This could"
+ },
+ {
+  "image_id": "P1390_0057.png",
+  "reference": "A high-resolution image from Google Earth showing a group of parked planes on a tarmac. The aircraft are uniformly aligned in rows, and although they are small in size, their details are discernible due to the high image quality. There is a visible path that winds among the planes.",
+  "prediction": "The image shows an aerial view of a large number of aircraft parked on a tarmac or runway. The aircraft appear to be military transport planes, identifiable by their distinctive features such as the large wings and tail fins. The planes are arranged in rows, with some facing forward and others facing backward, creating a somewhat symmetrical pattern.\n\nThe tarmac is expansive and appears to be made of asphalt or concrete, with visible tire marks and patches of dirt or sand. The ground is relatively flat, suggesting that this area is designed for aircraft parking and maintenance.\n\nIn the background, there are no visible buildings or other structures, indicating that this might be"
+ },
+ {
+  "image_id": "09403_0000.png",
+  "reference": "The image, sourced from GoogleEarth, presents a view of a location with multiple tennis courts and a vehicle. Specifically, the image contains four tennis courts that are visible, positioned towards the bottom of the frame. There is also a uniquely identifiable vehicle located in the top right section of the image.",
+  "prediction": "The image appears to be an aerial view of a parking lot adjacent to a building. The parking lot is rectangular and has several rows of parking spaces, each marked by white lines. There are trees planted around the perimeter of the parking lot, providing some greenery and shade.\n\nIn the foreground, there is a red-brick building with large windows. The building has a flat roof and is partially obscured by the trees. The windows are rectangular and appear to be part of a modern architectural design.\n\nTo the left side of the parking lot, there is a paved area that seems to be a driveway or entrance to the building. This area is"
+ },
+ {
+  "image_id": "09670_0000.png",
+  "reference": "The image, sourced from GoogleEarth, features an aerial view of a port with a small ship moored alongside the dock. The ship is laden with multicolored containers, and it is situated in the top portion of the image. Surrounding the ship there are several cargo cranes extending shadows over the water surface.",
+  "prediction": "The image depicts an aerial view of a container ship docked at a port. The ship is loaded with numerous containers, which are stacked in rows and columns. The containers vary in color, including shades of blue, yellow, red, and white. The ship's hull is visible, and it appears to be a large vessel designed for international shipping.\n\nIn the foreground, there are several cranes extending from the dock. These cranes have long arms that extend over the water, likely used for loading and unloading cargo from the ship. The cranes' shadows can be seen on the water, indicating that the photo was taken during daylight"
+ },
+ {
+  "image_id": "11213_0000.png",
+  "reference": "This color image from Google Earth displays two small ships docked next to each other near a shoreline on the right side of the image. One ship is positioned higher than the other. The darkness of the water suggests that the image might have been taken during low light conditions or the image has low brightness. The surrounding area appears to be mostly water with limited visibility of land or other identifiable objects.",
+  "prediction": "The image appears to be an aerial view of two boats docked at night. The boats are positioned close to each other, with one slightly behind and to the right of the other. Both boats have a similar design, featuring a white hull with dark-colored accents on the upper part of the hull and the bow area. The boats are moored near a body of water, which is not clearly visible due to the darkness of the night. There is a tree or some vegetation visible in the background, suggesting that the location might be near a shoreline or a dock area. The overall scene is dimly lit, likely illuminated by artificial lighting from"
+ },
+ {
+  "image_id": "P4151_0069.png",
+  "reference": "The aerial image depicts a high-resolution scene with a basketball court surrounded by greenery. There are three small vehicles visible: one parked on a street at the top, another at the bottom right corner at an angle, and a third one located towards the top-left of the image.",
+  "prediction": "The image is an aerial view of a basketball court. The court is surrounded by trees, and there is a person standing near the center of the court. The person appears to be holding something in their hand. In the background, there is a parked car on the street adjacent to the court. The court has standard markings for a basketball game, including the free-throw line, three-point arc, and the key area. The overall scene suggests a quiet, possibly residential area with a community sports facility."
+ },
+ {
+  "image_id": "11504_0000.png",
+  "reference": "The image, sourced from GoogleEarth, shows an area featuring a stadium with a elliptical shape, encompassed by a variety of surrounding trees and several adjoining roads. The stadium occupies a significant portion of the image and includes a visible running track as well as a green-colored field.",
+  "prediction": "The image depicts an aerial view of a large stadium, likely used for athletic events such as football (soccer) or track and field. The stadium features a central rectangular playing field with a reddish-brown surface, which is typical for athletics tracks. Surrounding the field is a large seating area with multiple tiers of bleachers, painted in various colors including blue, yellow, and green. The seating areas are arranged in a semi-circular pattern around the field.\n\nThe stadium is surrounded by a lush green landscape, with numerous trees and patches of grass visible. There are also some buildings and structures near the stadium, possibly related to the"
+ },
+ {
+  "image_id": "08275_0000.png",
+  "reference": "This aerial image, sourced from GoogleEarth, shows an urban landscape with buildings, roads, and vehicles. The most prominent structure in the image is a stadium located in the bottom right part of the frame, with its semi-open roof structure.",
+  "prediction": "The image is an aerial view of a large stadium complex, likely used for sports events such as football (soccer) or rugby. The stadium has a distinctive design with multiple tiers of seating and a large open area in the middle, which could be used for additional seating or as a field for other activities.\n\nSurrounding the stadium, there are numerous parking lots filled with cars, indicating that this is a popular venue with many visitors. The parking lots are organized into several sections, each with its own designated areas for different types of vehicles.\n\nAdjacent to the stadium, there are several buildings, including what appear to be warehouses or storage facilities"
+ },
+ {
+  "image_id": "06348_0000.png",
+  "reference": "The aerial image sourced from Google Earth displays a baseball field bordered by patches of trees and adjacent grassy areas. Its diamond-shaped infield is prominent, with clear base paths and a rounded pitching mound at the center. The overall landscape is dotted with trees and open green spaces.",
+  "prediction": "The image is an aerial view of a baseball field. The field is surrounded by a mix of grass and dirt, with the infield being primarily dirt and the outfield being grass. The pitcher's mound is visible in the center of the infield, and there is a large area of dirt that appears to be part of the field's construction or maintenance.\n\nTo the left of the field, there is a cluster of trees, indicating a wooded area nearby. On the right side of the field, there is a small building or shed, which could be used for storage or as a dugout. There are also some smaller structures or sheds scattered around the"
+ },
+ {
+  "image_id": "11263_0000.png",
+  "reference": "The image, sourced from GoogleEarth, features a desert landscape with at least two windmills visible. The terrain is mostly barren with dirt tracks crisscrossing the area. There is no explicit resolution specified for the image. One windmill is positioned towards the left side of the image and another towards the right side.",
+  "prediction": "The image appears to be an aerial view of a desert landscape with several objects scattered across it. Here is a detailed description:\n\n1. **Desert Landscape**:\n   - The terrain is predominantly sandy and arid, typical of a desert environment.\n   - There are no visible vegetation or water sources.\n\n2. **Roadways**:\n   - Two main roads are visible in the image.\n   - One road runs horizontally across the middle of the image, curving slightly towards the right.\n   - Another road runs diagonally from the bottom left corner to the top right corner, intersecting the horizontal road at a point near the center"
+ },
+ {
+  "image_id": "10323_0000.png",
+  "reference": "This is an aerial photo from GoogleEarth. It features an airplane positioned on a tarmac with a clear view of its wings and fuselage. There are no other objects or detailed information provided about the surroundings.",
+  "prediction": "The image is an aerial view of an airplane on a runway. The airplane appears to be a commercial jet, identifiable by its size and the presence of multiple windows along its fuselage. The aircraft is positioned diagonally across the frame, with its nose pointing towards the top left corner and its tail towards the bottom right corner.\n\nThe runway surface is clearly marked with yellow lines that form a grid pattern, which is typical for airport runways to guide aircraft during takeoff and landing. The surrounding area outside the runway is not visible due to the perspective from above, but it seems to be a flat, open space, likely part of an airport"
+ },
+ {
+  "image_id": "09865_0000.png",
+  "reference": "This aerial image from GoogleEarth shows a rural landscape with a mix of fallow agricultural fields in varying shades of brown, scattered houses with blue roofs, and a network of roads intertwining throughout. Notably, there is an expressway-toll-station situated on the left side of the image.",
+  "prediction": "The image appears to be an aerial view of a rural area, likely captured from a satellite or drone. The landscape is predominantly agricultural, with fields that are divided into plots and sections. There are several small buildings and structures scattered across the fields, which could be farmhouses, storage sheds, or other rural infrastructure.\n\nA notable feature in the image is a winding road that cuts through the fields. This road seems to be a major thoroughfare, possibly connecting different parts of the rural area. The road is well-defined and appears to be paved, indicating it might be used for both agricultural and transportation purposes.\n\nIn the background, there are more"
+ },
+ {
+  "image_id": "08273_0000.png",
+  "reference": "An aerial view from GoogleEarth shows a mixed landscape with a bridge in the bottom right corner and expressway service areas, surrounded by patches of green vegetation. Among the objects, there is a bridge that stands out due to its distinct location in the image.",
+  "prediction": "The image appears to be an aerial view of a landscape that includes both natural and man-made features. Here is a detailed description:\n\n1. **Natural Features**:\n   - **Mountains and Hills**: There are several hills and mountains visible, with varying shades of green indicating different vegetation types.\n   - **Lakes and Ponds**: There are at least two large bodies of water, possibly lakes or ponds, located near the center and towards the bottom left of the image.\n\n2. **Man-Made Structures**:\n   - **Roads and Highways**: There are multiple roads and highways visible, including a major highway running horizontally"
+ },
+ {
+  "image_id": "08911_0000.png",
+  "reference": "This aerial image sourced from GoogleEarth displays a section of an area with varied land use including agriculture, structures, and a significant expressway service area. Notable details include a large expressway service area featuring parking lots and buildings, situated predominantly from the central to the right portion of the image. Vehicles can be seen parked within the boundaries of the service area.",
+  "prediction": "The image appears to be an aerial view of a large industrial or commercial complex. The layout includes multiple buildings and structures, with a prominent central building that seems to be a warehouse or factory. Surrounding this central structure is a large parking lot filled with numerous cars, indicating significant vehicular activity.\n\nTo the left of the central building, there is a smaller building that could be a maintenance facility or another type of industrial unit. The area around these buildings is mostly open, with some greenery visible, including trees and possibly some agricultural fields or farmland.\n\nThe road network is extensive, with multiple lanes and intersections, suggesting that this area is"
+ },
+ {
+  "image_id": "P2404_0028.png",
+  "reference": "This is a high-resolution Google Earth image, showcasing a landscape with a mixture of agricultural fields, buildings, and a water body. On the right side, there's a bridge spanning the lower portion of the image, connecting two landmasses across the water. The natural and built environments are juxtaposed, with the green hues of the agricultural area contrasting against the grays and whites of the buildings.",
+  "prediction": "The image appears to be an aerial view of a landscape that includes both natural and man-made elements. Here is a detailed description:\n\n1. **Natural Elements**:\n   - **Forests and Vegetation**: The area is densely covered with trees and vegetation, indicating a forested region. The greenery suggests a mix of deciduous and evergreen trees.\n   - **Ponds and Water Bodies**: There are several small water bodies visible within the forested area. These could be ponds or small lakes, contributing to the biodiversity of the region.\n\n2. **Man-Made Structures**:\n   - **Buildings and Structures**: There"
+ },
+ {
+  "image_id": "06077_0000.png",
+  "reference": "The image from GoogleEarth showcases a maritime scene, prominently featuring two ships in a body of water. One sizable ship occupies a majority of the top half of the frame with its deck filled with structures and equipment. Below it, towards the center, lies a smaller ship.",
+  "prediction": "The image appears to be an aerial view of a large ship docked at a pier or terminal. The ship has a distinctive shape with a pointed bow and a flat stern, typical of cargo ships used for transporting goods. The hull of the ship is painted in a reddish-brown color with yellow markings that likely indicate cargo areas or loading points.\n\nThe ship is moored alongside a concrete pier or platform, which extends into the water. The pier has a rectangular shape and is equipped with various structures, possibly for loading and unloading cargo. There is also a smaller boat visible near the ship, which could be used for maintenance or small"
+ },
+ {
+  "image_id": "P6687_0051.png",
+  "reference": "The aerial image showcases a high-resolution view of a terrain with patches of green foliage and dirt paths. Located in the top-right corner of the image are five small vehicles parked near a structure with a dark roof.",
+  "prediction": "The image appears to be an aerial view of a rural or suburban area. The scene includes a dirt road that runs diagonally from the bottom left to the top right of the image. On the left side of the road, there is a grassy area with some trees and bushes. \n\nOn the right side of the road, there is a parking lot with several cars parked along the edge. The parking lot is adjacent to a building with a blue sign on its roof. The building has a white exterior and a red roof. There are also some smaller structures or sheds visible near the building.\n\nThe overall setting suggests a quiet, possibly residential"
+ },
+ {
+  "image_id": "P0170_0008.png",
+  "reference": "The high-resolution image from GoogleEarth depicts a section of an airport tarmac with a small planes. The planes are parked in rows. The top-right area of the image features a plane located at the top-most position on the tarmac, while the right side of the image contains another plane that is the bottom-most. There's a plane positioned on the left-most edge. The image shows a clear demarcation of parking spaces and good tarmac condition.",
+  "prediction": "The image is an aerial view of an airport runway and taxiway area. There are several small aircraft parked on the tarmac. The aircraft appear to be single-engine planes, likely used for training or recreational flying. The runway is marked with yellow lines, indicating taxiways and runways. The surrounding area includes grassy patches and some paved sections, typical of an airport environment. The overall scene suggests a small regional or private airport."
+ },
+ {
+  "image_id": "P0583_0007.png",
+  "reference": "The high-resolution image from GoogleEarth shows a small ship located at the bottom-left section of the frame. The image also captures two distinct harbors: one is located towards the center, and the other is positioned on the left side of the image.",
+  "prediction": "The image appears to be an aerial view of a small body of water, possibly a lake or a pond, surrounded by land. The water is relatively calm with some ripples visible on the surface. \n\nOn the left side of the image, there is a long, narrow dock extending into the water. The dock is made of wood and has a few steps leading down to the water. The dock is bordered by a concrete wall that runs parallel to it.\n\nTo the right of the dock, there is a large, dark area that could be a field or a wetland. The ground in this area is uneven and covered with what looks"
+ },
+ {
+  "image_id": "P1566_0031.png",
+  "reference": "This high-resolution grayscale image provided by JL features an urban area with a complex network of roads and various buildings. Notably, there is a small bridge located towards the top middle of the image. Surrounding the bridge, the landscape is a mixture of residential areas with distinct housing and commercial zones.",
+  "prediction": "The image appears to be an aerial view of a city or urban area, captured in black and white. The layout is characterized by numerous roads and streets that intersect at various angles, forming a grid-like pattern. There are several buildings visible, some of which have distinct rooftops and windows. The buildings vary in size and shape, indicating a mix of residential, commercial, and possibly industrial structures.\n\nThe roads are clearly defined with clear demarcations, suggesting well-maintained infrastructure. There are also some larger areas that might be parks or open spaces, indicated by the absence of buildings and the presence of greenery. The overall scene gives"
+ },
+ {
+  "image_id": "09433_0000.png",
+  "reference": "The image from GoogleEarth captures an aerial view of a school with a distinctive basketball court located on the right side of the frame. The basketball court clearly stands out due to its contrasting color and lines marked for the game.",
+  "prediction": "The image appears to be an aerial view of a building with a flat roof. The building has multiple sections, each with its own distinct roof shape and size. The central part of the building has a rectangular section with a smaller, square-shaped roof on top. This central section is surrounded by other parts of the building, which have different roof shapes and sizes.\n\nTo the right of the central section, there is a smaller rectangular area with a flat roof. Adjacent to this area, there is another section with a sloped roof, which seems to be part of a larger structure or complex.\n\nIn the bottom right corner of the image,"
+ },
+ {
+  "image_id": "10751_0000.png",
+  "reference": "This overhead image sourced from GoogleEarth captures a brown body of water partially constrained by a linear dam structure. There are no specific details provided about the resolution. The dam is located at the bottom-right of the image.",
+  "prediction": "The image appears to be an aerial view of a large body of water, possibly a river or a lake, with a significant amount of sediment or mud covering its surface. The water is brownish-red, indicating the presence of silt or clay. There are several structures visible along the shoreline, including what looks like a dam or levee on the right side of the image. This structure has a rectangular shape and is built parallel to the water's edge.\n\nOn the left side of the image, there is a large area that seems to be a flat, open space, possibly a field or a plain. The ground in this area is"
+ },
+ {
+  "image_id": "10079_0000.png",
+  "reference": "The image sourced from GoogleEarth showcases a dense urban area interspersed with several recreational fields. The central focus is a small, uniquely featured ground track field surrounded by greenery located near the center of the image. Additionally, there are multiple small baseball fields visible, with one highlighted baseball field positioned towards the top-middle on the right side, distinguishable as the right-most field in that cluster.",
+  "prediction": "The image appears to be an aerial view of a suburban area, likely taken from a satellite or drone. The layout is characterized by a mix of residential and commercial properties.\n\n1. **Residential Areas**: \n   - The majority of the image shows densely packed houses with varying sizes and colors. These houses are arranged in rows and blocks, typical of suburban neighborhoods.\n   - There are several large green spaces interspersed among the houses, which could be parks or community gardens.\n\n2. **Commercial Areas**:\n   - In the center of the image, there is a more open space that includes a large rectangular area, possibly a sports"
+ },
+ {
+  "image_id": "07413_0000.png",
+  "reference": "The image provided appears to be a satellite view from Google Earth showing an outdoor area that includes a small basketball court with visible court markings and hoops. The surrounding area has sections of grass, pathways, and structures indicative of a park or recreational facility.",
+  "prediction": "The image appears to be an aerial view of a residential area with a basketball court. Here are the details:\n\n1. **Basketball Court**: The central feature is a basketball court, which is clearly marked with lines and markings typical for a standard basketball court. The court is surrounded by a paved area.\n\n2. **Sidewalks and Pathways**: There are multiple sidewalks and pathways visible around the basketball court. These pathways are likely used for walking or jogging.\n\n3. **Trees and Vegetation**: There are several trees and patches of grass visible in the area. Some trees have bare branches, suggesting it might be late autumn or"
+ },
+ {
+  "image_id": "P2331_0020.png",
+  "reference": "This high-resolution image from GoogleEarth shows a water body with a harbor and multiple small ships anchored near the shore.",
+  "prediction": "The image appears to be an aerial view of a large body of water, possibly a lake or a reservoir, with a dock or pier extending into it. The water is calm and reflects the surrounding landscape. \n\nOn the left side of the image, there is a small boat moored at the dock. The dock itself is made of concrete and has a railing along its edge. There is also a signpost near the dock, but the text on the sign is not clearly visible from this angle.\n\nThe area around the dock is bordered by a concrete wall or levee, which separates the water from the land. The land adjacent to the"
+ },
+ {
+  "image_id": "P5789_1365.png",
+  "reference": "This high-resolution grayscale image from GF features an urban landscape with a clear view of a baseball diamond located in the middle left part of the image. The baseball diamond is surrounded by various buildings and tree-lined streets. It is a small-sized object relative to the scale of the image.",
+  "prediction": "The image appears to be an aerial view of a residential area. The layout is characterized by numerous houses and buildings, which are arranged in a grid-like pattern. The streets are clearly visible, forming a network that connects the various properties.\n\nIn the foreground, there is a large, open space that could be a park or a recreational area. This space is surrounded by trees and greenery, providing a natural contrast to the more structured urban environment. The trees are evenly spaced, contributing to the overall aesthetic of the area.\n\nThe houses and buildings vary in size and design, indicating a mix of different architectural styles. Some houses have flat roofs,"
+ },
+ {
+  "image_id": "09997_0000.png",
+  "reference": "The image from GoogleEarth features a ship positioned in a body of water. The color and other visual characteristics of the image are ambiguous due to its lack of clarity and unspecified resolution.",
+  "prediction": "The image appears to be an aerial view of a rocket or spacecraft, likely taken from space or from a high altitude. The rocket is positioned vertically and is emitting a trail of smoke or exhaust, indicating it is either launching or has recently launched. The rocket's body is predominantly white with some dark markings or logos on its side. The background is dark, suggesting it was taken at night or during low-light conditions. The overall scene gives a sense of motion and power, typical of a rocket launch."
+ },
+ {
+  "image_id": "09611_0000.png",
+  "reference": "An aerial image from Google Earth showcasing a built environment with an array of structures, including dense residential and commercial areas with buildings packed closely together on the left side, and a small train station located on the right side of the image. The river near the left edge undulates along next to the dense building patterns. The train station has multiple tracks, and there are a few rectangular buildings at the station.",
+  "prediction": "The image is an aerial view of a cityscape, likely captured from a satellite or high-altitude drone. The scene includes various urban elements such as buildings, roads, and infrastructure.\n\n1. **Buildings**: \n   - On the left side, there are densely packed residential buildings with multiple stories. These buildings appear to be typical of urban housing, with uniform facades.\n   - In the center, there is a large, modern building with a distinctive white facade and a flat roof. This building could be a commercial or institutional structure.\n   - To the right, there are more industrial or commercial buildings with flat roofs and large windows"
+ },
+ {
+  "image_id": "10506_0000.png",
+  "reference": "The image, sourced from GoogleEarth, features a small windmill situated in the lower right quadrant. The surrounding area has a weathered texture.",
+  "prediction": "The image appears to be an aerial view of a desert landscape, likely taken from space or a high-altitude aircraft. The terrain is predominantly sandy and arid, with some areas showing signs of human activity.\n\nIn the foreground, there is a long, narrow structure that resembles a road or a path. This structure runs horizontally across the image, curving slightly as it extends into the distance. The road is bordered by a small embankment on one side and a more pronounced one on the other, suggesting it might be part of a larger road network or a significant route.\n\nTo the right of the road, there is a smaller,"
+ },
+ {
+  "image_id": "10222_0000.png",
+  "reference": "An aerial image from GoogleEarth showcases a prominent chimney with visible emissions on the right, accompanied by several vehicles in different parts of the image. One vehicle is situated nearby on the top-left corner, and another vehicle is located toward the middle-left of the image, closer to the bottom edge.",
+  "prediction": "The image appears to be an aerial view of a large, cylindrical structure with a dome-like top, which resembles a nuclear power plant or a similar industrial facility. The structure is surrounded by a well-maintained area with green grass and pathways. There are several buildings and structures visible around the main cylindrical object, including what looks like a control room or administrative building.\n\nIn the foreground, there is a person wearing a helmet and a dark outfit, possibly engaged in some form of work or inspection near the cylindrical structure. The person's feet are clad in black shoes, and they appear to be standing on a raised platform or elevated surface.\n\nThe"
+ },
+ {
+  "image_id": "08933_0000.png",
+  "reference": "This aerial image from GoogleEarth shows a sports complex with a prominent baseball field occupying a large portion of the frame. The baseball field features a diamond-shaped infield with a dirt surface and a larger surrounding grassy outfield.",
+  "prediction": "The image appears to be an aerial view of a sports complex, likely a school or community center. The layout includes several distinct areas:\n\n1. **Baseball Field**: On the left side of the image, there is a baseball field with a dirt infield and a grass outfield. The pitcher's mound is visible near the center of the infield.\n\n2. **Track and Field Area**: To the right of the baseball field, there is a running track with red lanes. The track is adjacent to a rectangular area that could be used for various athletic activities or events.\n\n3. **Parking Lot**: In the middle of the image, there is"
+ },
+ {
+  "image_id": "11468_0000.png",
+  "reference": "The image, sourced from GoogleEarth, showcases a small windmill located in the bottom-right section with its blades extending almost to the edge of the image.",
+  "prediction": "The image appears to be a close-up of a textured surface, possibly sand or a similar material. The texture is rough and uneven, with small indentations and variations in color. There is a long, thin object that resembles a needle or a thin stick lying on the surface. The object has a metallic sheen, suggesting it might be made of metal or coated with a reflective material. The background is predominantly beige or light brown, consistent with the appearance of sand or a similar natural surface. The overall scene gives an impression of a natural, outdoor setting."
+ },
+ {
+  "image_id": "P0589_0008.png",
+  "reference": "The image sourced from GoogleEarth features a high-resolution aerial view of a harbor. The harbor is uniquely shaped and gives a glimpse of infrastructure that is adjoining a larger water body, as seen by the presence of docks extending into the water.",
+  "prediction": "The image appears to be an aerial view of a river or water body with a narrow strip of land running parallel to it. The land is covered with vegetation, including trees and shrubs, which vary in color from green to brown, indicating different types of plants or possibly seasonal changes.\n\nA long, straight path or road runs along the edge of the water, cutting through the vegetation. The path seems to be well-maintained, suggesting it might be used for transportation or access to the surrounding area. The water itself is relatively calm, with no visible waves or disturbances on the surface.\n\nThe surrounding environment includes a mix of natural and possibly"
+ },
+ {
+  "image_id": "05985_0000.png",
+  "reference": "The remote sensing image from GoogleEarth shows a landscape with visible natural features and an artificial structure. There is one windmill structure discernable within this landscape. The surroundings of the windmill consist of undetermined natural terrain with variations in color and texture.",
+  "prediction": "The image appears to be an aerial view of a small airstrip or landing area situated in a relatively flat, open landscape. The airstrip is made of dirt and shows signs of wear and use, with visible tire tracks and patches of grass growing along its edges.\n\nThere are three aircraft visible in the image:\n1. A small airplane positioned on the left side of the airstrip. It has a white fuselage with some dark markings and appears to be stationary.\n2. Another small airplane is located towards the right side of the airstrip. This one also has a white fuselage but is partially obscured by the terrain and appears to be"
+ },
+ {
+  "image_id": "06538_0000.png",
+  "reference": "The satellite image sourced from GoogleEarth features an aerial view of an urban area. Dominating the scene is a small stadium with an oval shape and a sizable green field, located in the lower-right portion of the image. Around the stadium, various buildings are scattered. The surroundings indicate a densely built environment with no visible natural landscapes within the immediate vicinity.",
+  "prediction": "The image appears to be an aerial view of a cityscape featuring two distinct areas: a large, rectangular building with a central garden and a smaller, circular stadium.\n\n1. **Large Rectangular Building**:\n   - The building is predominantly rectangular with a flat roof.\n   - It has a central garden area that includes a variety of plants and trees, forming a square pattern.\n   - Surrounding the garden, there are several smaller buildings or structures, possibly administrative or service buildings.\n   - The building is surrounded by a mix of residential and commercial buildings, indicating it might be a significant public or institutional facility.\n\n2. **Circular Stadium"
+ },
+ {
+  "image_id": "09421_0000.png",
+  "reference": "This aerial image provided by GoogleEarth displays three tennis courts aligned horizontally.",
+  "prediction": "The image shows an aerial view of a sports complex featuring three tennis courts. The courts are rectangular and have blue surfaces with white boundary lines, indicating standard tennis court dimensions. Each court is separated by a black net that runs horizontally across the middle of the court.\n\nIn the foreground, there is a basketball court marked with white lines on a green surface. This court appears to be smaller than the tennis courts and has a different color scheme. The basketball court is surrounded by a concrete perimeter, which is likely part of the sports complex's infrastructure.\n\nThe surrounding area around the courts is paved with asphalt, and there is a grassy area adjacent to"
+ },
+ {
+  "image_id": "P1283_0056.png",
+  "reference": "The high-resolution image, captured by a GF source, depicts a dark scene where visibility is low. Within this scene, a single small ship is visible in the middle-right of the frame.",
+  "prediction": "The image appears to be a black and white photograph or an abstract representation of a scene with a significant amount of smoke or fog. The central focus is on a small, rectangular object that resembles a bottle or a can, positioned towards the right side of the image. The background is predominantly dark, with varying shades of gray and black, creating a sense of depth and mystery. The overall composition suggests a dramatic or intense atmosphere, possibly indicating a scene of distress or urgency."
+ },
+ {
+  "image_id": "09022_0000.png",
+  "reference": "An aerial view provided by GoogleEarth shows a residential area with individual houses, a green space with trees, and a tennis court. The houses have orange roofs and are arranged on either side of the green space, and the tennis court is positioned at the bottom of the image.",
+  "prediction": "The image is an aerial view of a residential area with several distinct features. \n\n1. **Buildings and Roofs**: The area is dominated by multiple houses, identifiable by their rooftops. The roofs are primarily brown, suggesting they might be made of asphalt shingles or similar materials.\n\n2. **Paved Areas**: There are several paved sections visible, including a large circular driveway or parking area on the left side of the image. This area appears to be well-maintained and is likely used for vehicle access.\n\n3. **Tennis Court**: In the center-right part of the image, there is a tennis court. The"
+ },
+ {
+  "image_id": "10585_0000.png",
+  "reference": "The image provided is sourced from GoogleEarth and displays a large overpass extending across the view. The distinct yellow markings on the road indicate traffic lanes, and their straight orientation suggests a structured traffic flow.",
+  "prediction": "The image is an aerial view of a highway intersection. The roads are divided by a median strip, which is a green area with some grass and small bushes. The road on the left side of the median has two lanes going straight ahead and one lane turning right. The road on the right side of the median also has two lanes going straight ahead and one lane turning right. Both roads have yellow dividing lines and white lane markings. There are no visible vehicles or pedestrians in the image. The surrounding area appears to be relatively flat, with some vegetation and possibly some buildings or structures at the far end of the image."
+ },
+ {
+  "image_id": "P5789_0981.png",
+  "reference": "This high-resolution grayscale image captured by a GF-source features a landscape predominantly covered by cloud cover with visible architectural structures. A ground-track-field, with a elongated shape and visible lanes, is located towards the right side of the visible area, surrounded by buildings.",
+  "prediction": "The image appears to be an aerial view of an urban area, possibly taken from a drone or satellite. The scene is dominated by a large cloud of smoke rising from a specific location within the city. This smoke is concentrated in a particular area, suggesting that there might be a fire or some kind of industrial activity causing the smoke.\n\nThe surrounding area includes various buildings and structures. Some buildings have flat roofs, while others have more complex architectural designs. There are also some green spaces visible, such as parks or gardens, which are interspersed among the buildings. The roads and streets are clearly marked, indicating a well-developed urban infrastructure."
+ },
+ {
+  "image_id": "09317_0000.png",
+  "reference": "The image is a Google Earth capture featuring a single small basketball court located in the bottom-right corner of the frame. The surrounding area includes patches of greenery and a playground.",
+  "prediction": "The image appears to be an aerial view of a rural or suburban area. The main features include:\n\n1. **Road**: A long, straight road runs horizontally across the image. It is bordered by grassy areas on both sides.\n2. **Grass Fields**: There are several patches of grassy fields on either side of the road. These fields are likely used for various purposes such as sports, recreation, or farming.\n3. **Trees and Vegetation**: On the right side of the road, there is a dense area of trees and vegetation. This could be a forested area or a large tree line.\n4. **"
+ },
+ {
+  "image_id": "P1973_0014.png",
+  "reference": "The high-resolution image from GoogleEarth depicts a parking area with various large and small vehicles. There are four large vehicles positioned towards the left side of the image. There are vehicles parked one after another along the bottom edge. The parking spots are delineated.",
+  "prediction": "The image appears to be an aerial view of a parking area with several vehicles and buildings. Here is a detailed description:\n\n1. **Parking Area**:\n   - The parking area is paved and has multiple lanes, each marked with white lines.\n   - There are several vehicles parked in the lanes. The vehicles include cars and possibly a truck or van.\n\n2. **Buildings**:\n   - On the right side of the image, there is a large building with a flat roof. This building has a rectangular shape and appears to be made of concrete or metal.\n   - Adjacent to this building, there is another structure that looks"
+ },
+ {
+  "image_id": "08761_0000.png",
+  "reference": "The image, sourced from GoogleEarth, displays a section of an airport tarmac with a small airplane visible on the ground.",
+  "prediction": "The image appears to be an aerial view of an airport runway and taxiway system. The runway is clearly marked with white lines, indicating its boundaries and direction. There are several taxiways intersecting the runway, which are also marked with white lines. \n\nIn the foreground, there is a small aircraft flying over the runway. The aircraft has a single propeller at the front and is likely a light aircraft, possibly used for training or general aviation purposes. The surrounding area is mostly flat and open, suggesting it might be a rural or less densely populated region.\n\nThe overall layout of the airport is well-defined, with clear demarcations for"
+ },
+ {
+  "image_id": "09870_0000.png",
+  "reference": "The satellite image from GoogleEarth features an urban area with a prominent stadium occupying a significant area in the lower half of the image. The stadium has a large oval shape with multiple entrances and seating tiers visible. Surrounding the stadium, there are areas with trees, multiple buildings, and parking lots filled with vehicles to the left and top. The rest of the image includes residential areas with houses and roads weaving through the greenery.",
+  "prediction": "The image is an aerial view of a large stadium, likely a football (soccer) stadium given its size and shape. The stadium has a rectangular field with a green pitch, surrounded by a seating area that appears to be covered with a dark material, possibly for shade or protection from the elements. The seating area extends around the perimeter of the field.\n\nSurrounding the stadium, there is a parking lot filled with numerous cars, indicating that the stadium is quite popular and well-attended. The parking lot is adjacent to the stadium and extends outward, suggesting it is designed to accommodate a significant number of visitors.\n\nTo the left of the"
+ },
+ {
+  "image_id": "P1007_0023.png",
+  "reference": "This high-resolution image from Google Earth shows six harbors stretching along the coastline, with jetties extending into the water. On the left side of the image, one small ship is docked near the left-most harbor.",
+  "prediction": "The image appears to be a nighttime scene featuring several tall, slender structures that resemble streetlights or lampposts. These structures are evenly spaced and extend upwards into the dark sky. The background shows a hilly or mountainous landscape with some vegetation visible at the base of the hills. The lighting is minimal, suggesting it might be early evening or late night. The overall atmosphere is somewhat eerie due to the darkness and the sparse illumination."
+ },
+ {
+  "image_id": "P5789_2847.png",
+  "reference": "The high-resolution grayscale image provided by GF features an urban setting with dense buildings and a unique baseball diamond located in the middle-right of the frame. The baseball diamond is small in size with a distinctive infield and outfield clearly visible.",
+  "prediction": "The image appears to be an aerial view of a large industrial or commercial complex. The layout is rectangular and includes multiple buildings, some of which have flat roofs and others with pitched roofs. There are several roads and pathways that intersect within the complex, indicating a well-planned infrastructure.\n\nIn the foreground, there is a prominent building with a flat roof, surrounded by smaller structures. To the right, there is a large circular area that could be a parking lot or a service area for vehicles. This area has a grid-like pattern, suggesting it might be used for organizing and managing vehicles efficiently.\n\nThe surrounding area outside the complex shows a mix of"
+ },
+ {
+  "image_id": "07627_0000.png",
+  "reference": "This is an aerial image from Google Earth showing a dam constructed across a body of water. The image captures the dam's elongated structure that occupies a significant portion of the image, connecting to landmasses on either side.",
+  "prediction": "The image appears to be an aerial view of a large body of water, likely a lake or reservoir, with a dam or levee structure running along its edge. The water is dark blue and calm, indicating it might be deep or still. \n\nOn the left side of the image, there is a strip of land that seems to be part of the shore or a riverbank. This area has some vegetation, including trees and shrubs, which are more densely packed towards the center and then become sparser as they extend towards the water.\n\nTo the right of the dam, there is a more developed area with what looks like a road"
+ },
+ {
+  "image_id": "P1275_0013.png",
+  "reference": "The grayscale image of high resolution, sourced from 'GF', captures an industrial or construction area next to a body of water. In the bottom left, on the water's edge, there is a small-sized ship that appears to be docked.",
+  "prediction": "The image appears to be an aerial view of an urban area, possibly taken from a satellite or drone. The scene is predominantly composed of roads, buildings, and green spaces. Here are some detailed observations:\n\n1. **Roads and Infrastructure**:\n   - There are multiple roads visible, including a large main road that runs horizontally across the image.\n   - Smaller roads and pathways intersect at various points, forming a network of transportation routes.\n\n2. **Buildings**:\n   - Various buildings are scattered throughout the area, indicating a mix of residential, commercial, and possibly industrial structures.\n   - Some buildings appear to be multi-story"
+ },
+ {
+  "image_id": "P2294_0000.png",
+  "reference": "The medium-resolution image from GoogleEarth shows a coastal area with a distinct water body on one side and land on the other, featuring two small harbors and two ships. The first harbor, located towards the top of the image, is adjacent to the coastline. The second harbor, positioned centrally to the right in the image, is larger than the first and is at the intersection of various land elements. One small ship can be seen in the water near the bottom of the image, to the middle-left, while another is situated towards the top-middle, closer to the edge of the water body.",
+  "prediction": "The image appears to be an aerial view of a coastal area with several distinct features:\n\n1. **Water Body**: There is a large body of water, likely a river or a bay, occupying the left side of the image. The water has a smooth surface with gentle ripples, indicating calm weather conditions.\n\n2. **Dock**: On the right side of the image, there is a dock extending into the water. The dock is made of concrete and has a railing along its edge. A small boat is moored at the end of the dock, suggesting that this area is used for recreational boating or fishing.\n\n3. **Road"
+ },
+ {
+  "image_id": "08471_0000.png",
+  "reference": "The image sourced from GoogleEarth shows a densely forested landscape with a distinct golf course carving through the greenery. The golf course has a large footprint extending from near the center to the right side of the image, surrounded by the dense tree cover.",
+  "prediction": "The image appears to be a satellite or aerial view of a landscape that includes both natural and man-made features. Here is a detailed description:\n\n1. **Natural Features**:\n   - **Vegetation**: The majority of the area is covered with dense green vegetation, indicating a forested region. The greenery suggests a mix of deciduous and coniferous trees.\n   - **Streams and Rivers**: There are several small streams and rivers visible, winding through the landscape. These water bodies add to the natural beauty and complexity of the terrain.\n   - **Hills and Mountains**: The terrain is hilly, with undulating hills"
+ },
+ {
+  "image_id": "P1513_0014.png",
+  "reference": "A high-resolution satellite image from Google Earth depicts a section of an airport with two small airplanes. The airplanes are parked on the tarmac.",
+  "prediction": "The image appears to be an aerial view of an airport runway. There are two airplanes visible on the tarmac. The airplane closer to the camera is positioned diagonally, with its nose pointing towards the bottom right corner of the image and its tail towards the top left. This plane has a white fuselage with dark wings and tail. The second airplane is further back on the runway, also positioned diagonally but with its nose pointing towards the top left corner of the image and its tail towards the bottom right. This plane is also white with dark wings and tail.\n\nThe runway itself is a large, flat expanse with a grid pattern,"
+ },
+ {
+  "image_id": "09247_0000.png",
+  "reference": "This color image from GoogleEarth showcases a segment of an overpass intersecting with roads, surrounded by patches of vegetation. The overpass is visible with a concrete structure, casting a shadow beneath.",
+  "prediction": "The image appears to be an aerial view of a highway or road with multiple lanes. The road is divided by a central divider, and there are two lanes visible on each side of the divider. The lanes are marked with dashed lines, indicating they are for traffic moving in both directions.\n\nOn the left side of the image, there is a dense area of greenery, likely trees or bushes, which contrasts sharply with the gray asphalt of the road. The right side of the image shows more of the road, with a few more lanes visible, but they are not as clearly defined as those on the left.\n\nThere are no vehicles or people"
+ },
+ {
+  "image_id": "P0217_0001.png",
+  "reference": "The high-resolution image from GoogleEarth displays a section of an airport tarmac showcasing two small planes. The planes are separated by a considerable gap, with one situated closer to the top edge of the image, the other is closer to the bottom edge.",
+  "prediction": "The image appears to be an aerial view of an airport runway or taxiway. There are two airplanes visible on the ground, both positioned at different distances from the camera's perspective. The airplanes are relatively small due to the distance and the scale of the image.\n\nThe runway or taxiway is marked with various lines and markings, including dashed lines that likely indicate taxiways or runways. There are also yellow markers placed along the edge of the runway or taxiway, which could be used for navigation or safety purposes.\n\nThe surrounding area includes some grassy patches and possibly other infrastructure typical of an airport, such as buildings or hangars, though"
+ },
+ {
+  "image_id": "P1246_0038.png",
+  "reference": "This high-resolution grayscale image, captured by a GF source, displays two ships in open water. The top-most ship is positioned with a portion overlapping onto the darker water. A second, slightly larger ship is situated along the bottom-right edge of the image.",
+  "prediction": "The image appears to be an aerial view of a landscape, possibly taken from a drone or satellite. The terrain is predominantly covered with dark green vegetation, suggesting a dense forest or a heavily wooded area. There are no visible roads, buildings, or other man-made structures within this section of the image.\n\nIn the bottom right corner, there is a small circular object that could be a well or a pond, surrounded by some vegetation. The rest of the image shows a mix of dark and light green areas, indicating variations in the density or type of vegetation. The overall scene is quite uniform, with no distinct patterns or features that stand out."
+ },
+ {
+  "image_id": "P0007_0004.png",
+  "reference": "The aerial image, sourced from GoogleEarth with high resolution, shows a parking lot with large vehicles arranged neatly in rows. Most of the large vehicles are white, and they are predominantly parked in a north-south alignment. There is a large vehicle at the left edge of the road.",
+  "prediction": "The image appears to be an aerial view of a parking lot or a similar area with several vehicles and structures. Here is a detailed description:\n\n1. **Vehicles**:\n   - There are multiple trucks parked in the lot. The trucks vary in size and color, but they all seem to be commercial vehicles.\n   - One truck is prominently visible on the left side of the image, closer to the foreground.\n   - Another truck is partially visible on the right side of the image.\n\n2. **Structures**:\n   - Several large, rectangular structures are lined up parallel to each other in the middle of the image. These structures"
+ },
+ {
+  "image_id": "09283_0000.png",
+  "reference": "The aerial image captured from Google Earth depicts a section of terrain with a clear view of an expressway and associated service area. The expressway runs vertically through the image and is flanked by parcels of land with vegetation. Adjacent to the expressway on the bottom-left side, there is an expressway service area that appears as a developed patch with structures and parking areas.",
+  "prediction": "The image appears to be an aerial view of a road or highway, with a significant portion of it covered by debris and rubble. The road is divided into two lanes by a central divider, which is also filled with debris. On the left side of the road, there is a large pile of rocks and other materials, suggesting that some kind of construction or natural disaster has occurred. The surrounding area is relatively barren, with sparse vegetation visible in the distance.\n\nThere is a vehicle on the right side of the road, partially obscured by the debris. The vehicle seems to be a truck, possibly involved in the incident that caused the debris to accumulate"
+ },
+ {
+  "image_id": "11236_0000.png",
+  "reference": "This overhead image from GoogleEarth shows a large ship docked at the top of the image, along with several airplanes parked at the bottom right area. Across the scene, various small airplanes are visible, positioned either on or near the tarmac. Among the airplanes, one stands out as being the largest of the small airplanes in the bottom-right corner. The image captures the presence of docks, tarmac, and water bodies, suggesting an area that might be a combination of a maritime port and an airport.",
+  "prediction": "The image appears to be an aerial view of a dock area with several boats and aircraft. Here is a detailed description:\n\n1. **Dock Area**:\n   - The dock extends horizontally across the image, connecting two bodies of water.\n   - The dock is made of wood or concrete and has a series of piers extending into the water.\n\n2. **Boats**:\n   - There are multiple boats visible on the dock and in the water.\n   - One boat is prominently visible on the left side of the dock, closer to the camera.\n   - Another boat is partially visible on the right side of the dock, near the"
+ },
+ {
+  "image_id": "P1178_0014.png",
+  "reference": "The image, sourced from GoogleEarth with high resolution, depicts a small aircraft parked at the bottom right of a tarmac area, surrounded by designated circles that indicate parking grounds. There are also dark, curved lines visible, likely indicating taxiways.",
+  "prediction": "The image appears to be a close-up of a control panel or interface, possibly from an electronic device such as a gaming console, smart home device, or a piece of industrial equipment. The panel has a grid-like pattern with several circular buttons and indicators.\n\n1. **Top Row:**\n   - There is a single button at the top left corner.\n   - To its right, there is another button that is illuminated, indicating it might be active or selected.\n\n2. **Middle Row:**\n   - There are three buttons aligned horizontally.\n   - The leftmost button is not illuminated.\n   - The middle button is illuminated, suggesting"
+ },
+ {
+  "image_id": "P2330_0106.png",
+  "reference": "The image, sourced from GoogleEarth, features a solitary small ship navigating through a body of water with a cloudy background. The ship is situated at the bottom-left of the image.",
+  "prediction": "The image appears to be an aerial view of a body of water, possibly a lake or a sea, with a small boat floating on it. The water is relatively calm, with gentle ripples visible on the surface. The sky above is overcast, with a uniform grayish-blue color, suggesting that it might be a cloudy day. There are no distinct features or landmarks visible in the background, making it difficult to determine the exact location or size of the body of water. The boat is positioned towards the bottom left corner of the image, and its details are not very clear due to the distance and lighting conditions."
+ },
+ {
+  "image_id": "P3575_0002.png",
+  "reference": "The image, sourced from GoogleEarth, shows a recreational area with various amenities. It features three closely positioned tennis courts. There is also a top-most tennis court towards the upper right of the image, positioned diagonally from the middle-left to the right. In the bottom-right corner, there is a baseball diamond, with its shape slightly trimmed by the image boundary. Additionally, a small swimming pool is located near the bottom-left corner of the image. Scattered across the image are multiple small vehicles, with some positioned in the top-middle of the frame.",
+  "prediction": "The image appears to be an aerial view of a tennis court area within a residential or community setting. The main features include:\n\n1. **Tennis Courts**: There are multiple tennis courts visible, arranged in a rectangular pattern. The courts have distinct white lines marking the boundaries and service boxes.\n\n2. **Surrounding Area**: The tennis courts are surrounded by grassy areas and some trees. There is a small patch of dirt or sand near one of the courts, possibly indicating a practice area or a different type of surface.\n\n3. **Buildings**: To the left of the tennis courts, there is a building with a flat roof"
+ },
+ {
+  "image_id": "P1390_0033.png",
+  "reference": "The high-resolution image from GoogleEarth displays a line-up of small planes next to a runway. There are a total of six planes visible. The planes are aligned parallel to the runway, which features distinct yellow markings. The surrounding terrain is parched with some areas of sparse vegetation.",
+  "prediction": "The image is an aerial view of a runway with several aircraft parked on it. The runway appears to be part of an airfield, and the aircraft are arranged in a line parallel to the runway. There are five aircraft visible in the image:\n\n1. The first aircraft is positioned at the far left end of the runway.\n2. The second aircraft is slightly to the right of the first.\n3. The third aircraft is in the middle of the row.\n4. The fourth aircraft is to the right of the third.\n5. The fifth aircraft is at the far right end of the runway.\n\nAll the aircraft have their wings extended and"
+ },
+ {
+  "image_id": "P0844_0002.png",
+  "reference": "The high-resolution image from GoogleEarth showcases an area with two tennis courts adjacent to a building. One tennis court is bottom-most, while the other is positioned towards the top right corner.",
+  "prediction": "The image is an aerial view of a building with a tennis court attached to it. The building has a red exterior and appears to be a multi-story structure. The tennis court is located on the upper level of the building, with its net clearly visible. The ground around the tennis court is paved, and there are several flags planted at intervals along the sidewalk adjacent to the court. The surrounding area includes some greenery, including trees and grassy areas. The overall scene suggests that this is a recreational facility or a school with sports facilities."
+ },
+ {
+  "image_id": "11233_0000.png",
+  "reference": "This image, sourced from GoogleEarth, captures a segment of land with a well-defined baseball field at the middle-right side and a ground track field occupying a large space with red tracks at the left side. Trees border the top of the image, with clearings and paths surrounding the recreational areas. Adjacent to the baseball field, there are several small structures, possibly related to sports activities.",
+  "prediction": "The image is an aerial view of a sports complex featuring multiple athletic fields and facilities. The main feature is a large, well-maintained track with a curved running path, surrounded by a grassy area. The track appears to be part of a larger athletic complex.\n\nTo the right of the track, there is a baseball field with a dirt infield and a grass outfield. The infield is clearly defined with white lines marking the bases. There is also a small section of a baseball diamond visible within the infield.\n\nAdjacent to the baseball field, there is a smaller, rectangular field that could be used for various sports or activities. This field has"
+ },
+ {
+  "image_id": "P6687_0021.png",
+  "reference": "This high-resolution aerial image features a highway with lanes traveling in different directions, bordered by a dense area of foliage on one side. There are five small vehicles on the highway, some traveling closer to the center while others are near the edges of the roadway.",
+  "prediction": "The image depicts an aerial view of a multi-lane highway. The road is divided into several lanes by white dashed lines, and there are guardrails on both sides. The left side of the road has a green median strip with some vegetation, while the right side is lined with dense green trees. \n\nThere are five vehicles visible on the highway:\n1. A yellow car is traveling in the middle lane.\n2. A white car is in the far left lane.\n3. Another white car is in the far right lane.\n4. A blue car is in the second lane from the left.\n5. A white car is in the"
+ },
+ {
+  "image_id": "07356_0000.png",
+  "reference": "The image, sourced from GoogleEarth, depicts a waterfront with two small ships docked near a large pier that extends into the water, with lush greenery on the opposite side of a road running parallel to the shore. The absence of a clear image resolution prevents detailing of the image's quality. One ship is located at the topmost position at the pier, while the other is situated to the right side of the pier.",
+  "prediction": "The image is an aerial view of a river or waterway with a road running parallel to it on the left side. The road appears to be a two-lane highway, with a yellow dividing line and a solid white line marking the center. The road is bordered by a grassy area on the left and a rocky or muddy shore on the right.\n\nOn the right side of the road, there is a large structure that looks like a dock or pier extending into the water. This structure has a flat surface at the top, which might be used for loading or unloading cargo. There are several vertical pipes or conduits running along the"
+ },
+ {
+  "image_id": "P1598_0040.png",
+  "reference": "The grayscale aerial image sourced from JL depicts a small airplane located on the right side of the frame. The image has a high resolution, allowing fine details of the airport's tarmac, taxiways, and surrounding terrain to be discerned.",
+  "prediction": "The image appears to be an aerial view of an airport, likely captured using a drone or satellite imagery. The main features visible include:\n\n1. **Runways and Taxiways**: There are multiple runways and taxiways clearly marked on the ground. The runways are long, straight, and parallel to each other, with taxiways connecting them.\n\n2. **Airplanes**: Several airplanes are visible on the runways and taxiways. They appear to be commercial aircraft, given their size and shape. Some planes are stationary, while others seem to be in motion.\n\n3. **Airport Terminal**: A large terminal building is visible at the"
+ },
+ {
+  "image_id": "P0047_0014.png",
+  "reference": "The image, sourced from GoogleEarth with high resolution, features a small baseball diamond situated in the top-left area. This baseball diamond have infield dirt and surrounding grassy outfield, and it is bordered by trees with a curving pathway adjacent to it. The scene includes green open spaces, a winding road, and trees scattered around the area.",
+  "prediction": "The image appears to be an aerial view of a park or recreational area. Here are the details:\n\n1. **Park Layout**:\n   - The park has a well-maintained grassy area with a curved path that runs through it.\n   - There is a paved walking path that curves around the park, providing a clear route for visitors.\n\n2. **Vegetation**:\n   - The park is surrounded by trees and shrubs, indicating a natural environment.\n   - Some areas have patches of bare ground, possibly due to seasonal changes or maintenance.\n\n3. **Structures**:\n   - There is a small structure on"
+ },
+ {
+  "image_id": "06468_0000.png",
+  "reference": "The image sourced from GoogleEarth shows a solitary ship floating on the water without visible resolution information. The ship is a significant visual element within the image.",
+  "prediction": "The image appears to be an aerial view of a large rectangular object, possibly a ship or a barge, floating on water. The object is positioned diagonally across the frame, with its longer side oriented from the top left to the bottom right. The water around the object shows ripples and waves, indicating movement or activity.\n\nThe object itself has a metallic structure, likely made of steel or aluminum, given its reflective surface. There are visible markings and numbers on the side of the object, which could be for identification or measurement purposes. The numbers \"1\" and \"2\" are prominently displayed, along with some smaller numerical values below"
+ },
+ {
+  "image_id": "10125_0000.png",
+  "reference": "The image from GoogleEarth shows a sports facility area featuring two basketball courts and one tennis court. The basketball courts are positioned parallel to each other, one in the upper half and the other in the lower half of the image. To the right side of the image, there is a tennis court placed perpendicularly to the basketball courts.",
+  "prediction": "The image is an aerial view of a sports complex featuring two distinct athletic fields. The larger field on the left appears to be a basketball court, identifiable by its standard markings including three key areas for shooting (three-point arcs), a center circle, and the free-throw line. The smaller field on the right seems to be a tennis court, as indicated by the net and the rectangular shape with marked lines.\n\nSurrounding these fields is a paved area that likely serves as a walking path or parking lot. The surrounding area includes grassy patches, which could be part of a larger park or recreational area. There are also some small structures"
+ },
+ {
+  "image_id": "P1434_0005.png",
+  "reference": "The high-resolution image from GoogleEarth showcases a parking area with a mix of large and small vehicles. There are three large vehicles visible, positioned mostly towards the bottom-left section of the image. Additionally, two small vehicles are clearly visible; one is located in the middle-left section and the other is towards the right edge of the image. The parking area is bordered by trees and buildings, creating a semi-enclosed space.",
+  "prediction": "The image appears to be an aerial view of a parking lot and surrounding area. Here is a detailed description:\n\n1. **Parking Lot**:\n   - The parking lot is paved with asphalt.\n   - There are several vehicles parked in the lot, including cars and trucks.\n   - The vehicles are arranged in a somewhat organized manner, with some spaces being empty.\n\n2. **Buildings**:\n   - On the right side of the image, there are buildings with flat roofs.\n   - One building has a large, rectangular structure that might be a garage or storage facility.\n   - Another building has a more traditional architectural style with a"
+ },
+ {
+  "image_id": "11217_0000.png",
+  "reference": "The aerial image provided by GoogleEarth shows a residential area with a single visible vehicle. Despite the lack of specific resolution details, the image captures a house with a distinct red roof and a nearby roadway. A cluster of trees is also visible beside the house, and various terrain textures are observable around the area.",
+  "prediction": "The image appears to be an aerial view of a rural or suburban area. The main features visible include:\n\n1. **Buildings**: There are several buildings, including a prominent structure with a red roof and a smaller building nearby. These structures seem to be residential or small commercial properties.\n\n2. **Roadways**: A road runs horizontally across the image, dividing the scene into two main sections. The road is relatively wide and appears to be well-maintained.\n\n3. **Vegetation**: There is significant vegetation, including trees and bushes, which cover much of the area between the buildings and the road. This suggests a mix of"
+ },
+ {
+  "image_id": "P2701_0013.png",
+  "reference": "The high-resolution image sourced from GoogleEarth showcases a small harbor extending towards the east with a concrete waterfront. Adjacent to the harbor are four small storage tanks, some located in the middle-right of the frame and others further right, clustered together in a compact formation.",
+  "prediction": "The image appears to be an aerial view of a large industrial or commercial complex situated near a body of water, possibly a lake or river. The structure is characterized by multiple buildings and structures arranged in a somewhat linear fashion along the waterfront.\n\nKey features include:\n1. **Buildings and Structures**: There are several rectangular buildings with flat roofs, some of which have red-tiled roofs. These buildings are likely warehouses, factories, or storage facilities.\n2. **Parking Lots**: Large parking areas are visible, indicating that this area is used for vehicle access and parking.\n3. **Waterfront**: The complex is adjacent to a body of water"
+ },
+ {
+  "image_id": "09737_0000.png",
+  "reference": "The image is from GoogleEarth and shows a residential area with houses surrounded by greenery and a road intersecting the scene. There are two vehicles parked along the side of the street. The vehicles are small and are located in the top-left quadrant of the image.",
+  "prediction": "The image is an aerial view of a residential area. The scene includes several houses with distinct rooftops, some of which have visible windows and balconies. The houses are surrounded by well-maintained lawns and gardens, with various types of plants and shrubs. There is a paved road that runs through the center of the image, flanked by sidewalks on either side. On the right side of the road, there is a tennis court with a red roof. The overall setting appears to be a suburban neighborhood with a mix of greenery and residential structures."
+ },
+ {
+  "image_id": "P1410_0019.png",
+  "reference": "The image sourced from GoogleEarth shows a high-resolution view of a baseball diamond. The diamond is situated on the right side of the frame with a small infield and outfield. The surrounding area is a mix of sandy terrain and well-maintained grass, with some visible structures such as a backstop behind home plate and a dugout along one side of the field.",
+  "prediction": "The image is an aerial view of a baseball field, likely captured from a drone or satellite. The field is well-maintained with green grass and clearly marked for baseball play. The infield is surrounded by a dirt path, and there are several white bases visible, including home plate and first base. \n\nIn the outfield, there are multiple black lights installed, which are typically used for night games to illuminate the field. There are also several trees and shrubs around the perimeter of the field, providing some natural landscaping. \n\nTo the left of the field, there is a parking area with several cars parked, indicating that this field is accessible"
+ },
+ {
+  "image_id": "10383_0000.png",
+  "reference": "The image, sourced from GoogleEarth, shows a recreational area with two baseball fields adjacent to one another. The top-most baseball field is enclosed within a curved yellow line that denotes its boundary. The bottom-most baseball field is larger than the top one and is similarly enclosed within a boundary line. There are no visible structures such as spectator stands or buildings within the confines of the baseball fields, and pedestrian paths are adjacent to both fields..",
+  "prediction": "The image is an aerial view of a baseball field. The field is surrounded by a yellow boundary line, indicating the perimeter of the playing area. The infield, which includes the pitcher's mound and bases, is clearly marked with white lines. The outfield is also demarcated with similar lines.\n\nIn the foreground, there are several white rectangular structures, likely dugouts or storage areas for equipment. These structures are arranged along the sides of the field, providing shelter for players and coaches during breaks or when not actively playing.\n\nThe surrounding area includes a paved path that runs parallel to the field, likely for walking or jogging. There are also some"
+ },
+ {
+  "image_id": "06002_0000.png",
+  "reference": "The image sourced from GoogleEarth features two overpasses. The overpasses are displayed running horizontally across the bottom of the image. The top overpass is notably larger than the bottom one.",
+  "prediction": "The image appears to be an aerial view of a road or highway. The road is divided into multiple lanes, with visible lane markings and a solid white line separating the lanes. There is a noticeable curve in the road, indicating a bend or turn. The road surface looks smooth and well-maintained.\n\nOn the right side of the road, there is a large, dark object that resembles a vehicle, possibly a truck or a bus, but it is not clearly identifiable due to the angle and distance. The surrounding area includes some greenery, including grassy fields and trees, suggesting a rural or semi-rural setting. The overall scene"
+ },
+ {
+  "image_id": "P1179_0032.png",
+  "reference": "The high-resolution image sourced from GoogleEarth captures an area with adjacent tarmac and a street lined with buildings. Several small vehicles are visible on the street. One notable vehicle is situated in the left-most part of the group.",
+  "prediction": "The image appears to be an aerial view of a small airport or airfield. The main features visible include:\n\n1. **Runway**: On the left side of the image, there is a long, straight runway with yellow markings indicating taxiways and runways. The runway extends horizontally across the image.\n\n2. **Buildings**: There are several buildings scattered around the area:\n   - A large building with a red roof is located near the center-right of the image.\n   - Another building with a similar red roof is situated closer to the bottom right corner.\n   - A smaller structure with a brown roof is positioned near the center-left"
+ },
+ {
+  "image_id": "08606_0000.png",
+  "reference": "The image provided comes from GoogleEarth and features an industrial area with various structures. There is a chimney located at the bottom of the image, and a vehicle is situated in the middle-right section. The surroundings contain buildings of varying sizes and a road on left and right sides.",
+  "prediction": "The image appears to be an aerial view of an industrial or commercial area. Here are the details:\n\n1. **Buildings and Structures**:\n   - There are several buildings with different architectural styles.\n   - Some buildings have flat roofs, while others have sloped roofs.\n   - The structures vary in size and shape, indicating a mix of industrial and possibly commercial uses.\n\n2. **Roadways and Pathways**:\n   - There are multiple roads and pathways visible.\n   - The roads are well-defined, suggesting they are used for heavy traffic or industrial purposes.\n   - Some pathways appear to be pedestrian-only or less trafficked."
+ },
+ {
+  "image_id": "P1672_0040.png",
+  "reference": "The high-resolution image captured by JL features a transportation hub with visible infrastructure such as a roundabout and plane. A roundabout is situated in the middle-left part of the image. Towards the bottom of the image, there is a plane.",
+  "prediction": "The image appears to be an aerial view of a large industrial or commercial complex, possibly a factory or warehouse district. The layout is characterized by multiple rows of buildings and structures, with some buildings having flat roofs and others with more complex architectural designs.\n\nKey features include:\n1. **Buildings and Structures**: There are numerous rectangular buildings arranged in a grid-like pattern. Some buildings have flat roofs, while others have sloped roofs.\n2. **Roadways and Intersections**: The area is intersected by several roads and pathways, indicating a well-planned infrastructure for transportation and logistics.\n3. **Parking Lots and Warehouses**: There are"
+ },
+ {
+  "image_id": "P1452_0003.png",
+  "reference": "High-resolution aerial image sourced from GoogleEarth displaying a compound with various large vehicles and industrial elements. In the middle-left of the image, the most top-most large vehicle is visible. Another large vehicle is located to the right side in the middle-left section and is partially cropped.",
+  "prediction": "The image appears to be an aerial view of a dock or marina area. Here are the details:\n\n1. **Dock Area**:\n   - There is a series of boats docked at the pier.\n   - The boats are arranged in rows, with some closer to the camera and others further away.\n   - The boats vary in size, with some being larger and more prominent.\n\n2. **Pier and Dock Structures**:\n   - The pier extends into the water, supported by concrete piers.\n   - There are several large structures on the pier, possibly for maintenance or storage.\n   - The dock area is surrounded by"
+ },
+ {
+  "image_id": "06315_0000.png",
+  "reference": "The image, sourced from GoogleEarth, features an aerial view of a sports complex with a large ground track field visible. The track field includes lanes, a central grassy area, and a soccer field with visible boundary lines and a center circle. Surrounding the track field, there are patches of grass and dirt areas.",
+  "prediction": "The image appears to be an aerial view of a sports complex, likely located in a rural or suburban area. Here is a detailed description:\n\n1. **Main Field**: \n   - The central feature of the image is a large soccer field. It has standard markings for a soccer field, including the goalposts at each end and the center circle.\n   - The field is surrounded by a paved running track that curves around it.\n\n2. **Track**:\n   - The running track is made of asphalt and is designed for various track and field events. It is wide enough to accommodate multiple lanes for running.\n   - The track is bordered"
+ },
+ {
+  "image_id": "10438_0000.png",
+  "reference": "Overhead view of an urban area from GoogleEarth featuring a small stadium with a green field surrounded. Surrounding the stadium, there are various buildings, roads, and patches of vegetation.",
+  "prediction": "The image is an aerial view of a sports complex, likely a stadium or athletic field. The main feature is a large, well-maintained grassy area that appears to be a soccer field, as indicated by the white lines marking the boundaries and center circle. Surrounding the field are several buildings, including what looks like a main building with a flat roof and a smaller structure nearby.\n\nTo the left of the field, there is a large green area that could be a park or another sports facility. This area has a few trees and appears to have a walking path or jogging track running through it. There are also some smaller buildings and"
+ },
+ {
+  "image_id": "08489_0000.png",
+  "reference": "An aerial view of a residential area captured by Google Earth showing a basketball court placed adjacent to a housing development. The court is marked with the standard lines and circles for gameplay. Surrounding the court, there are discernible pathways and greenery.",
+  "prediction": "The image appears to be an aerial view of a residential area with a basketball court. Here are the details:\n\n1. **Residential Area**:\n   - The area is divided into several rectangular plots, likely representing individual houses or units.\n   - The plots are separated by pathways and some have trees planted in them.\n\n2. **Basketball Court**:\n   - The court is located at the bottom right corner of the image.\n   - It has standard markings for a basketball court, including the free-throw line, three-point arc, and the key.\n   - The court is surrounded by a paved area, possibly a driveway or"
+ },
+ {
+  "image_id": "08049_0000.png",
+  "reference": "This aerial image from GoogleEarth features an airport tarmac with clearly marked lanes and a large airplane positioned on it.",
+  "prediction": "The image is an aerial view of an airport runway. The runway appears to be made of asphalt and is marked with various lines and symbols, including taxiways and runways. There is a large airplane on the runway, positioned near the center of the image. The airplane has a distinctive design with a large fuselage and multiple engines. The surrounding area includes a grassy section on the left side of the runway, which is likely part of the airport's maintenance or storage facilities. The overall scene suggests that the airport is operational, with aircraft either preparing for takeoff or having just landed."
+ },
+ {
+  "image_id": "P1541_0036.png",
+  "reference": "The high-resolution image provided by JL depicts a grayscale aerial view of a landscape. It features a distinctive small bridge located towards the top-middle area of the frame.",
+  "prediction": "The image appears to be a black and white photograph of a person's hand holding a smartphone. The perspective is from above, looking down at the hand and the phone. The background is blurred, making it difficult to discern specific details about the surroundings. The focus is on the hand and the phone, which are positioned in the center of the image. The lighting suggests an indoor setting with artificial light. The overall composition gives a sense of intimacy and personal connection, possibly indicating that the person is using the phone for communication or browsing."
+ },
+ {
+  "image_id": "10688_0000.png",
+  "reference": "The image sourced from GoogleEarth shows a small basketball court at the bottom, a couple of distinct vehicles, and surrounding infrastructure including roads and possibly a park area with no specified image resolution. The basketball court is marked with white lines and has a hoop at one of its ends. At least four vehicles are evident in the area - one of which is the right-most on the top side, one is positioned as the bottom-most vehicle out of those visible, and another is located in the top-left region of the scene. Surrounding the court and vehicles are patches of green that could indicate grassy areas, as well as sections that appear to be sandy playgrounds.",
+  "prediction": "The image appears to be an aerial view of a residential area with several notable features:\n\n1. **Playground**: There is a playground area in the foreground, featuring various play structures and equipment. The playground is surrounded by a grassy area.\n\n2. **Basketball Court**: Adjacent to the playground, there is a basketball court with visible markings and a hoop. The court is also surrounded by a grassy area.\n\n3. **House**: In the background, there is a house with a driveway and a garage. The house has a flat roof and is situated on a sloped lot.\n\n4. **Street**: A street runs"
+ },
+ {
+  "image_id": "P2330_0051.png",
+  "reference": "The image from GoogleEarth features three small ships on a body of water. There are three ships with one being at the center and the other on the middle-right side of the frame. The other two ships are at the top section of the lighter side.",
+  "prediction": "The image appears to be a close-up of a small, elongated object with a dark background. The object has a metallic or reflective surface with some greenish or teal-colored markings or patterns on it. The markings seem to have a slightly raised texture and are arranged in a linear fashion along the length of the object. The overall appearance suggests that this could be a piece of jewelry, such as a ring or a pendant, or possibly a small tool or instrument. The lighting is dim, which makes the details of the markings more pronounced."
+ },
+ {
+  "image_id": "07748_0000.png",
+  "reference": "An aerial view of an area from GoogleEarth with a basketball court and parking spaces visible. The basketball court is lined with red and enclosed by a fence. Adjacent to the basketball court, there is a parking lot where two vehicles are parked. One vehicle is positioned towards the top of the parking lot, and the other is positioned in the middle-right area near the bottom of the parking lot.",
+  "prediction": "The image is an aerial view of a basketball court and surrounding area. The basketball court is rectangular with a standard layout, including three-point lines, free-throw lines, and a center circle. The court is surrounded by a red border.\n\nTo the left of the basketball court, there is a parking lot with several white parking spaces marked on the ground. A single car is parked in one of these spaces. The parking lot appears to be adjacent to the basketball court.\n\nIn the background, there are trees and some greenery, indicating that the location might be in a park or a recreational area. There are also a few more cars parked"
+ },
+ {
+  "image_id": "P0217_0003.png",
+  "reference": "The high-resolution image from Google Earth shows an airport with small planes parked at the tarmac. The planes are positioned in close proximity to the airport buildings. One small plane is positioned at the bottom right portion of the image. The image captures small vehicles located on the top side of the image. The airport surroundings include roadways and parking areas.",
+  "prediction": "The image is an aerial view of an airport tarmac with several airplanes parked and taxiing. The scene includes multiple aircraft, including commercial jets and smaller planes, positioned at various points on the runway and taxiways. The tarmac is surrounded by buildings, likely hangars or terminal facilities, which have a modern architectural design. There are also some vehicles visible, possibly ground support equipment or maintenance vehicles, scattered around the area. The surrounding environment appears to be urban, with roads and buildings visible in the background. The overall layout suggests a busy airport with active operations."
+ },
+ {
+  "image_id": "P1356_0009.png",
+  "reference": "High-resolution grayscale image sourced from GF revealing several ships within a coastal area. There are at least four ships present, positioned towards the left side of the image, with one ship located in the top-left corner nearly parallel to the frame and another at the bottom. The specified area exhibits a mix of irregular and geometric shapes.",
+  "prediction": "The image appears to be an aerial view of a rural or agricultural area. The landscape is predominantly flat, with various types of land use visible.\n\n1. **Foreground**: \n   - On the left side of the image, there is a large, well-defined field that looks like it could be a crop field. The texture suggests it might be a field of crops such as corn or soybeans.\n   - Adjacent to this field, there is a narrow strip of what seems to be a road or path running parallel to the field.\n\n2. **Midground**:\n   - Moving towards the center and right side of the image,"
+ },
+ {
+  "image_id": "08029_0000.png",
+  "reference": "The image, sourced from GoogleEarth, displays a top-down view of an industrial area with storage tanks and pipeline infrastructure. There are three visible storage tanks of similar size, with two located towards the right and one on the bottom-left side of the image. The surrounding area is an open field with sections of dirt access roads intersecting at right angles and connecting the tanks and other facilities.",
+  "prediction": "The image appears to be an aerial view of an industrial facility, likely related to oil or gas storage. The main features include:\n\n1. **Storage Tanks**: There are three large spherical tanks visible in the image. These tanks are typically used for storing liquids such as crude oil, gasoline, or other petroleum products.\n2. **Piping and Pipelines**: Numerous pipes and pipelines are visible, connecting the tanks and possibly other parts of the facility. These are used for transferring liquids between the tanks and for internal operations within the facility.\n3. **Ground Infrastructure**: The ground is relatively flat with some patches of grass and dirt. There are"
+ },
+ {
+  "image_id": "P1086_0003.png",
+  "reference": "The high-resolution image from Google Earth showcases a recreational area with two adjacent tennis courts.",
+  "prediction": "The image is an aerial view of a tennis court area. The main feature is a large rectangular tennis court with a net running horizontally across it, indicating it is a doubles court. The court is surrounded by a paved path and is bordered by grassy areas on either side.\n\nTo the left of the main court, there is another smaller rectangular tennis court, also with a net. This suggests that this area might be used for singles play or practice sessions. Both courts have white boundary lines and are enclosed by a fence.\n\nIn the foreground, there is a large grassy area with some trees and shrubs scattered around. To the right of"
+ },
+ {
+  "image_id": "P0949_0007.png",
+  "reference": "The high-resolution image sourced from GoogleEarth depicts a two ships situated at the top-right corner.",
+  "prediction": "The image appears to be an aerial view of a body of water, possibly a lake or a large river. The water is relatively calm with slight ripples visible on the surface. There is a dock extending into the water from the right side of the image. The dock has two small boats tied up at its end. The boats are white and appear to be anchored securely. The surrounding area around the dock is not clearly visible due to the distance and the angle of the photograph. The overall color of the water is a dark greenish-blue, suggesting it might be a freshwater body."
+ },
+ {
+  "image_id": "07163_0000.png",
+  "reference": "The image sourced from GoogleEarth shows a portion of an expressway service area adjacent to a dense treeline, and an overpass crossing over the area near the top right. The service area cover a modest area with a mixture of structures and parking spaces.",
+  "prediction": "The image appears to be an aerial view of a large industrial or commercial complex. The structure is rectangular and covers a significant portion of the area, with multiple buildings and facilities visible. The buildings are mostly flat-roofed and seem to be made of concrete or similar materials.\n\nSurrounding the main complex, there are several smaller structures, possibly warehouses or storage units. The area is bordered by a road or highway on one side, which runs parallel to the edge of the complex. There are also some trees and green spaces within the vicinity, indicating that the complex is not entirely isolated from natural surroundings.\n\nThe surrounding landscape includes a mix of"
+ },
+ {
+  "image_id": "07286_0000.png",
+  "reference": "The image, sourced from Google Earth, shows an aerial view of a location with two small tennis courts positioned in the bottom right section. The courts are parallel to each other with one being the left-most and the other being the right-most in the image. Adjacent to the courts on the left, there is a large structure, possibly a building, and a wide road is seen running along the left edge of the image. The surrounding area includes grass and a few trees.",
+  "prediction": "The image appears to be an aerial view of a park or recreational area adjacent to a road. Here are the details:\n\n1. **Road**: On the left side of the image, there is a multi-lane road with clearly marked lanes and a median strip. The road seems to be well-maintained and has a smooth surface.\n\n2. **Park Area**: Adjacent to the road, there is a green space that looks like a park. The park includes several features:\n   - **Trees and Shrubs**: There are multiple trees and shrubs scattered throughout the park, providing shade and greenery.\n   - **Pathways"
+ },
+ {
+  "image_id": "P0466_0001.png",
+  "reference": "The aerial image from GoogleEarth shows a high-resolution view of a recreational area surrounded by vegetation. There are three tennis courts arranged vertically. The courts are small in size and share consistent coloring and markings.",
+  "prediction": "The image appears to be an aerial view of a building with a distinctive architectural design. The structure has a rectangular shape and is surrounded by greenery, including trees and bushes. The building's facade features large, rectangular windows that are divided into smaller sections, creating a grid-like pattern. The windows are predominantly blue, with some sections having a lighter shade, possibly indicating different materials or finishes.\n\nThe roof of the building is flat and extends outward, covering a significant portion of the structure. There is a small sign or label on the right side of the building, but the text on it is not clearly legible from this distance. The surrounding"
+ },
+ {
+  "image_id": "P0457_0004.png",
+  "reference": "The high-resolution image from GoogleEarth presents a birds-eye view of a location with a small parking area surrounded by trees and alongside a basketball court. A number of small vehicles are parked, and there's a distinct basketball court that is small in size, located towards the bottom left corner of the image. The court is adjacent to a tennis court.",
+  "prediction": "The image appears to be an aerial view of a residential area with several notable features:\n\n1. **Parking Lot**: There is a large parking lot adjacent to a building on the right side of the image. The parking lot has multiple lanes and is partially shaded by trees.\n\n2. **Building**: To the right, there is a multi-story building with a beige or light brown exterior. The building has a flat roof and is surrounded by greenery.\n\n3. **Basketball Court**: On the left side of the image, there is a basketball court. The court is marked with standard lines and has a green surface. It is located near"
+ },
+ {
+  "image_id": "10491_0000.png",
+  "reference": "Aerial view of a landscape from GoogleEarth showing a mix of agricultural fields with distinct cultivation patterns. Within the scene, two windmills are visible. One windmill is located in the bottom right of the image, while the other is positioned towards the top right.",
+  "prediction": "The image appears to be an aerial view of a rural landscape, likely taken from a satellite or drone. The scene includes several distinct features:\n\n1. **Fields and Farmland**: There are large, rectangular fields that appear to be agricultural land. These fields are divided into sections by rows, suggesting they are used for crop cultivation.\n\n2. **Trees and Vegetation**: In the background, there is a line of trees or dense vegetation, which contrasts with the open fields. This could indicate a boundary between different types of land use or a natural area.\n\n3. **Wetlands or Ponds**: There are several small bodies of water"
+ },
+ {
+  "image_id": "09806_0000.png",
+  "reference": "The image sourced from GoogleEarth presents an aerial view of agricultural fields with varying shades of brown and tan, displaying signs of harvesting. The patterns of the fields create a patchwork effect, with some fields showing more textured furrows than others. A solitary windmill is visible, situated in the top-right section of the image.",
+  "prediction": "The image appears to be an aerial view of a landscape, likely taken from a high altitude or using satellite imagery. The terrain is predominantly arid and barren, with a mix of flat and hilly areas. The color palette is dominated by shades of brown and beige, indicating dry, possibly desert-like conditions.\n\nKey features include:\n\n1. **Fields and Farmland**: There are several rectangular fields interspersed throughout the landscape. These fields are likely used for agriculture, given their organized layout and size. The fields vary in color, suggesting different types of crops or soil conditions.\n\n2. **Canyons and Gorges**: The terrain"
+ },
+ {
+  "image_id": "06767_0000.png",
+  "reference": "The image from GoogleEarth shows an aerial view of an airport setting with an airplane parked on the tarmac to the right side of the frame. The plane is small with its wings extending outward from a central fuselage. The surrounding area includes structures associated with airport operations.",
+  "prediction": "The image appears to be an aerial view of an airport tarmac. The ground is covered with a patterned surface, likely asphalt or concrete, which is typical for airport runways and taxiways. There are several objects visible on the tarmac:\n\n1. **Aircraft**: A part of an aircraft is visible on the right side of the image. It seems to be a commercial jet, identifiable by its size and shape. The aircraft is positioned at an angle, suggesting it might be preparing for takeoff or has just landed.\n\n2. **Ground Equipment**: There are several pieces of ground equipment scattered around the tarmac:\n   -"
+ },
+ {
+  "image_id": "06270_0000.png",
+  "reference": "The aerial image from GoogleEarth shows a scene dominated by an abundance of greenery and pathways winding through a park-like area. Notable features include a solitary tennis court in the bottom-right corner of the image. The surrounding area is dense with trees, and paths meandering around the foliage.",
+  "prediction": "The image is an aerial view of a park or recreational area. The main features include:\n\n1. **Trees and Vegetation**: The majority of the area is covered with dense green trees, indicating a forested or wooded section.\n2. **Pathways**: There are several pathways visible, some of which are paved and others that appear to be dirt or gravel. These paths are likely used for walking or jogging.\n3. **Sports Court**: On the right side of the image, there is a tennis court with a red surface. The court is surrounded by a green fence.\n4. **Parking Area**: In the middle-left part of"
+ },
+ {
+  "image_id": "09262_0000.png",
+  "reference": "This satellite image from Google Earth features a portion of a maritime environment with two distinct ships docked.The dark water surface takes up more than half the image area. The top-most ship is smaller compared to the ship at the bottom.",
+  "prediction": "The image appears to be an aerial view of a dock or pier area at night. The structure is illuminated by artificial lighting, which casts shadows and highlights various parts of the dock. There are several containers stacked on the dock, with some of them having visible labels and markings. The containers are likely used for shipping or storage purposes. The water surrounding the dock is dark, indicating it might be a body of water like a river or a bay. The overall scene suggests a busy port or industrial area where goods are handled and transported."
+ },
+ {
+  "image_id": "06732_0000.png",
+  "reference": "The image from GoogleEarth shows a section of an overpass on the bottom-right side. Adjacent to the overpass is an expressway service area that takes up a large portion of the image and displays complex structures including buildings with various rooftop colors, indicating different facilities and services provided at the location. The service area is bordered by a green space with dense vegetation on one side, providing contrast to the more developed areas.",
+  "prediction": "The image appears to be an aerial view of a small building complex situated near a forested area. The building complex consists of several structures, including what looks like a main building with a red roof and a smaller structure nearby. The main building has a rectangular shape and is surrounded by a paved area that includes a blue-tiled roof, possibly indicating a different function or purpose.\n\nTo the left of the main building, there is a dense forest with various shades of green, suggesting a mix of trees and possibly underbrush. The forest extends up a hillside, creating a natural boundary between the built environment and the surrounding landscape.\n\nIn the foreground"
+ },
+ {
+  "image_id": "P1390_0046.png",
+  "reference": "The high-resolution image sourced from GoogleEarth displays a group of three small planes situated on a tarmac. The left-most plane is positioned near the left edge of the frame, while the right-most plane is close to the center of the image. The third plane is located towards the bottom of the top left quadrant image. A curved dirt roadway is seen on the right side, cutting through the otherwise barren landscape around the parked aircraft.",
+  "prediction": "The image is an aerial view of several military transport aircraft parked on a dirt airstrip. The aircraft appear to be similar in design, with large wings and multiple engines. They are arranged in a row, facing the same direction. The ground is uneven and covered with patches of grass and dirt, indicating a rural or remote location. There are no visible buildings or other structures in the immediate vicinity. The overall scene suggests a military airfield or storage area for aircraft."
+ },
+ {
+  "image_id": "10232_0000.png",
+  "reference": "This color image sourced from GoogleEarth depicts an area with a variety of visible structures and vehicles. At the center, there is a large expressway service area spanning most of the image's width. A small overpass is observable towards the right side of the scene. Embed within the service area, a number of vehicles are parked in various locations, among them a larger vehicle stands out in the center, and a couple of vehicles are positioned on what appears to be a parking area to the right.",
+  "prediction": "The image appears to be an aerial view of a rural or suburban area. Here are the details:\n\n1. **Buildings and Structures**:\n   - There are several buildings with different roof colors, including blue, white, and brown.\n   - Some buildings have visible windows and doors.\n   - There is a large open space in the center that looks like a parking lot or a field.\n\n2. **Vegetation**:\n   - The area is surrounded by trees and greenery, indicating a mix of residential and natural environments.\n   - The trees are dense, suggesting a forested or wooded area nearby.\n\n3. **Infrastructure"
+ },
+ {
+  "image_id": "09610_0000.png",
+  "reference": "The image from GoogleEarth showcases a train station at the bottom part, surrounded by a variety of other infrastructure. Adjacent to the train station, there's a notable ground track field of a small size. The overall area is densely built with multiple buildings, indicating an urban environment.",
+  "prediction": "The image is an aerial view of a large urban area, likely a city or town. The scene includes several distinct features:\n\n1. **Buildings and Structures**:\n   - There are numerous buildings of varying sizes and heights. Some buildings have flat roofs, while others have sloped roofs.\n   - The buildings are closely packed together, indicating a densely populated area.\n   - There are also some open spaces between the buildings, possibly parking lots or small parks.\n\n2. **Roadways and Intersections**:\n   - The area is intersected by multiple roads and highways. These roads appear to be well-maintained and are likely"
+ },
+ {
+  "image_id": "P1809_0086.png",
+  "reference": "The high-resolution image from GoogleEarth presents a portion of an airport with a mix of paved areas and vegetated land. At least four small vehicles are identifiable, scattered across the tarmac and adjacent spaces. A cluster of trees in the center bisects the asphalt and concrete surfaces, creating visual contrast with the man-made elements around it.",
+  "prediction": "The image appears to be an aerial view of a small, densely vegetated area surrounded by urban infrastructure. Here is a detailed description:\n\n1. **Vegetation**: The central part of the image is dominated by a large, dense patch of greenery, likely a forest or a heavily wooded area. The vegetation is lush and appears to be well-maintained.\n\n2. **Urban Infrastructure**:\n   - **Buildings**: To the left of the vegetation, there are several buildings with flat roofs. These buildings have a utilitarian design, typical of industrial or commercial structures.\n   - **Roads and Parking Lots**: There are"
+ },
+ {
+  "image_id": "P1586_0015.png",
+  "reference": "This high-resolution grayscale image from JL features a dense urban area with a network of roads interspersed with buildings. Within the image is a small, distinct roundabout located at the center of the crossroad.",
+  "prediction": "The image appears to be an aerial view of a residential area, likely captured from a satellite or drone. The layout is grid-like, with streets forming a pattern that suggests a well-planned urban or suburban neighborhood. Here are some detailed observations:\n\n1. **Street Layout**: The streets are arranged in a grid pattern, creating a structured and organized appearance. The roads are clearly defined, with no visible intersections or junctions within this section of the image.\n\n2. **Buildings and Structures**: The buildings are mostly uniform in size and shape, indicating a homogeneous residential area. There are various types of structures, including single-family homes, apartment"
+ },
+ {
+  "image_id": "10678_0000.png",
+  "reference": "This aerial image from GoogleEarth features residential buildings with dark rooftops and a distinctive basketball court with red surface and white markings in the lower right corner.",
+  "prediction": "The image appears to be an aerial view of a basketball court located in an urban area. The court is rectangular and has a red surface with white lines marking the boundaries, including the three-point line, free-throw line, and key. There are two basketball hoops at each end of the court.\n\nSurrounding the court, there are several buildings, some of which have flat roofs. The buildings appear to be residential or commercial properties. The area around the court is paved, and there are sidewalks and pathways leading to the court. The overall scene suggests a community space where residents can engage in physical activities.\n\nThe image also shows some trees"
+ },
+ {
+  "image_id": "P2488_0022.png",
+  "reference": "This high-resolution image from GoogleEarth showcases a suburban area with a gridded street layout featuring numerous houses, each with distinct gardens and driveways. The image includes two swimming pools, both are small in size, located within residential backyards.",
+  "prediction": "The image is an aerial view of a residential area adjacent to a large open field or farmland. The houses are arranged in a grid-like pattern, with each house having a small yard and a driveway. The roofs of the houses are mostly dark-colored, possibly black or dark brown, and they are surrounded by green lawns.\n\nTo the left of the residential area, there is a large industrial building with a flat roof and multiple windows. This building appears to be part of a larger complex, as there are other structures visible in the background that are not clearly identifiable due to the distance and angle of the photograph.\n\nThe farmland to the"
+ },
+ {
+  "image_id": "08922_0000.png",
+  "reference": "The aerial image from Google Earth features a landscape with various elements commonly found in a rural area. In the center bottom part of the image, there's a small expressway toll station.",
+  "prediction": "The image appears to be an aerial view of a rural or semi-rural area. Here is a detailed description:\n\n1. **Roadways**:\n   - There are two main roads visible in the image.\n   - The road on the left side of the image is relatively wide and runs horizontally across the image. It has a dark surface, possibly asphalt, and is bordered by a strip of greenery on both sides.\n   - The road on the right side of the image is narrower and curves slightly. It also has a dark surface and is bordered by a strip of greenery on one side.\n\n2. **Buildings**:"
+ },
+ {
+  "image_id": "06944_0000.png",
+  "reference": "This aerial image from GoogleEarth captures part of an airport with a small airplane and a vehicle on the tarmac. The airplane is centrally located within the image, positioned on the ground with its wings extending across.",
+  "prediction": "The image is an aerial view of an airport tarmac. The main focus is on a large aircraft, likely a military transport plane, positioned on the runway. The aircraft has a distinctive shape with a high-wing design and a tail that extends upwards. It appears to be stationary.\n\nSurrounding the aircraft, there are several smaller objects, including what seem to be ground support vehicles and equipment. These vehicles are scattered around the perimeter of the aircraft, indicating ongoing maintenance or preparation activities.\n\nIn the background, there are buildings typical of an airport, including hangars and possibly control towers. The buildings have flat roofs and are constructed from concrete or"
+ },
+ {
+  "image_id": "09445_0000.png",
+  "reference": "The image, sourced from Google Earth, features two adjacent tennis courts with no specific resolution details provided. The courts are surrounded by a small parking area on the left and some greenery. The two courts can be distinguished from each other; one is positioned in the center, while the other is located closer to the right edge of the image.",
+  "prediction": "The image appears to be an aerial view of a tennis court. The court is rectangular and has a red surface with white boundary lines marking the playing area. The net is visible, dividing the court into two equal halves. Surrounding the court is a paved area, likely for spectators or additional courts. To the left of the court, there is a building with a flat roof and some vertical elements that could be part of a structure or utility lines. In the background, there are trees with green foliage, indicating it might be spring or summer. The overall scene suggests a well-maintained sports facility."
+ },
+ {
+  "image_id": "P2766_0044.png",
+  "reference": "The high-resolution Google Earth image depicts a predominantly industrial area with buildings and infrastructure. Prominently featured in the image is a storage tank located towards the middle-right of the frame.",
+  "prediction": "The image appears to be an aerial view of a cityscape, likely taken from a drone or satellite. The scene includes several buildings and structures, with a mix of residential and commercial properties. \n\n1. **Buildings**: \n   - There is a large building on the left side of the image that seems to be a commercial or industrial structure, possibly a warehouse or factory.\n   - Adjacent to this building, there is another structure with a flat roof and what looks like a parking area or loading dock.\n   - Further to the right, there is a building with a more traditional architectural style, featuring a sloped roof and multiple"
+ },
+ {
+  "image_id": "P1065_0002.png",
+  "reference": "The high-resolution image from GoogleEarth depicts a waterfront residential area with visible harbors and small vehicles. The harbors are small in size with one located at the top-most part of the image and the other at the bottom-most part. A small vehicle can be seen near the top-left corner of the image, and another is positioned at the bottom-left edge.",
+  "prediction": "The image is an aerial view of a residential area near a body of water, likely a lake or river. The scene includes several key elements:\n\n1. **Houses**: There are multiple houses visible, each with distinct rooftops and driveways. The houses appear to be well-maintained and are surrounded by greenery.\n\n2. **Driveways and Roads**: The houses have driveways leading up to their front yards. There is a paved road that runs parallel to the water's edge, with a sidewalk on one side. Another road is visible further back, also paved and lined with trees.\n\n3. **Trees and Veget"
+ },
+ {
+  "image_id": "11248_0000.png",
+  "reference": "The image provided by GoogleEarth shows a small bridge crossing over a water body. The bridge connects two pieces of land and is visible amidst surrounding greenery.",
+  "prediction": "The image appears to be an aerial view of a rural or suburban area. The main features include:\n\n1. **Road**: A paved road runs horizontally across the image, with a slight curve on the right side.\n2. **Vegetation**: On both sides of the road, there is a mix of greenery and some bare patches. The vegetation includes trees and bushes, with some areas appearing more lush than others.\n3. **Pavement**: There is a concrete or asphalt pavement along the edge of the road, which seems to be part of a sidewalk or a similar structure.\n4. **Drainage Channel**: Near"
+ },
+ {
+  "image_id": "08217_0000.png",
+  "reference": "The image, sourced from GoogleEarth, shows a small expressway-toll-station and two vehicles on its right side. The toll station is a prominent structure in the bottom-right regions of the image with blue roofing. the smaller of the two vehicles is located closest to the bottom edge of the image.",
+  "prediction": "The image appears to be a close-up of a metallic object, possibly a piece of hardware or machinery. The object has a rectangular shape with rounded edges and a shiny, reflective surface. There are visible lines and markings on the object, which could be part of its design or functional features. The background is blurred but seems to be an outdoor setting with some natural elements, such as dirt or gravel, suggesting that the object might be on the ground or in an industrial environment. The lighting in the image highlights the reflective properties of the metal, creating a slight glare on the surface."
+ },
+ {
+  "image_id": "P0613_0003.png",
+  "reference": "A high-resolution Google Earth image displays a water body with one small ship and two harbors. The harbors are positioned at the top and middle-right sections within the image, with the ship located between them.",
+  "prediction": "The image appears to be an aerial view of a dock area near a body of water, likely a lake or river. The main features include:\n\n1. **Dock**: There is a long wooden dock extending into the water from both the left and right sides of the image. The dock on the left side is closer to the viewer and has a boat tied up at its end.\n\n2. **Boat**: A small boat is visible on the dock on the left side, floating in the water near the end of the dock.\n\n3. **Beach Area**: On the right side of the image, there is a sandy beach area with"
+ },
+ {
+  "image_id": "P2330_0018.png",
+  "reference": "This image from GoogleEarth shows a dark ocean surface with four small ships visible. One ship is located in the top-left quadrant of the image, another in the center area, and the third is towards the top-right quadrant. The fourth ship overlaps with another in the bottom half of the image. Due to the dark background, the ships are clearly distinguished.",
+  "prediction": "The image appears to be a dark, almost black background with several small, elongated objects scattered across it. These objects resemble elongated, rectangular shapes that could be interpreted as abstract forms or possibly remnants of some other object. The colors of these shapes are muted and blend into the dark background, making them difficult to distinguish clearly. There is no clear pattern or alignment among the shapes, and they seem to be randomly distributed. The overall impression is one of minimalism and abstraction."
+ },
+ {
+  "image_id": "P1854_0024.png",
+  "reference": "The high-resolution image sourced from Google Earth depicts part of an airport tarmac with airplanes and vehicles. Two planes are seen in the image. Adjacent to these planes, there are small vehicles visible. There is a large vehicle located in the top-left part of the image.",
+  "prediction": "The image is an aerial view of an airport tarmac, showing two large commercial airplanes parked side by side. The airplanes appear to be mid-sized, likely regional or short-haul aircraft, given their size and design. Both planes have their engines visible, with one engine on each wing.\n\nThe tarmac is marked with various lines and symbols indicating different areas for aircraft operations. There are yellow lines marking the taxiways and runways, and some arrows pointing in specific directions, likely guiding aircraft movements. The ground is paved with asphalt, and there are several ground service vehicles and equipment scattered around the area, including baggage carts and fuel trucks."
+ },
+ {
+  "image_id": "P0882_0005.png",
+  "reference": "The high-resolution image from GoogleEarth shows a small tennis court surrounded by an area with dry grass and trees. The court is uniquely shaped and positioned in the left part of the image.",
+  "prediction": "The image appears to be an aerial view of a residential area with several notable features:\n\n1. **Tennis Court**: On the left side of the image, there is a tennis court. The court is rectangular and has a blue surface with white lines marking the boundaries.\n\n2. **Building**: Adjacent to the tennis court, there is a building with a sloped roof. The building has multiple windows and appears to be part of a larger complex or neighborhood.\n\n3. **Vegetation**: There are patches of green vegetation scattered throughout the area. Some areas have dense greenery, while others are more barren and brown.\n\n4."
+ },
+ {
+  "image_id": "11198_0000.png",
+  "reference": "The image from GoogleEarth shows a portion of an overpass and a vehicle on a road parallel to it. The road appears to run east-west, judging by the overpass's orientation. The overpass dominates the scene and is situated in the central area. A single vehicle can be seen on the road, positioned at the bottom-middle of the image.",
+  "prediction": "The image appears to be an aerial view of a road or highway. The road is divided into multiple lanes, with visible lane markings and a solid white line separating the lanes. There is a green arrow painted on the road, indicating a direction or lane change. The road is bordered by a median strip that separates it from the surrounding area. The surrounding area includes some vegetation and possibly some construction or maintenance work, as indicated by the presence of a large, rectangular structure that looks like a concrete slab or a part of a bridge. The overall scene suggests a well-maintained roadway in an urban or suburban setting."
+ },
+ {
+  "image_id": "P0929_0004.png",
+  "reference": "This high-resolution image sourced from GoogleEarth displays a coastal area with two small harbors. The top-most harbor is located towards the upper right corner. The bottom-most harbor, situated towards the lower-right part of the image.",
+  "prediction": "The image appears to be an aerial view of a dock or pier extending into a body of water, likely a lake or river. The dock is constructed with wooden planks and has a small ramp leading down to the water. There are several boats moored at the end of the dock, suggesting it is used for recreational boating.\n\nTo the right of the dock, there is a small building or shed, possibly used for storage or as a shelter for the dock area. The surrounding area includes some greenery and what appears to be a field or open land, indicating that this dock is located near a rural or suburban area.\n\nThe water"
+ },
+ {
+  "image_id": "09294_0000.png",
+  "reference": "The image sourced from GoogleEarth shows a small baseball field with distinct diamond-shaped brown infield and surrounding green outfield areas. The field is situated in the top-right sections of the image, featuring a pitching mound and bases visible on the infield. Adjacent to the baseball field, there is a circular structure, a roundabout, and several parking spaces delineated by white lines. There is also a building south of the field in the bottom-right sections of the image.",
+  "prediction": "The image is an aerial view of a baseball field and surrounding area. The field is rectangular with a dirt infield and grass outfield. The pitcher's mound is visible, and there are bases at each corner of the infield. The outfield has a few trees and some greenery.\n\nTo the left of the field, there is a parking lot with several cars parked. The parking lot is adjacent to a building that appears to be a clubhouse or administrative building for the baseball field. This building has a flat roof and is surrounded by a small grassy area.\n\nIn front of the clubhouse, there is a walkway leading up to the entrance. The"
+ },
+ {
+  "image_id": "P2169_0003.png",
+  "reference": "The GoogleEarth image depicts a wide highway running perpendicular to the view with multiple lanes and vehicles. To the left of the highway, an area of cleared land is. Dense greenery surrounds the highway and the cleared land. A medium-sized, rectangular swimming pool is situated at the bottom left of the image.",
+  "prediction": "The image appears to be an aerial view of a landscape featuring several distinct elements:\n\n1. **Highway**: On the left side of the image, there is a wide highway with multiple lanes. The road is clearly marked with white lines and has vehicles on it, though the specific details of the vehicles are not clear.\n\n2. **Pond**: To the left of the highway, there is a small pond or body of water surrounded by greenery. The water is relatively calm, and the surrounding area includes some trees and vegetation.\n\n3. **Dirt Area**: In the center-right part of the image, there is a large dirt"
+ },
+ {
+  "image_id": "09965_0000.png",
+  "reference": "The image from GoogleEarth showcases a structure resembling a chimney with a wide, round body tapering towards the top. The color of the chimney appears homogeneous, and it occupies a substantial portion of the image's central area.",
+  "prediction": "The image appears to be an aerial view of a tall building, likely a skyscraper or a tower. The structure is cylindrical and has a smooth, reflective surface, suggesting it might be made of glass or a similar material. The top of the building features a large, rounded dome-like structure, which could be part of the building's design or a separate feature such as a observation deck or a landmark.\n\nIn the background, there are numerous smaller buildings and structures, indicating that this skyscraper is located in an urban area. The streets and roads are visible, with vehicles moving along them, though they appear quite small due to the perspective from"
+ },
+ {
+  "image_id": "P0348_0004.png",
+  "reference": "The high-resolution image from GoogleEarth illustrates a small harbor extending over a body of water, identifiable by its position in the middle part of the image. There is small ship near the harbor. Adjacent to the harbor, on the bottom side, there is a building structure.",
+  "prediction": "The image appears to be an aerial view of a dock or pier extending into a body of water, likely a lake or river. The dock is made of wood and has a railing along its edge. On the dock, there is a small boat with a blue hull and white cabin. The boat is positioned near the end of the dock, facing away from the camera.\n\nTo the right of the dock, there is a long metal structure that extends into the water. This structure could be part of a larger infrastructure, such as a bridge or a support for a crane. The water surrounding the dock and the metal structure is calm, with no"
+ },
+ {
+  "image_id": "P1398_0015.png",
+  "reference": "The high-resolution image from GoogleEarth features a couple of parked small planes on a tarmac. The planes are shown with their distinctive blue and white liveries. They are oriented horizontally across the image and are approximately the same size relative to each other.",
+  "prediction": "The image appears to be an aerial view of several military aircraft lined up on a runway or tarmac. The aircraft are likely from the same type, as they have similar configurations and markings. The aircraft are positioned parallel to each other, with their noses pointing towards the bottom of the image. The ground beneath them is a mix of green and brown, suggesting it could be a grassy area or a field. The overall scene gives an impression of a military base or airfield."
+ },
+ {
+  "image_id": "10892_0000.png",
+  "reference": "This aerial view captured from GoogleEarth shows a small bridge over a body of water with two small vehicles on an adjacent road. The bridge is positioned in the upper half of the image, while the vehicles are aligned parallel to the bridge, one near the bottom-left corner and another towards the mid-right of the frame.",
+  "prediction": "The image appears to be an aerial view of a road with two police cars parked on it. The road is divided into multiple lanes, and there is a pedestrian crossing visible near the center of the image. The police cars are positioned at different points along the road, with one car closer to the left side and the other towards the right. The surrounding area includes some greenery and what looks like a small hill or embankment on the left side of the road. There is also a small structure or object on the left side of the road, but its details are not clear from this perspective."
+ },
+ {
+  "image_id": "P2645_0011.png",
+  "reference": "A high-resolution GoogleEarth image showing an industrial area. The image features a cluster of three storage tanks, with two having a white speckled pattern on their circular roofs and one being partially visible. A unique large vehicle is located on the top-left of the image.",
+  "prediction": "The image appears to be an aerial view of a large industrial facility, likely related to waste management or water treatment. The central feature is a series of large, circular structures that resemble settling tanks or digesters, commonly used in wastewater treatment plants. These tanks are surrounded by a concrete or asphalt perimeter and are connected by pipes and conduits.\n\nSurrounding the tanks, there is a well-maintained green area with trees and shrubs, indicating that the facility is located in a relatively urban or suburban setting. To the left of the tanks, there is a road with a sidewalk, and a train track runs parallel to it, suggesting"
+ },
+ {
+  "image_id": "10620_0000.png",
+  "reference": "The image, sourced from GoogleEarth, shows an aerial view featuring a highway with two visible vehicles and an overpass on the right side of the frame. There is a light-colored vehicle positioned closer to the top edge of the image and a dark-colored vehicle located towards the bottom edge. The highway have multiple lanes with clear lane markings. Adjacent to the highway, there are areas covered in trees.",
+  "prediction": "The image appears to be an aerial view of a road with multiple lanes, separated by yellow lines. There are two cars visible on the road:\n\n1. The car closest to the viewer is a blue and white vehicle.\n2. The other car is further down the road, closer to the center of the image.\n\nThe road is surrounded by greenery on one side, indicating a possible park or forested area. The road itself has a smooth surface with visible lane markings. The overall scene suggests a quiet, possibly suburban or rural setting."
+ }
+]

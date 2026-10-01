@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.zip
+# datasets and model caches are downloaded by the notebooks
+VRSBench/
+hf_files/
+Images_train/
+Images_val/

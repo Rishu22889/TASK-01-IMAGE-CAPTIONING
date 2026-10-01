@@ -1,0 +1,16 @@
+# Versions used on Kaggle (Python 3.12, CUDA 12.8). torchvision must match torch.
+torch>=2.8
+torchvision>=0.23
+transformers>=5.0,<6
+accelerate
+peft>=0.21
+torchao>=0.16          # recent PEFT versions refuse older torchao builds
+qwen-vl-utils
+huggingface_hub
+numpy
+pandas
+matplotlib
+jinja2                 # pandas Styler tables
+nltk                   # BLEU / METEOR
+rouge-score            # ROUGE-L (E0-E5 notebooks)
+bert-score             # BERTScore (E0-E5 notebooks)
